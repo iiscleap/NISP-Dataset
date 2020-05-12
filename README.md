@@ -41,8 +41,14 @@ There are five folders in "NISP" folder, where each native language folder has s
     │   ├──   └── English_hindi_txt
     
 For each Speaker ID the saving format of the file is like as follows :
-(Native language)_(Speaker ID)_(language recorded)_(gender)_(Utterance ID)
-Example: Hin_0001_Eng_f_0000
+
+for .wav files
+(Native language)_(Speaker ID)_(language recorded)_(gender)_(Utterance ID).wav
+Example: Hin_0001_Eng_f_0000.wav
+for .txt files (transcripts)
+(Native language)_(Speaker ID)_(language recorded)_(gender).txt
+Example: Hin_0001_Eng_f.txt
+
 
 The set of langauges recorded are named as follows:
 
@@ -54,3 +60,12 @@ The set of langauges recorded are named as follows:
 | Malayalam | Mal     |
 | Tamil     | Tam     |
 | Telugu    | Tel     |
+
+
+The details of the Speakers and Train and Test splits are given in 
+total_spkrinfo.list -- this file has the details like "Speaker_ID, Gender, Mother_Tongue, Height (cm), Shoulder_size (cm), Waist_size(cm), Weight(Kg), Age(y), Native_State, and  Native_District" 
+test_spkrID -- list of test speakers
+train_spkrID -- list of train speakers
+
+Note: Other lingusitic details and regional details are provided in individual files in each native language Master folder.
+
