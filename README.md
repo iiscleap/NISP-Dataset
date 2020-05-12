@@ -50,7 +50,6 @@ Example: Hin_0001_Eng_f_0000
 The set of langauges recorded are named as follows:
 
 | English   	| Eng 	|
-|-----------	|-----	|
 | Hindi     	| Hin 	|
 | Kannada   	| Kan 	|
 | Malayalam 	| Mal 	|
