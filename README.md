@@ -30,18 +30,25 @@ The recordings were performed in separate sessions for native language and Engli
 There are five folders in "NISP" folder, where each native language folder has speech files and corresponding transcripts files in "Scripts" folder.  The details of the folder is as follows
 Eg:
 NISP |
+<br>
      |-->Hindi_master
+     <br>
 	      |--> English_Hindi
+	      <br>
 		          |--RECS tar files
+			  <br>
 	      |--Hindi
+	      <br>
 		          |--RECS tar files
+			  <br>
 	      |--scripts
+	      <br>
 		          |--English_hindi_txt
+			  <br>
 		          |--HINDI_txt
+			  <br>
 
 
-The speech files can be found in separate native lan "NISP" folder according to each na speaker ID.
-Corresponding transcripts are stored in "transcripts" folder in UTF-8 format.
 
 For each Speaker ID the saving format of the file is like as follows :
 (Native language)_(Speaker ID)_(language recorded)_(gender)_(Utterance ID)
