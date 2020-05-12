@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4368	Whether Mr. Hun Sen will adopt a more conciliatory approach in his new term is a matter of speculation. 
+item4369	But Cambodians clearly need some respite, as they struggle to rebuild their nation.
+item4370	After the widespread destruction during the genocide under the Rouge and the civil war that followed.
+item4371	As the Lok Sabha debates the vote of no confidence today, representatives of farmers from across the country will be marching outside Parliament.
+item4372	Under the banner of All India Kisan Sangharsh Coordination Committee (AIKSCC), an umbrella body of two hundred and one farmer organisations. 
+item4373	Farmers have already passed a vote of no confidence against this government. 
+item4374	Far from helping the farmers, this government has actually harmed them in their hour of crisis. 
+item4375	This is a strong indictment, backed by solid evidence.
+item4376	Here, it is not conclusive to give data on sluggish agricultural growth during this regime.
+item4377	Agricultural production suffered due to consecutive droughts for which it is unfair to blame the government. 
+item4378	Nor can we use the data on farmer suicides to make a conclusive argument, as this government has tinkered so much.
+item4379	Both with the definition of the term and data collection on it, that the data has been made unusable. 
+item4380	Further, in any case, the data on farmer suicides has not been released for fifteen months now.
+item4381	Here are ten concrete, evidence-based, arguments on why the farmers of India express their vote of no confidence against this government.
+item4382	First, this government has failed to act on any of its major election promises in two thousand fourteen. 
+item4383	The Bharatiya Janata Party (BJP)s manifesto promised nothing short of highest priority to agricultural growth, increase in farmers income and rural development. 
+item4384	The governments own Economic Survey two thousand eighteen has already conceded that farmers real income has remained stagnant, recording a one point nine percent growth over four years. 
+item4385	The concrete promise of higher public investment in agriculture did not materialise; in fact, it has declined in terms of its share of GDP.
+item4386	The new farm insurance scheme, the Pradhan Mantri Fasal Bima Yojana, has consumed thrice as much money as earlier schemes.
+item4387	Without either increasing the proportion of farmers who benefited from it, or giving a fair claim to the farmers. 
+item4388	The promise of welfare measures for farmers above 60, small farmers and farm labourers was forgotten. The National Land Use Policy was never enacted. 
+item4389	The Agricultural Produce Market Committee (APMC) Act was not reformed. We dont even have a promises vs. delivery report card yet.
+item4390	Second, the Narendra Modi government actually reneged on its biggest promise of ensuring fifty percent profit over the cost of production to the farmers. 
+item4391	In February two thousand fifteen, it filed an affidavit in the Supreme Court refusing to implement this promise on the ground that it will distort the agricultural market. 
+item4392	As pressure from farmer organisations mounted, the government shifted the goalpost in the two thousand eighteen Budget.
+item4393	He had undertaken no light task. The whole machine of government was disordered. 
+item4394	The Justices of the Peace had abandoned their functions. The officers of the revenue had ceased to collect the taxes. 
+item4395	The army which Mark had disbanded was still in confusion, and ready to break out into mutiny. 
+item4396	The fleet was in a scarcely less alarming state. Large arrears of pay were due to the civil and military servants of the crown; and only forty thousand pounds remained in the Exchequer.
+item4397	The Prince addressed himself with vigour to the work of restoring order. 
+item4398	He published a proclamation by which all magistrates were continued in office, and another containing orders for the collection of the revenue.
+item4399	The new modelling of the army went rapidly on. Many of the noblemen and gentlemen whom James had removed from the command of the English regiments were reappointed. 
+item4400	A way was found of employing the thousands of Irish soldiers whom James had brought into England. 
+item4401	They could not safely be suffered to remain in a country where they were objects of religious and national animosity. They could not safely be sent home to reinforce the army of Tryconnel. 
+item4402	It was therefore determined that they should be sent to the Continent, where they might, under the banners of the House of Austria, 
+item4403	Render indirect but effectual service to the cause of the English constitution and of the Protestant religion. 
+item4404	Dartmouth was removed from his command; and the navy was conciliated by assurances that every sailor should speedily receive his due. 
+item4405	The City of London undertook to extricate the Prince from his financial difficulties. The Common Council, by an unanimous vote, engaged to find him two hundred thousand pounds.
+item4406	It was thought a great proof, both of the wealth and of the public spirit of the merchants of the capital, that, in forty-eight hours, the whole sum was raised on no security but the Prince's word. 
+item4407	A few weeks before, James had been unable to procure a much smaller sum, though he had offered to pay higher interest, and to pledge valuable property.

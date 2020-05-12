@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3358	He straddled different generations and contrasting worlds with a reflexive ease. 
+item3359	With his passing, less than two years after his rival Jayalalithaa succumbed to illness, Tamil Nadu is staring at a huge political void, one that that will be very hard to fill.
+item3360	The Supreme Court order calling for a special law to deal with lynching sends a strong message about the growing phenomenon of mob violence. 
+item3361	From vigilante violence targeting cattle traders in the name of cow protection, it has taken a new turn. 
+item3362	While the former was organised vigilantism, the recent spate of killings seemingly comprises impulsive and unplanned acts of violence, fuelled by rumour and panic-inducing social media messaging. 
+item3363	Last year the apex court reminded the Centre and the States they cannot remain silent while vigilantes take the law into their own hands in the name of cow protection. 
+item3364	It asked all States to appoint nodal officers in each district to curb mobs. 
+item3365	While the incidence of lynching and violence committed by self-styled gau rakshaks appear to have reduced 
+item3366	Since then, the killing and attacks on those mistaken to be child-kidnappers have had a disquieting rise. 
+item3367	The police say the circulation of videos and other messages about child-lifters through messaging apps is the main reason. 
+item3368	In its forty five-page order, the Supreme Court has significantly located lynching and vigilante violence in a socio-political framework linked to disrespect for an inclusive social order, rising intolerance and growing polarisation. 
+item3369	There is an implicit indictment of the preponderant mood of the times when it says that hate crimes as a product of intolerance, ideological dominance and prejudice ought not to be tolerated.
+item3370	In this file picture, people participate in a candlelight vigil in New Delhi in memory of a lynching victim.
+item3371	Besides directing specific preventive, punitive and remedial measures, a three-judge Bench headed by the Chief Justice of India has mooted the idea of making lynching a separate offence. 
+item3372	It says a special law would instil a sense of fear among those involved. 
+item3373	Whether a special law is enough to ensure a greater level of deterrence is open to question, especially so when murder and mob violence are covered by existing provisions. 
+item3374	But in sending this message out, the apex court has ensured that the issue cannot be brushed under the carpet and, ipso facto, 
+item3375	Has forced those who govern us to pay special attention towards curbing this madness.
+item3376	Any legislation though should be comprehensive, covering not only incidents of lynching, 
+item3377	But also the extent to which criminality can be apportioned among rumour-mongers, instigators, principal offenders and those who are accessories to the crime. 
+item3378	Whether it must penalise (and if so how) those who do nothing to stop such crimes or help bring the offenders to book, is another issue worth considering. 
+item3379	The judgment places the onus on the law and order machinery to prevent and punish lynchings. 
+item3380	But we must heed what it says on the role of bigotry, non-acceptance of plurality and diversity in creating an atmosphere where human beings are dehumanised.
+item3381	One in which freedom of speech, expression and personal choices are endangered.
+item3382	With the former President seeking a third term, Brazilian politics has come alive.
+item3383	
+item3384	A barrister, who was notoriously a tool of the government, appeared for the mock plaintiff, 
+item3385	And made some feeble objections to the defendant's plea. 
+item3386	The new Solicitor General replied. The Attorney General took no part in the proceedings.
+item3387	Judgment was given by the Lord Chief Justice, Sir Edward Herbert. 
+item3388	He announced that he had submitted the question to all the twelve Judges, and that, in the opinion of eleven of them,
+item3389	The King might lawfully dispense with penal statutes in particular cases, and for special reasons of grave importance. 
+item3390	The single dissentient, Baron Street, was not removed from his place. 
+item3391	He was a man of morals so bad that his own relations shrank from him, 
+item3392	And that the Prince of Orange, at the time of the Revolution, was advised not to see him. 
+item3393	The character of Street makes it impossible to believe that he would have been more scrupulous than his brethren. 
+item3394	The character of James makes it impossible to believe that a refractory Baron of the Exchequer would have been permitted to retain his post. 
+item3395	There can be no reasonable doubt that the dissenting Judge was, like the plaintiff and the plaintiff's counsel, acting collusively. 
+item3396	It was important that there should be a great preponderance of authority in favour of the dispensing power; 
+item3397	Yet it was important that the bench, which had been carefully packed for the occasion, should appear to be independent. 
+item3398	One Judge, therefore, the least respectable of the twelve, was permitted, or more probably commanded, to give his voice against the prerogative.

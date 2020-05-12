@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2390	The march, five months ago, from Nashik to Mumbai, of Fourty Thousands of Indias kisans, Bharats farmers,
+item2391	Hinds peasants showed the severity of our agrarian crisis and their tenacity to fight it. 
+item2392	Had Sardar Patel, hero of the Kheda and Bardoli satyagrahas, been Prime Minister, he would have agreed to their demand a special session of Parliament to discuss their travails.
+item2393	If Prime Minister were to do so, in the name of Patel and Ambedkar, who wanted political democracy to be supplemented by economic democracy, he will fulfil a historical imperative.
+item2394	Jawaharlal Nehru, on August Fifteen, made a metaphorical Subhas Chandra Bose stand there beside him. 
+item2395	Will our Prime Minister make the metaphorical Indian peasant stand next to him to speak for her or his travails?
+item2396	Will our Prime Minister make this pre-election Red Fort speech of his an election-free speech? 
+item2397	Will he on this historic day furl the politician in him and unfurl the Prime Minister of India, that is Bharat? 
+item2398	If he were to do that, he would bring to life, as never before, the Bose-Nehru peroration Jai Hind!
+item2399	The most recent assessment put out by the India Meteorological Department, that the southwest monsoon will be normal after a short break, comes as a relief.
+item2400	At the end of two months the total rainfall has met the criteria for normality, 
+item2401	Although there are wide variations in the patterns of showers, leaving some districts hit by drought as others face floods. 
+item2402	Official data show that the realisation of Three Eighty four millimeter of rain as of July Twenty Five is only a Three Percent negative departure from the Long Period Average. 
+item2403	Yet, within this phase of the monsoon, some districts of Uttar Pradesh, Uttarakhand, Bihar, Assam, Meghalaya, 
+item2404	Arunachal Pradesh, Gujarat, Telangana and Vidarbha experienced deficits ranging from Twenty percent to Sixty percent.
+item2405	 In the case of Gujarat, it has been a story of both deficiency and heavy rainfall within the State. 
+item2406	As with many previous monsoons, this rainy season has so far witnessed a lot of death and destruction.
+item2407	At least Four Hundred and Sixty Five people have died this year. 
+item2408	Roads and infrastructure have been destroyed, and it will take massive investments to rebuild them. 
+item2409	Thousands of people have had to shift to relief camps as floods have ruined their houses.
+item2410	Such displaced families urgently need relief to resume normal life. 
+item2411	The rainfall patterns, with their spatial variations, have major implications for agriculture and groundwater recharge as well.
+item2412	Water is the key determinant of Indias agricultural output and the National Commission on Farmers chaired by the scientist,
+item2413	Professor Swaminathan, had several recommendations for its optimal use. 
+item2414	Given that Sixty percent of the One Hundre million hectares of gross sown area assessed by the Commission was found to be rainfed, an accelerated programme to harness the monsoon is vital. 
+item2415	The revenue, large as it was when compared with that of former Kings, barely sufficed to meet this new charge. 
+item2416	A great part of the produce of the new taxes was absorbed by the naval expenditure. 
+item2417	At the close of the late reign the whole cost of the army, the Tangier regiments included, had been under three hundred thousand pounds a year. 
+item2418	Six hundred thousand pounds a year would not now suffice. 
+item2419	If any further augmentation were made, it would be necessary to demand a supply from parliament;
+item2420	And it was not likely that Parliament would be in a complying mood. 
+item2421	The very name of standing army was hateful to the whole nation, 
+item2422	And to no part of the nation more hateful than to the Cavalier gentlemen who filled the Lower House. 
+item2423	In their minds a standing army was inseparably associated with the Rump, with the Protector.
+item2424	With the spoliation of the Church, with the purgation of the Universities.
+item2425	With the abolition of the peerage, with the murder of the King, 
+item2426	With the sullen reign of the Saints, with cant and asceticism, with the insults which Major Generals.
+item2427	Sprung from the dregs of the people, had offered to the oldest and most honourable families of the kingdom. 
+item2428	There was, moreover, scarcely a baronet or a squire in the Parliament who did not owe part of his importance in his own county to his rank in the militia. 
+item2429	If that national force were set aside, the gentry of England must lose much of their dignity and influence. 
+item2430	It was therefore probable that the King would find it more difficult to obtain funds for the support of his army than even to obtain the repeal of the Habeas Corpus Act.

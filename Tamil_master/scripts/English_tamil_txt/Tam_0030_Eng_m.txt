@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9065	While the U.S.may have genuine concerns about Chinese protectionism, the overall economic logic behind Mr.Trump's trade policy still remains weak.
+item9066	The cost of these tariffs will, after all, eventually be borne by American consumers and could result in U.S.job losses too as the import of Chinese parts become uneconomical for smaller businesses.
+item9067	Indian policymakers would do well to closely monitor how the latest escalation in trade tensions pans out for global demand and international energy prices, given that the RBI has flagged oil price volatility as a factor that would have a bearing on India's inflation outlook.
+item9068	A call by Afghanistan's Loya Jirga, a grand assembly of senior politicians and tribal and religious leaders, for a ceasefire between government troops and the Taliban underscores the mood in Kabul.
+item9069	Afghanistan's leaders, from its rulers to tribal chieftains, want to resolve the seventeen -year-long conflict.
+item9070	Over a four-day meeting that ended on May two , the Jirga asked the government to set up a negotiating team with members from the assembly for talks with the insurgents.
+item9071	It also backed women's rights, a critical issue being debated by the political class amid the Taliban's rising clout.
+item9072	President Ashraf Ghani has said his government would honour the assembly's proposals, but wants the ceasefire to be mutual.
+item9073	The Taliban, for its part, immediately shot down the proposal, vowing to continue attacks through the Ramzan month.
+item9074	Without the Taliban's reciprocity, no ceasefire will hold.
+item9075	The group controls half of Afghanistan and has shown its capacity to strike anywhere, including in the most fortified of locations.
+item9076	It has also been engaged in direct talks with the U.S.for months.
+item9077	But the peace talks haven't prevented the Taliban from carrying out its summer offensive against the government.
+item9078	By rejecting the Loya Jirga proposal, the Taliban has once again made it clear that it is not ready yet to engage with the government in Kabul.
+item9079	The Taliban's intransigence has darkened the prospects for peace.
+item9080	The talks between Taliban representatives and Zalmay Khalilzad, the U.S.special representative, are primarily focussed on withdrawing foreign troops from Afghanistan.
+item9081	The U.S.seeks, in return, an assurance that Afghanistan will not provide a safe haven to transnational terrorist groups such as al-Qaeda and the Islamic State.
+item9082	But for an eventual settlement of the Afghan crisis, the government and the Taliban need to talk.
+item9083	The war has long been in a stalemate.
+item9084	But the government and the Taliban see different ways out.
+item9085	The government is willing to engage the insurgents, a move which has now been endorsed by the Loya Jirga as well.
+item9086	But the Taliban, like any other successful insurgent group, wants to prolong the conflict, hoping that it can weaken the government's morale and reduce its military strength.
+item9087	The Taliban will change tack only if it is forced to do so militarily or through pressure.
+item9088	The government lacks the resources to accomplish either.
+item9089	It cannot defeat the Taliban militarily, as the seventeen years of the war suggest.
+item9090	Castaway is an incredibly inspirational film about a Fed-ex Employee, Chuck Noland, who was on a private plane when it crashed into the pacific ocean. 
+item9091	When he washed up on an unknown island, he was stranded and alone with nobody to help.
+item9092	Chuck never gives up, and besides almost completely losing his sanity, he manages to eventually build a raft that will get him home. 
+item9093	An excellent inspirational film featuring Tom Hanks.
+item9094	The Bucket List is a film where two men, completely different from one another discover they have terminal cancer.
+item9095	One of them is a corporate billionaire, and the other a mechanic, but they both decide to escape from their cancer ward and set off to do all things they want to before they die.
+item9096	It's a must watch film for anyone who thinks it may be too late to chase their dreams or just go out and do everything they want to but never though they would.

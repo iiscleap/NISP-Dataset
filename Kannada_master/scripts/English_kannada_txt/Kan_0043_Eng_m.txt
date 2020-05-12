@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4085	Its the way with great writers, and Naipauls claim to being among the greatest of them was settled long before he won the Nobel prize in two thousand and one.
+item4086	But he defied simple appraisals more than anybody else. 
+item4087	To read Naipaul, to listen to him, to follow his life story, was to be perpetually nudged to reassess not just him, but also his subject matter and ones own view of the world. 
+item4088	He once said, All my work is really one. I am writing one big book. 
+item4089	In that big book, he kept pushing back the chronological beginnings to understand how colonialism and migration shaped the modern world.
+item4090	And travelling ever wider to examine how post-colonial societies shape-shifted. 
+item4091	It was an endeavour that started, and never veered too far, from his own biography. 
+item4092	Born in Trinidad to parents of Indian origin, whose forebears had come to the West Indies as indentured labour, Naipaul was consumed by one ambition: to be a writer. 
+item4093	It was, in large measure, acquired from his father, a journalist in Port of Spain struggling with the needs.
+item4094	And bickering of a sprawling family and the lack of intellectual wherewithal to realise his dream. 
+item4095	His fathers story would inspire Naipauls A House for Mr Biswas , part of an early-life burst of brilliant fiction.
+item4096	That began with Miguel Street, written when he was just out of Oxford University, and concluded in nineteen seventy nine with A Bend in the River.
+item4097	It was Naipauls travels, however, that spanned the greater part of his writing life as he crafted his own way of seeing the world. 
+item4098	He said in his Nobel lecture that as a child in Trinidad he felt himself surrounded by areas of darkness, and these became his subjects. 
+item4099	He travelled across continents, always with a theme in mind. 
+item4100	He opened up lines of inquiry on identity and progress. 
+item4101	His unsparing eye and spare, clear prose ensured that readers could not un-see what he saw, whether they were in agreement or not. 
+item4102	He was criticised for depicting the developing world through an imperial filter. 
+item4103	He was accused of Islamophobia in his travels in Muslim countries; he raised hackles with his India trilogy An Area of Darkness , A Wounded Civilisation , A Million Mutinies Now. 
+item4104	But he presciently bookmarked the debates that coming events would spark. 
+item4105	There was definitely low-grade bigotry at play, and misogyny, too. 
+item4106	Naipauls writings are too important to be overlooked on account of his intolerance; equally, his opinions cannot be excused while understanding his literary legacy.
+item4107	The curtains came down on Pakistans election campaign on Monday, ahead of voting on Wednesday. 
+item4108	It brought to an end a bitter political fight bloodied by brutal terror attacks.
+item4109	And darkened by the lengthening shadow of the military and judicial establishment. 
+item4110	It was a terrible moment. The King was gone. The Prince had not arrived. 
+item4111	No Regency had been appointed. The Great Seal, essential to the administration of ordinary justice, had disappeared. 
+item4112	It was soon known that Feversham had, on the receipt of the royal order, instantly disbanded his forces. 
+item4113	What respect for law or property was likely to be found among soldiers, armed and congregated, 
+item4114	Emancipated from the restraints of discipline, and destitute of the necessaries of life? 
+item4115	On the other hand, the populace of London had, during some weeks, shown a strong disposition to turbulence and rapine. 
+item4116	The urgency of the crisis united for a short time all who had any interest in the peace of society. 
+item4117	Rochester had till that day adhered firmly to the royal cause. He now saw that there was only one way of averting general confusion.
+item4118	"Call your troop of Guards together," he said to Northumberland, "and declare for the Prince of Orange." The advice was promptly followed. 
+item4119	The principal officers of the army who were then in London held a meeting at Whitehall, and resolved that they would submit to William's authority, 
+item4120	And would, till his pleasure should be known, keep their men together and assist the civil power to preserve order. 
+item4121	The Peers repaired to Hall, and were received there with all honour by the magistracy of the city. In strictness of law they were no better entitled than any other set of persons to assume the executive administration. 
+item4122	But it was necessary to the public safety that there should be a provisional government; and the eyes of men naturally turned to the hereditary magnates of the realm. 
+item4123	The extremity of the danger drew Sancroft forth from his palace. He took the chair; and, under his presidency, 
+item4124	The new Archbishop of York, five Bishops, and twenty-two temporal Lords, determined to draw up, subscribe, and publish a Declaration.

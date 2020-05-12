@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9987	If the averments in the Michigan case are correct, the prospect of working in America attracted many of the six hundred students who were recruited.
+item9988	This should serve as a reminder to India’s policymakers that access to higher education, job-creation and raising of living standards to meet the aspirations of youth must receive priority.
+item9989	Talk of an impending demographic dividend is meaningless without creating opportunities at home.
+item9990	The resignations of the National Statistical Commission’s acting Chairperson P.C.
+item9991	Mohanan and member J.V.
+item9992	Meenakshi appear linked to the Centre’s refusal to release new data on employment that were due to be made public in December twenty eighteen.
+item9993	They could also be related to unease about the recently unveiled back-series data on the economy, which recorded slower growth during the UPA-led government’s rule, and were released by the NITI Aayog bypassing convention and the commission’s views.
+item9994	Reports suggest that the findings of the new Periodic Labour Force Survey, for July twenty seventeen-December twenty eighteen, are not too flattering, with unemployment registering a five-decade high.
+item9995	The government has said no such reservations were expressed by Mr.Mohanan or Dr.Meenakshi during NSC meetings and that the report will be released after ‘quarterly’ data for the survey period is processed.
+item9996	A key role of the NSC, set up in two thousand six, is to verify whether data being put in the public domain are reliable and adequate.
+item9997	Information has been collected and disseminated by successive governments under laid-down schedules, earning Indian data greater global trust than most other emerging market peers, especially China.
+item9998	On the question of job-creation for the youth, the Prime Minister and his Cabinet have been building an argument that jobs abound, but credible data are missing.
+item9999	The National Sample Survey Organisation’s quinquennial employment surveys were to be conducted in twenty sixteen-seventeen.
+item10000	The year was switched to twenty seventeen-eighteen as the new Labour Force Survey was being prepared to replace it.
+item10001	Separately, a quarterly survey of select employment-intensive sectors initiated by the Labour Bureau after the two thousand eight global financial crisis, that provided some clarity on ground realities, was inexplicably junked.
+item10002	Instead, proxy data from enrolments into social security schemes for formal sector employees are being touted as a sign of job-creation: economists have rightly called them out as inaccurate.
+item10003	Even then, Arun Jaitley, in his last year’s Budget speech, cited ‘an independent study’ to claim seven million formal jobs will be created in twenty eighteen-nineteen.
+item10004	The Centre for Monitoring Indian Economy has pegged job losses in twenty eighteen at eleven million based on its regular employment surveys.
+item10005	The government’s coy approach to jobs-related data may be due to its disastrous demonetisation gambit which hurt supply chains and informal jobs in the economy and whose effects have lingered.
+item10006	Contrast this with the NSSO surveys of two thousand nine-ten that revealed little good news on household incomes and job-creation, thanks to after-effects of the global financial crisis.
+item10007	The UPA didn’t dither from releasing the data, took criticism on its chin, explained it was an exceptional situation and commissioned another set of surveys in twenty eleven-twelve to correct for the timing.
+item10008	The Modi government should have treaded the same path without upending India’s statistical integrity.
+item10009	It is in the nature of our polity to use any opportunity possible for political signalling, and the Bharat Ratna, the nation’s highest civilian honour, has not been spared from this propensity.
+item10010	Over the years, ideological considerations have influenced the choices.
+item10011	While the Narendra Modi government’s decision to confer the Bharat Ratna on the late Assamese singer Bhupen Hazarika (who contested on the BJP ticket in the two thousand four Lok Sabha election) and the late Nanaji Deshmukh (a Bharatiya Jan Sangh leader and social activist) evoked little surprise, the choice of former President Pranab Mukherjee seemed to have caught everyone off guard and triggered fevered speculation.
+item10012	 Friends can can serve as an example for you
+item10013	Choosing great friends is beneficial if you need a push to start doing something on your own. 
+item10014	Friends easily serve as examples, providing your with plenty of motivation to achieve your goals.
+item10015	When you see how happy your friends are when pursuing their objectives, you’ll want to follow suit and be productive as well. 
+item10016	Their good behaviors will rub off on you.
+item10017	However, if your friends do nothing but drink beer and watch television, you’re more likely to join them and spend your time on the couch just to keep them company. 
+item10018	Their habits will inevitably influence your habits and before you know it, you’ll become a couch potato too.
+item10019	That’s why you should be wise when choosing who to befriend. 
+item10020	Pick a friend with good habits, and their presence is bound to make your life more exciting.

@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0285	Dean witter reynolds incorporated goldman sachs and company and morgan stanley and company are handling the sale 
+item0286	Despite the july decline durable goods orders remained seven point seven percent above the year earlier level 
+item0287	Despite the unexpected strength ,comma economists say spending will slow soon due to sluggish income growth ,comma rising prices and high consumer debt .Period 
+item0288	Despite the unexpected strength economists say spending will slow soon due to sluggish income growth rising prices and high consumer debt 
+item0289	Dofasco hamilton ontario said about three point three million convertible preferred shares about eighty six percent of the total outstanding were tendered 
+item0290	Domestic cars accounted for seventy three point five percent of april auto sales while the import share grew one point five percent to twenty six point five percent 
+item0291	Don't worry ,comma we have enough money to buy the things we need .Period "double-quote 
+item0292	Do they want higher prices ?question-mark 
+item0293	Do they want lower prices ?question-mark "double-quote said one analyst .Period 
+item0294	"double-quote anybody who's ever been elected to the city council thinks about being president .Period "double-quote 
+item0295	"double-quote as a result ,comma "double-quote they say ,comma "double-quote retail margins are being squeezed .Period "double-quote 
+item0296	"double-quote but over time it gives managers the opportunity to shift assets .Period 
+item0297	"double-quote his information amazes me ,comma "double-quote Mr. edelman says through a spokesman .Period 
+item0298	"double-quote I don't know how he gets it .Period "double-quote 
+item0299	"double-quote if you get the wrong answer ,comma don't stop .Period 
+item0300	"double-quote I know how to buy guns all over the world .Period 
+item0301	"double-quote I'm very ambitious ,comma "double-quote he says .Period 
+item0302	"double-quote in fairness ,comma we ought to keep what had been collected ,comma "double-quote he says .Period 
+item0303	"double-quote institutional investors fueled the rise by shifting assets to the funds in response to declining rates available on short -hyphen term securities in the market .Period 
+item0304	"double-quote it is the generic stand -hyphen in for the social problems of our age ,comma "double-quote Mr. murray writes .Period 
+item0305	"double-quote it's not quality paper .Period 
+item0306	"double-quote it wasn't a tremendous growth -hyphen oriented business ,comma "double-quote the spokesman said .Period 
+item0307	"double-quote I will have the means ,comma "double-quote he said .Period 
+item0308	"double-quote I wouldn't be surprised to see someone take a run at us ,comma "double-quote said one salomon manager .Period 
+item0309	"double-quote since there are no buyers around to absorb whatever selling takes place ,comma there's no bargain -hyphen hunting .Period 
+item0310	'There must have been heaps and heaps of cold meat left over,' said Anthea, 
+item0311	who meant to be a good housekeeper some day.
+item0312	'Oh no,' said the Psammead, 'that would never have done. 
+item0313	Why, of course at sunset what was left over turned into stone. 
+item0314	You find the stone bones of the Megatherium and things all over the place even now, they tell me.'
+item0315	'Who tell you?' asked Cyril; 
+item0316	But the Sand-fairy frowned and began to dig very fast with its furry hands.
+item0317	'Oh, don't go!' they all cried; 
+item0318	'tell us more about it when it was Megatheriums for breakfast! Was the world like this then?'
+item0319	It stopped digging.
+item0320	'Not a bit,' it said; 
+item0321	'It was nearly all sand where I lived, 
+item0322	And coal grew on trees, 
+item0323	And the periwinkles were as big as tea-trays - you find them now; 
+item0324	They are turned into stone. 

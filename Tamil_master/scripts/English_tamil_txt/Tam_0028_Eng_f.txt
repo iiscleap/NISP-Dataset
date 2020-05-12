@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8997	Lasith Malinga remains a force to reckon with even at thirty five , as he proved with his nerveless final over.
+item8998	Jasprit Bumrah, who finished with nineteen wickets and an incredible economy rate of six for the season, is the finest death-overs bowler in the world today.
+item8999	Hardik Pandya and Kieron Pollard again made a difference with their lower-order striking.
+item9000	Among Mumbai's newer faces, the leg-spinner Rahul Chahar, who had played only three IPL matches ahead of this season, performed a vital role.
+item9001	CSK should derive encouragement from the manner in which it fought for the trophy, with an ageing squad that clearly had a number of gaps.
+item9002	The batting was a concern throughout, and if not for the efforts of bowlers Deepak Chahar, Imran Tahir, and Ravindra Jadeja, and the astute leadership of M.S.Dhoni, the team may not even have qualified for the playoffs.
+item9003	The IPL's twelve th edition had its share of thrills and controversies.
+item9004	A spirited, young Delhi Capitals side entertained, as did Kolkata Knight Riders' Andre Russell with his ferocious hitting.
+item9005	There were two hat-tricks and six centuries.
+item9006	Australia's David Warner, who with Steve Smith was returning to high-profile cricket since the ban for ball-tampering, was in devastating form, topping the charts with six ninety two runs.
+item9007	Tahir's twenty six wickets, the most for a spinner in one season, made him the leading wicket-taker of the tournament.
+item9008	R.Ashwin's act of mankading Jos Buttler sparked some unnecessary moralising while there were a number of contentious umpiring calls; even the normally composed Dhoni stormed on to the field to protest one decision.
+item9009	It was feared that with the World Cup around the corner, the IPL would be a watered-down affair.
+item9010	English and Australian stars did fly home early to join their national teams, but love for the IPL remained undiminished in India.
+item9011	The country's focus will now shift to the World Cup, with Dhoni, Rohit, Bumrah, Jadeja and Pandya having just a few weeks to recover from the IPL exertions.
+item9012	With England, Australia, Bangladesh, Pakistan and West Indies having begun their preparations already, India will hope its players can quickly switch to the one-day mode.
+item9013	Iran's decision to reduce its commitments under the twenty fifteen Joint Comprehensive Plan of Action, which sought to curtail its nuclear capabilities, is more of a warning than a move to break the nuclear deal.
+item9014	Iran has been under economic and political pressure since President Donald Trump pulled the U.S.out of the deal a year ago.
+item9015	The U.S.has since amped up its anti-Iran rhetoric and reimposed sanctions.
+item9016	While President Hassan Rouhani clinched the agreement in twenty fifteen despite opposition from hardliners, his promise was that it would help lift sanctions, providing relief to Iran's economy.
+item9017	But the economic benefits did not last even three years, weakening Mr.Rouhani's position in Iran's complex power dynamics.
+item9018	With the U.S.having ended the sanctions-waiver it had given to certain countries, including India, on purchasing Iranian oil, from the first week of May, the Iranian economy has come under more pressure.
+item9019	It is in this context that Mr.Rouhani announced the suspension of some of the restrictions in the deal.
+item9020	Iran will immediately stop shipping out excess enriched uranium and heavy water.
+item9021	Mr.Rouhani has given sixty days to other signatories to find solutions to shield Iran's banking and oil sectors from U.S.sanctions.
+item9022	The Pursuit of Happyness has to go down as one of the most inspirational movies ever made. 
+item9023	It follows the true story of Chris Gardner, a single father struggling to make a better life for him and his child Christopher.
+item9024	Chris battles periods of homelessness as he's trying to complete an internship at a stockbroker firm, whilst having to make a living selling medical scanners that are low in demand. 
+item9025	I recently wrote an article to do with this film titled five Things Entrepreneurs can Learn from The Pursuit of Happyness?, which is definitely worth a read for any fellow entrepreneurs looking for inspiration.
+item9026	Overall, you can't top The Pursuit of Happyness in terms of inspiration and if you still haven't seen it you need to!
+item9027	We all love the Rocky films right? To be honest, every film in the series is inspirational. 
+item9028	Rocky Balboa is played by Sylvester Stallone, and Rocky is a debt collector and club boxer. 
+item9029	He is often mocked for what he does, and is never taken seriously.
+item9030	He goes on to try and prove himself as a professional boxer and show everyone that he has what it takes. 
+item9031	Pure inspiration from this series and it's a must watch!

@@ -1,0 +1,35 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10336	But when the principal produced a suspension order on November fifteen , it had Anex's name too on it.
+item10337	He got one month while four of his attackers got two months.
+item10338	However, following massive protests, Anex's suspension has been revoked on Monday.
+item10339	"All hundred and nine first year students and the college's Students Federation of India protested, calling an indefinite strike on Saturday, till my suspension was revoked," Anex says on a call to TNM.
+item10340	The principal was not present on Saturday, so the protesting students laid siege to the vice principal, who agreed to hold a meeting with the principal and the students on Monday.
+item10341	"It was agreed in the meeting that Anex's suspension will be revoked while the (two month) suspension of the four senior students would stand as such.
+item10342	It was also agreed that this shall not be treated as an incident of ragging since no one is interested in ruining the future of four doctors," says Noushik, secretary of the SFI unit of the college.
+item10343	The three-member enquiry committee that the principal hired apparently did not question the eye-witnesses that Anex had recommended in his complaint.
+item10344	"They reached a conclusion that it was a fight between first year students and seniors.
+item10345	There was only one first year student – me.
+item10346	It was not a fight.
+item10347	It was an attack and I had responded in self-defence which led to a few injuries on the seniors too," Anex says.
+item10348	Arjun Azad, who runs an NGO to deal with students' cases, says, "The laws against ragging are very powerful.
+item10349	Firstly there should be an anti ragging committee in the college.
+item10350	It should have the presence of police, an NGO, and students from different batches.
+item10351	There should also be another anti ragging squad without the presence of people outside the campus.
+item10352	I doubt if such a squad is functional in the Ernakulam Medical College."
+item10353	He adds: "When a complaint about ragging comes to the college principal, he should first record a First Information Report at the police station, within twenty four hours.
+item10354	He should then inform the university and the district anti ragging committee.
+item10355	The anti ragging squad should begin investigations.
+item10356	Emperor Akbar was in the habit of putting riddles and puzzles to his courtiers. He often asked questions which were strange and witty. It took much wisdom to answer these questions.
+item10357	Once he asked a very strange question. The courtiers were dumb folded by his question.
+item10358	Akbar glanced at his courtiers. As he looked, one by one the heads began to hang low in search of an answer. 
+item10359	It was at this moment that Birbal entered the courtyard. Birbal who knew the nature of the emperor quickly grasped the situation and asked, "May I know the question so that I can try for an answer".
+item10360	Akbar said, "How many crows are there in this city?"
+item10361	Without even a moment's thought, Birbal replied "There are fifty thousand five hundred and eighty nine crows, my lord".
+item10362	"How can you be so sure?" asked Akbar.
+item10363	Birbal said, "Make you men count, My lord. If you find more crows it means some have come to visit their relatives here. If you find less number of crows it means some have gone to visit their relatives elsewhere".
+item10364	Akbar was pleased very much by Birbal's wit. 

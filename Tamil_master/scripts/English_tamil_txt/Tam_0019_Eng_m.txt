@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8693	Urbanisation trends and the severe water stress that residents experience underscore the need for mandatory rainwater harvesting policies and augmented efforts by States to preserve surface water by building new reservoirs.
+item8694	Yet, governments are adopting a commodity approach to the vital resource, displaying deplorable indifference to the pollution and loss of rivers, wetlands and lakes that hold precious waters.
+item8695	This is no way to treat a life-giving resource.
+item8696	With the seventh phase of polling for the seventeen th general election over, the anxious wait is now for counting day.
+item8697	The election dates were announced on March ten , and the first phase of polling took place on April eleven .
+item8698	The entire process will take eleven weeks to complete; polling itself was spread over six weeks.
+item8699	The consolidated turnout till the sixth phase was sixty seven percent, as against sixty six percent in twenty fourteen, and there were eight thousand candidates.
+item8700	The compulsions on the Election Commission of India to stretch the exercise into a painfully long-drawn process are unclear.
+item8701	Given the absence of a rationale for such a prolonged schedule, doubts were raised whether it was designed to help Prime Minister Narendra Modi campaign in the widest possible manner.
+item8702	That was the first instance of the EC's impartiality and integrity coming under doubt during this election season, but not the last.
+item8703	A series of lapses that followed accumulated into a crisis of credibility for the commission.
+item8704	By being reluctant to hold Mr.Modi to standards set in the past, the EC has bruised its reputation.
+item8705	The process of decision-making in the three-member commission itself was called into question, with one member notifying the others that he would not participate in meetings on complaints regarding violations of the Model Code of Conduct unless his dissent, when made, is recorded in the final order.
+item8706	The wisdom of holding elections over stretched phases needs to be revisited in light of this year's experience and feedback from stakeholders.
+item8707	And restoring its reputation and integrity must be the commission's immediate priority.
+item8708	Some self-reflection is called for as the country concludes a bitterly fought election during which boundaries of civil public debate have been crossed and norms breached.
+item8709	What makes twenty nineteen unprecedented is not that inappropriate words were used and misinformation spread, but the fact that India witnessed an increasing tendency to normalise these.
+item8710	In the twenty nineteen campaign, the leaders of the government preempted a fact-based debate on its performance of five years by blocking or contaminating official data on job generation and other parameters, and successfully pushed electioneering into a fact-free zone filled with emotive and divisive issues.
+item8711	This was a double whammy for democracy.
+item8712	On the one hand, informed discussions have become difficult, and on the other, social tensions have risen.
+item8713	The outcome on Thursday remains a suspense, but the incoming Prime Minister, whoever that will be, must take the initiative to rally all Indians around a truly inclusive and secular national agenda as soon he or she takes over.
+item8714	Is one decade of peace enough to undo the devastating effects of a civil war that lasted nearly three decades? As Sri Lanka completes ten years since the brutal and decisive war against Tamil militants came to an end, it must be acknowledged that the country has not achieved much tangible progress towards ethnic reconciliation, accountability for war-time excesses and constitutional reform that includes a political solution.
+item8715	The fruits of peace are limited to the revival of economic activity, but the pervasive grievances of the Tamil minority remain.
+item8716	Some progress has been made in resettlement and rehabilitation, but complaints abound.
+item8717	Many say their land continues to be held by the military, which also controls huge swathes of state-owned land.
+item8718	Maybe, somebody hasn't even failed at all in their lifetime. Maybe they're so scared of failing that they haven't even tried to achieve their dreams at all.
+item8719	I was listening to a speech from Les Brown recently, and he explained that a company was having a major downsizing, and they were offering employees three million dollars in compensation if they made the choice to leave the company.
+item8720	If they didn't take the money, they would be at risk of losing their jobs as getting nothing when the company had the downsizing.
+item8721	Only fifty percent of the people that were eligible to take the money, did. Fifty percent of people allow the fear of failure to stop them from doing all the things they want to do in life.
+item8722	Are you going to be one of those people?
+item8723	Taking risks in life shouldn't be optional. 
+item8724	They're important. Anything and everything great that anybody's ever tried to achieve, came through taking a risk. Maybe they risked their time for something, their money, their job, whatever it may be.
+item8725	But they did so with all good reason.
+item8726	People often never take action in life because they're scared of taking risks, in case something doesn't quite work out the way they wanted it to.

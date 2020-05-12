@@ -1,0 +1,37 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8530	The deadly fire in a Surat coaching centre that resulted in the death of twenty two young people highlights the gap between India's dreamy visions of smart cities and the cruel reality of urban chaos and lawlessness.
+item8531	Images of students leaping from the blazing building in a bid to escape will remain imprinted on the public consciousness; many more teenagers were hopelessly overpowered by the flames within the premises, while a lucky few escaped with their lives.
+item8532	These young Indians are the latest victims of a culture of laissez-faire urbanisation that city governments have bred and which the courts allow to be pursued without severe penalties.
+item8533	India's abysmal record on fire safety is reflected in the death of eighteen thousand people countrywide in fires in both public and residential buildings during twenty fifteen, according to the latest available data from the National Crime Records Bureau.
+item8534	Periodically, high-profile cases such as the Uphaar cinema blaze in Delhi that killed fifty nine people in nineteen ninety seven, and the Kumbakonam school fire in Tamil Nadu in two thousand four in which ninety four children perished shock the nation, but even these are not strong enough to persuade governments to make fire safety the priority it should be.
+item8535	Neither has prolonged, aggressive litigation by the affected families in the Uphaar case made a difference, because the criminal culpability of the administrative machinery and officials who sanctioned unsafe buildings, often in return for bribes, remains largely unaddressed.
+item8536	The Surat fire cannot be called an accident, since there are reports of notices having been served to the builder on the risks, but not pursued by the Fire Department.
+item8537	Civic officials have displayed unforgivable indifference, since two deaths occurred in another coaching centre in the city late last year.
+item8538	That tragedy should have led to a comprehensive review of public buildings.
+item8539	The present inquiry into the disaster should go into any deviations from the sanctioned plan for the commercial building housing the coaching centre, and the role of urban planning officials in allowing it to come up.
+item8540	Ultimately, litigation on fire disasters goes to the courts, and it is essential for the judiciary to send out the message that there will be no tolerance to corruption and evasion in the enforcement of building rules and fire safety.
+item8541	Beyond suspending a few officials and filing cases against the building owners, there is a need to make an example of sanctioning and enforcement authorities.
+item8542	The unwavering message must be that Indians demand accountability.
+item8543	Mandating compulsory insurance for all public buildings against fire risk and public liability can bring about a change to the way architects and builders approach the question of safety, since the insurer would require a reduction of risk and compliance with building plans.
+item8544	At least, that would be a start to rewriting India's shameful record on fire safety.
+item8545	The results of four State Assembly elections conducted alongside the Lok Sabha polls hold important political signals.
+item8546	Arunachal Pradesh, Sikkim, Odisha and Andhra Pradesh elected new Assemblies along with their Lok Sabha members.
+item8547	In Odisha, Chief Minister Naveen Patnaik has won a fifth consecutive term, leading his Biju Janata Dal to a sweeping victory, while in Sikkim, Pawan Kumar Chamling, the longest serving CM in India, will be bowing out after his Sikkim Democratic Front lost to the Sikkim Krantikari Morcha.
+item8548	Mr.Chamling became CM in nineteen ninety four.
+item8549	The BJP won the Assembly election in Arunachal Pradesh — though this serves as a reminder of the curious ways in which the party has expanded its footprint in the Northeast.
+item8550	The Assembly election in twenty fourteen was won by the Congress and Pema Khandu, the current Chief Minister, was a Congress MLA then.
+item8551	He became CM in twenty sixteen, shifted to the People's Party of Arunachal as its leader, and then moved to the BJP, where he still remains.
+item8552	The BJP's acquisitive approach to politics in general has been effective in the Northeast.
+item8553	Now, the SKM in Sikkim might ally with the party.
+item8554	The spectacular victory of the YSR Congress Party in Andhra Pradesh, in turn, is a reminder of the Congress's persistent mishandling of the State since the abrupt death in an accident of Y.S.Rajasekhara Reddy, the party's then CM, better known as YSR, in two thousand nine.
+item8555	You know the feeling when someone's talking to you and they start to share all this powerful knowledge with you, only some of which makes sense?
+item8556	You wish you had that knowledge right? I'm guessing you want it in half the time as well?
+item8557	When people meet others who have enormous masses of knowledge behind the words that come out of their mouth, they instantly think that this person must just naturally be smart. They're wrong.
+item8558	Behind this person is most likely more struggles than you can ever imagine. 
+item8559	They've thrown laptops against the wall, given up on more than several occasions, felt every emotion a human being can, and this is how they possess the knowledge they do.
+item8560	Success is an emotional journey. Just because you don't possess a certain amount of knowledge to start with doesn't mean you can't ever obtain it.

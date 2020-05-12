@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4288	This is why the right to privacy judgment was celebrated last year. 
+item4289	It signified hope that things could get better, that values of freedom, autonomy and dignity would be realised. 
+item4290	However, the Srikrishna Report shows that the danger to a high constitutional principle may more often be that it is disregarded, rather than that it is disobeyed. 
+item4291	By re-framing and re-interpreting the right to privacy, the report entrenches the positions of the two entities.
+item4292	Which already wield the most power over ordinary Indians: corporations and the government. 
+item4293	As time passes, we will have many opportunities to look back to the day when the Supreme Court declared the fundamental right to privacy. 
+item4294	When we do, we should feel relief rather than regret.
+item4295	Given the vast amounts of personal data being collected by private companies and state agencies, and their flow across national jurisdictions.
+item4296	The absence of a data protection legal framework in India has been a cause for deep concern.
+item4297	This is even more so because in many cases individuals whose data have been used and processed by agencies.
+item4298	Both private firms and state entities, are oblivious to the purpose for which they are being harnessed. 
+item4299	The need for legislation was also underlined last year with the landmark judgment in Justice Puttaswamy versus Union of India that held the right to privacy to be a fundamental right.
+item4300	Against this backdrop, the draft legislation on data protection submitted by a committee of experts chaired by Justice Srikrishna to the Ministry.
+item4301	After year-long public consultations provides a sound foundation on which to speedily build Indias legal framework. 
+item4302	This is akin to a contractual relationship that places obligations on the entities entrusted with data.
+item4303	And who are obligated to seek the consent of the principal for the use of personal information.
+item4304	The draft legislation puts the onus on the data fiduciary to seek clear, informed, specific and free consent. 
+item4305	With the possibility of withdrawal of data of the principal to allow for the use and processing of sensitive personal data.
+item4306	In many ways, the draft legislation mirrors the General Data Protection Regulation, the framework on data protection implemented in the European Union this May.
+item4307	It envisages the creation of a regulatory Data Protection Authority of India to protect the interests of principals .
+item4308	And to monitor the implementation of the provisions of the enabling data protection legislation. 
+item4309	Taken together, the draft bill and the report mark a welcome step forward, but there are some grey areas. 
+item4310	The exemptions granted to state institutions from acquiring informed consent from principals or processing personal data in many cases appear to be too blanket.
+item4311	Such as those pertaining to the security of the state. 
+item4312	These are hold-all phrases, and checks are vital. 
+item4313	That afternoon the tidings of the flight reached London. The King's adherents were confounded. The Whigs could not conceal their joy. 
+item4314	The good news encouraged the Prince to take a bold and important step. 
+item4315	He was informed that communications were passing between the French embassy and the party hostile to him. 
+item4316	It was well known that at that embassy all the arts of corruption were well understood; and there could be little doubt that, 
+item4317	At such a conjuncture, neither intrigues nor pistoles would be spared. 
+item4318	Barillon was most desirous to remain a few days longer in London, and for that end omitted no art which could conciliate the victorious party. 
+item4319	In the streets he quieted the populace, who looked angrily at his coach, by throwing money among them. 
+item4320	At his table he publicly drank the health of the Prince of Orange. But William was not to be so cajoled. 
+item4321	He had not, indeed, taken on himself to exercise regal authority: but he was a general and, as such, he was not bound to tolerate, 
+item4322	Within the territory of which he had taken military occupation, the presence of one whom he regarded as a spy. 
+item4323	Before that day closed Barillon was informed that he must leave England within twenty-four hours. He begged hard for a short delay: 
+item4324	but minutes were precious; the order was repeated in more peremptory terms; and he unwillingly set off for Dover. 
+item4325	That no mark of contempt and defiance might be omitted, he was escorted to the coast by one of his Protestant countrymen whom persecution had driven into exile. 
+item4326	So bitter was the resentment excited by the French ambition and arrogance that even those Englishmen who were not generally disposed to take a favourable view of William's conduct.
+item4327	 Loudly applauded him for retorting with so much spirit the insolence with which Lewis had, during many years, treated every court in Europe.

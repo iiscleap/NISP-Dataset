@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2955	The proposed amendments show that the Central government seeks control over the tenure, salary and allowances 
+item2956	Of the Chief Information Commissioner and Information Commissioners at the Centre, and the State Chief Information Commissioners. 
+item2957	Such a change would eliminate the parity they currently have with the Chief Election Commissioner and Election Commissioners 
+item2958	And, therefore, equivalence with a judge of the Supreme Court in matters of pay, allowances and conditions of service. 
+item2959	The Centre will also fix the terms for State Information Commissioners. 
+item2960	This is an ill-advised move and should be junked without standing on prestige. 
+item2961	If at all, the law needs to be amended only to bring about full compliance by government departments and agencies that receive substantial funding from the exchequer, 
+item2962	And to extend its scope to more institutions that have an influence on official policy. 
+item2963	The Supreme Court has held the right to information as being integral to the right to free expression under Article nineteen; weakening the transparency law would negate that guarantee.
+item2964	In its rationale for the amendments, the Centre has maintained that unlike the EC, Information Commissions are not constitutional bodies but mere statutory creations under the law. 
+item2965	This is a narrow view, betraying an anxiety to tighten the hold of the administration on the Commissions, which even now get little official support to fill vacancies and improve efficiency. 
+item2966	A recent public interest petition filed in the Supreme Court by the National Campaign for Peoples Right to Information 
+item2967	Pointed out that the Central Information Commission has over twenty three thousand five hundred pending appeals and complaints, and sought the filling up of vacancies in the body. 
+item2968	In many States, the Commissions are either moribund or working at low capacity owing to vacancies, resulting in a pile-up of appeals. 
+item2969	The challenges to the working of the law are also increasing, with many State departments ignoring the requirement under Section four of the Act to publish information suo motu. 
+item2970	The law envisaged that voluntary disclosure would reduce the need to file an application.
+item2971	Since fines are rarely imposed, officers give incomplete, vague or unconnected information to applicants with impunity. 
+item2972	Proposals to make it easier to pay the application fee, and develop a reliable online system to apply for information, are missing. 
+item2973	These are the serious lacunae. Attempts were made by the UPA government also to weaken the law, including to remove political parties from its purview. 
+item2974	Any move to enfeeble the RTI Act will deal a blow to transparency.
+item2975	The U.S. Congresss report allowing the introduction of a presidential waiver will be greeted with a sense of relief in both New Delhi and Washington. 
+item2976	The two governments have been working hard to avert a stand-off over the issue. 
+item2977	The matter was particularly heated with India making it clear it would go ahead with the S-four hundred missile system deal with Russia regardless of the U.S. law and the threat of sanctions. 
+item2978	Signed reluctantly by President Donald Trump last August would have forced his administration.
+item2979	To impose sanctions on any country carrying out significant defence and energy trade with sanctioned entities in Russia, Iran and North Korea. 
+item2980	At the very beginning of the new year these statesmen and the great party which they represented had to suffer a cruel mortification. 
+item2981	That the late King had been at heart a Roman Catholic had been, during some months, suspected and whispered, but not formally announced. 
+item2982	The disclosure, indeed, could not be made without great scandal. 
+item2983	Charles had, times without number, declared himself a Protestant, and had been in the habit of receiving the Eucharist from the Bishops of the Established Church. 
+item2984	Those Protestants who had stood by him in his difficulties, and who still cherished an affectionate remembrance of him, 
+item2985	Must be filled with shame and indignation by learning that his whole life had been a lie, that, while he professed to belong to their communion, 
+item2986	He had really regarded them as heretics, and that the demagogues who had represented him as a concealed Papist 
+item2987	Had been the only people who had formed a correct judgment of his character. 
+item2988	Even Lewis understood enough of the state of public feeling in England to be aware that the divulging of the truth might do harm, 
+item2989	And had, of his own accord, promised to keep the conversion of Charles strictly secret.
+item2990	James, while his power was still new, had thought that on this point it was advisable to be cautious, and had not ventured to inter his brother with the rites of the Church of Rome. 
+item2991	For a time, therefore, every man was at liberty to believe what he wished. 
+item2992	The Papists claimed the deceased prince as their proselyte. 
+item2993	The Whigs execrated him as a hypocrite and a renegade. 
+item2994	The Tories regarded the report of his apostasy as a calumny which Papists and Whigs had, for very different reasons, a common interest in circulating.

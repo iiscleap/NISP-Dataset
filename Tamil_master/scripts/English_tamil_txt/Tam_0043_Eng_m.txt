@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9536	It may be difficult to get enough lawmakers to agree to this significant change, but it can be a principle political parties adopt on their own.
+item9537	There have been instances of Union Ministers resigning from office as soon as charges were framed against them.
+item9538	There is no harm in extending this norm to the selection of candidates.
+item9539	The first phase of voting on Thursday to elect the seventeen th Lok Sabha witnessed enthusiastic participation of voters in ninety one Lok Sabha constituencies across twenty States and Union Territories.
+item9540	In this opening phase of a total of seven, the challenges in ensuring a free and fair poll, as well as the trend of high enthusiasm among voters, have been highlighted.
+item9541	The drive of the Election Commission of India against malpractices led, ahead of the first phase, to seizures worth rupees two thousand five hundred crore of cash, liquor, drugs and other items meant to unduly influence voters.
+item9542	The ECI’s decision to ban the release of a biopic on Prime Minister Narendra Modi and its order to stop the broadcast of political content on a TV channel meant for his propaganda were measures in the right direction.
+item9543	But the trail of serious violations of the Model Code of Conduct and the defiance of its previous directives by the ruling dispensation and Mr.Modi himself raise a lot of questions regarding the ECI’s effectiveness in being a neutral and fair arbiter.
+item9544	The questions regarding the integrity of the elections arising out of doubts about EVMs have been addressed with one hundred percent Voter Verifiable Paper Audit Trails, followed by a Supreme Court-directed increase in their random counting rate from one machine to five per Assembly constituency/segment.
+item9545	But doubts arising out of the ECI’s conduct fall in a different category, and it needs to do more to reassure voters that the process is not vitiated by partisanship.
+item9546	The seemingly biased moves by Central agencies such as the Income Tax department targeting only Opposition leaders point to the possible misuse of office by the ruling party to target opponents.
+item9547	Mr.Modi’s appeal to voters in the name of soldiers — something the ECI had explicitly warned against — was unfortunate, as was the Commission’s failure to take prompt action.
+item9548	While the ECI must urgently respond to MCC violations, the government must act fairly.
+item9549	Andhra Pradesh, Arunachal Pradesh, Sikkim and parts of Odisha also voted to elect their State Assemblies.
+item9550	Tripura and West Bengal topped in turnout, with eighty one percent and eighty one percent, respectively.
+item9551	This is the first general election with VVPATs attached to all EVMs.According to the ECI, one percent of VVPATs, point seven percent of the ballot units and point six one percent of the control units of EVMs had to be replaced on Thursday.
+item9552	Stray incidents of violence were reported in Andhra Pradesh, but in Jammu and Kashmir the polling went relatively peacefully.
+item9553	In the Jammu constituency seventy two percent polling was recorded, while in the Valley’s Baramulla constituency the figure was thirty five percent, marginally lower than the twenty fourteen figures.
+item9554	Isolated complaints regarding mismanagement arose in some parts, but by and large the first phase went on well, and upheld India’s reputation in managing what is the world’s largest democratic exercise.
+item9555	It is going to be a long summer.
+item9556	On April ten , the Event Horizon Telescope collaboration showed the world the ‘unseeable’: the very first image of a black hole.
+item9557	Of course, the black hole itself cannot be seen, because light cannot escape its intense gravitational attraction.
+item9558	The so-called event horizon that envelops the black hole is the point of no return and any object transgressing this boundary is lost.
+item9559	Just outside is a region where a photon (light quantum) can orbit the black hole without falling in.
+item9560	This is called the ‘last photon ring’, and this is what the EHT imaged, seeing in effect the silhouette of a black hole.
+item9561	Look at the Positive
+item9562	There is always positive in every situation, no matter how bad things may seem to be. 
+item9563	You just have to find it and focus on that. 
+item9564	Negative feelings and emotions do not produce success.
+item9565	Avoid Unhealthy Habits
+item9566	Smoking and alcohol kill productivity. If you have to go for a smoke break or make a trip to the bar, you are not focusing on your goals. 
+item9567	Using that time kills productivity and creative thought, in addition to your body and mind.
+item9568	Avoid Stressful Situations
+item9569	Stress saps your energy and motivation. It fills your head with unhealthy thoughts. 
+item9570	By avoiding these situations, you will be able to be more productive and have more energy to move forward.

@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4328	The report recommends a law to provide for parliamentary oversight and judicial approval of non-consensual access to personal data. 
+item4329	Without such an enabling law, the exemptions provided in the bill will fall short of securing accountability from the state for activities such as dragnet surveillance. 
+item4330	The grey areas must spark public and parliamentary debate before a final legislation comes to fruition.
+item4331	The outcome had been ensured long before Cambodia went to the polls on Sunday.
+item4332	With Prime Minister Hun Sen ensuring his return by keeping key Opposition leaders out of the fray and muzzling the media. 
+item4333	The next morning, a spokesperson for his Cambodian Peoples Party was smugly claiming it had won all one hundred and twenty five parliamentary seats, renewing its mandate for another five years. 
+item4334	Despite official estimates of turnout in excess of eighty percent, the CPPs victory is hollow. 
+item4335	Mr. Hun Sen, who has been at the helm since nineteen eighty five, left nothing to chance to see that his party was effectively uncontested. 
+item4336	Voters were threatened with punishment if they responded to calls for an election boycott. 
+item4337	A number of dummy parties joined what international observers called a sham election.
+item4338	Since Cambodias first free elections in nineteen ninety three, the CPPs single-party dominance had been largely enabled by a fragmented Opposition. 
+item4339	But things changed before the two thousand thirteen elections with the merger of two big Opposition parties to form the Cambodia National Rescue Party. 
+item4340	The CNRP came within striking distance of the ruling party in those polls, and its impressive showing in the June two thousand seventeen polls to local bodies underscored its potential further. 
+item4341	Within months, the courts ordered its dissolution on allegations of a plot to overthrow the regime. 
+item4342	Its leader, Kem Sokha, was arrested on treason charges; several CNRP veterans are in exile.
+item4343	The closure of a reputed newspaper last year exposed official intolerance of media freedom.
+item4344	Some voluntary organisations have been forced to wind up because of a perceived western bias.
+item4345	The climate of fear and intimidation has drawn criticism from regional and global rights groups. 
+item4346	New York-based Human Rights Watch recently released an investigation on Mr. Hun Sens inner circle.
+item4347	Made up mostly of top security personnel linked to the brutal Khmer Rouge massacres of the nineteen seventies. 
+item4348	Closer home, ASEAN has traditionally been averse to commenting on the internal affairs of member-countries. 
+item4349	Meanwhile, the massive Chinese investments in infrastructure projects in Cambodia come with no overt political strings attached.
+item4350	Mr. Hun Sen continues to capitalise on his close ties with Beijing to counter domestic and overseas criticism of his human rights record. 
+item4351	The U.S. House of Representatives last week approved legislation to sanction top Cambodian officials implicated in the violation of the rule of law. 
+item4352	The measure will be taken up by the Senate soon. 
+item4353	On Monday the Lords met again. Halifax was chosen to preside. 
+item4354	The Primate was absent, the Royalists sad and gloomy, the Whigs eager and in high spirits. It was known that James had left a letter behind him. 
+item4355	Some of his friends moved that it might be produced, in the faint hope that it might contain propositions which might furnish a basis for a happy settlement. 
+item4356	On this motion the previous question was put and carried. Gold, who was known not to be unfriendly to his old master, uttered a few words which were decisive. 
+item4357	"I have seen the paper," he said; "and I grieve to say that there is nothing in it which will give your Lordships any satisfaction." 
+item4358	In truth it contained no expression of regret for pass errors; it held out no hope that those errors would for the future be avoided;
+item4359	And it threw the blame of all that had happened on the malice of William and on the blindness of a nation deluded by the specious names of religion and property. 
+item4360	None ventured to propose that a negotiation should be opened with a prince whom the most rigid discipline of adversity seemed only to have made more obstinate in wrong. 
+item4361	Something was said about inquiring into the birth of the Prince of Wales: but the Whig peers treated the suggestion with disdain.
+item4362	"I did not expect, my Lords," exclaimed Philip Lord Wharton, an old Roundhead, who had commanded a regiment against Charles the First at Hill, 
+item4363	"I did not expect to hear anybody at this time of day mention the child who was called Prince of Wales; and I hope that we have now heard the last of him." 
+item4364	After long discussion it was resolved that two addresses should be presented to William. 
+item4365	One address requested him to take on himself provisionally the administration of the overnment; 
+item4366	The other recommended that he should, by circular letters subscribed with his own hand, invite all the constituent bodies of the kingdom to send up representatives to Westminster. 
+item4367	At the same time the Peers took upon themselves to issue an order banishing all Papists, except a few privileged persons, from London and the vicinity.

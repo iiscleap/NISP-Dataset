@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10997	The researchers explained that as Arctic ice is lost, more waters are used for commercial shipping and oil and gas exploration, which presents economic opportunity for some nations.
+item10998	However, they noted, this also contributes to further greenhouse gas emissions and climate change.
+item10999	Bharti Airtel (Airtel) on Monday launched Enterprise Hub - a one stop digital platform offering self-care services to its enterprise and small and medium business (SMB) customers.
+item11000	The Enterprise Hub services will be available to enterprise and SMB customers of Airtel postpaid to begin with, and will soon be rolled out for other products and services, the company said in a statement.
+item11001	Bringing the best of services together under one unified platform, the portal will offer customers a host of convenient self-care features on a single interface - view, download and pay bills online, view payment history, complete account management, TDS certificate uploads, access customised summary reports and much more, it said.
+item11002	â€œWe have designed and developed the portal after spending extensive time researching customer needs and understanding their requirements for a time efficient yet simple and easy one-stop platform offering customer support.
+item11003	We invite all our customers to experience the portal and enjoy seamless self-service along with our state-of-the-art network,â€? Ajay Chitkara, Chief Executive Officer and Director, Airtel Business said.
+item11004	Enterprise Hub will make processing simpler for customers, enabling them to manage their time better as they get a host of their unique connectivity needs addressed real-time.
+item11005	As enterprise customers increasingly access self-care services, Airtel will also be able to optimise its service teams to increase their productivity and time management to improvise the delivery of customer support, the company added.
+item11006	 The project is expected to collect millions of data points over one year to complete the spectrum of variation in Delhi's air-pollution.
+item11007	Ride-hailing company Ola on Monday said it has entered with Microsoft Research to measure street level air quality data in Delhi-NCR, to support in the government's efforts to combat air pollution.
+item11008	As part of this partnership, Ola Mobility Institute and Microsoft Research will leverage their research and data science capabilities to jointly conduct research to provide periodic reports and insights from the data collected.
+item11009	 The project is expected to collect millions of data points over the course of one year to complete the spectrum of variation in Delhi's air-pollution, the company said.
+item11010	Particulate Matter (PM two point five) data would be collected through sensors mounted on Ola's fleet, for which cars have been identified based on complex algorithms to ensure maximum geographical coverage of data.
+item11011	 The sensors to be mounted in the engine compartment, have been custom made by a Delhi-based company Purelogic Labs India Pvt. Ltd, Ola said.
+item11012	"Most air-quality sensors today measure ambient air-quality which is not reflective of the street-level pollution people are subjected to on a daily basis.
+item11013	 This project is part of Ola City Sense, a programme to provide intelligent data based insights to cities.
+item11014	 We are confident that the data acquired from this study will add a new dimension of knowledge to what is already known about air pollution and help combat the problem better through hyper local strategies,â€? Anand Shah, Head, Ola Mobility Institute, said.
+item11015	This data along with traffic and speed data can provide information on bad air-quality hotspots in the city.
+item11016	 This project has the potential to be replicated across other cities to support the implementation of National Clean Air Programme.
+item11017	A camel and a jackal were friends. One day the jackal took his friend to a big sugar-cane farm. It was on the opposite side of a river. After a sumptuous meal the jackal began to howl loudly. 
+item11018	The frightened camel pleaded with the jackal not to do so. The jackal said, "Friend, I have this habit after every meal. 
+item11019	I cannot help it." Soon the farmers arrived and gave a sound thrashing to the camel. When the camel crossed the river the jackal joined him on his back. 
+item11020	In the midstream the camel took a deliberate dip in the water. When the jackal cried out in terror, the camel said casually: "I have the habit of rolling in the water after every meal." The poor jackal was drowned.
+item11021	MORAL : Every action has an opposite reaction.
+item11022	Once, there was a cap-seller in a town. On one fine day, he was selling caps.
+item11023	"Caps, caps, capsâ€¦.Five rupees caps, ten rupees capsâ€¦."
+item11024	After he made few sales of caps, he became very tired. He decided to sit under a big tree to take rest for a while. Soon, he slept off.
+item11025	There were many monkeys on the big tree. They saw the cap-seller was sleeping under the tree. 
+item11026	The monkeys were sitting on the top of the tree. The monkeys came down, took the caps from the cap-seller-bag and wore them. Then they climbed the tree again.
+item11027	When the cap seller woke up, he was shocked to see his basket empty. He searched for his caps. To his surprise, he saw the monkeys were wearing them. 
+item11028	He found that monkeys were imitating him. So, he started throwing his cap down and the monkeys also did so. 
+item11029	The cap-seller collected all the caps, put them back in his basket and went away happily.
+item11030	Moral : Wisdom is better than weapons of war. 

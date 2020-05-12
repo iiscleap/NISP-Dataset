@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4528	Hoping to sell the plan to individual European leaders. It wont be easy. 
+item4529	Last week, Michel Barnier, the European Unions chief negotiator, suggested in a newspaper article a softening of the EUs position on the Irish backstop.
+item4530	A temporary customs arrangement to avoid a hard border between the Republic of Ireland and Northern Ireland, until a permanent solution is found. 
+item4531	Both the EU and the U.K. are against a hard border between Ireland and Northern Ireland, key to the Good Friday Agreement that has ensured peace on the island since nineteen ninety eight. 
+item4532	However, beyond offering vague language on regulatory alignment, it is unclear how Britain proposes to achieve this while exiting the EU Customs Union and Single Market. 
+item4533	The EU had proposed that Northern Ireland remain in a common regulatory area with the Republic of Ireland and the EU. This was rejected by London. 
+item4534	Mr. Barnier wrote that the EU would be willing to improve the text of its proposal on the Irish border question.
+item4535	However, his article poured cold water on another core element of the Chequers plan.
+item4536	A post-Brexit free trade area between Britain and the EU for goods alone, leaving trade in services for a separate agreement. 
+item4537	The U.K. and the EU would collect tariffs on goods on each others behalf where needed. 
+item4538	Mr. Barnier pointed out that goods and services are often inextricably linked, and that the U.K. cannot expect to have free movement of goods without free movement of services.
+item4539	The timing of Mr. Barniers comments, just as Ms. May was trying to win support on the continent, will throw a spanner in the works for her. 
+item4540	Mr. Macron is one of Ms. Mays toughest Brexit customers, and is unlikely to present a divergent view from Brussels. 
+item4541	France has a lot to gain from parts of the financial sector leaving the U.K. after Brexit. 
+item4542	A Brexit deal must ideally be in place before a European summit in October; otherwise Britain is at risk of crashing out of the EU in March two thousand nineteen.
+item4543	Indias law governing motor vehicles and transport is archaic, lacking the provisions necessary to manage fast motorisation. 
+item4544	The lacunae in the Motor Vehicles Act, nineteen eighty eight, require to be addressed to improve road safety, ensure orderly use of vehicles and expand public transport. 
+item4545	The Motor Vehicles (Amendment) Bill, passed by the Lok Sabha last year, seeks to do this.
+item4546	It has now run into opposition in the Rajya Sabha because of its perceived shift of power from the States to the Centre. 
+item4547	The issue is not one of legislative competence; as the subject is in the Concurrent List, Parliament can make a law defining powers available to the States. 
+item4548	Some State governments are concerned about the new provisions, Sections sixty six and eighty eight, which will empower the Centre to form a National Transportation Policy through a process of consultation.
+item4549	The changes will also enable Centrally-drafted schemes to be issued for national, multi-modal and inter-State movement of goods and passengers.
+item4550	Since all this represents a new paradigm that would shake up the sector, several States have opposed the provisions as being anti-federal. 
+item4551	Doing nothing, however, is no longer an option. 
+item4552	The passenger transport sector operating within cities and providing inter-city services has grown amorphously.
+item4553	In the United Provinces the excitement produced by the tidings from England was even greater than in France. 
+item4554	This was the moment at which the Batavian federation reached the highest point of power and glory. 
+item4555	From the day on which the expedition sailed, the anxiety of the whole Dutch nation had been intense. 
+item4556	Never had there been such crowds in the churches. Never had the enthusiasm of the preachers been so ardent. 
+item4557	The inhabitants of the Hague could not be restrained from insulting Albert. 
+item4558	His house was so closely beset by the populace, day and night, that scarcely any person ventured to visit him; and he was afraid that his chapel would be burned to the ground. 
+item4559	As mail after mail arrived with news of the Prince's progress, the spirits of his countrymen rose higher and higher; and when at length it was known that he had, 
+item4560	On the invitation of the Lords and of an assembly of eminent commoners, taken on himself the executive administration, a general cry of pride and joy rose from all the Dutch factions.
+item4561	An extraordinary mission was, with great speed, despatched to congratulate him. 
+item4562	Davis, whose adroitness and intimate knowledge of English politics made his assistance, at such a conjuncture, peculiarly valuable, was one of the Ambassadors; 
+item4563	And with him was joined Nicholas Witsen, a Master of Amsterdam, who seems to have been selected for the purpose of proving to all Europe 
+item4564	That the long feud between the House of Orange and the chief city of Holland was at an end. On the eighth of January Davis and Wilson made their appearance at Westminster. 
+item4565	William talked to them with a frankness and an effusion of heart which seldom appeared in his conversations with Englishmen. 
+item4566	His first words were, "Well, and what do our friends at home say now?" In truth, the only applause by which his stoical nature seems to have been strongly moved was the applause of his dear native country. 
+item4567	Of his immense popularity in England he spoke with cold disdain, and predicted, too truly, the reaction which followed.

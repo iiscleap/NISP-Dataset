@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2189	The percentage change is since year end
+item2190	The Philadelphia based concern develops and designs advanced telecommunications systems
+item2191	The policy needed for this will be further developed
+item2192	The price for the Citicorp unit was about one hundred million dollars ,comma the sources add ,comma in line with earlier estimates .period
+item2193	The price for the Citicorp unit was about one hundred million dollars the sources add in line with earlier estimates
+item2194	The process by which the Len focuses on external objects is called accommodation
+item2195	The proposed per share price includes ten dollars cash and two dollars of unspecified securities
+item2196	The rally fueled by a stronger dollar and bond market snapped a five day decline in which the industrials lost over one hundred twenty points
+item2197	The rate on six month bills fell to six point seven three percent from six point eight three percent
+item2198	The rate on the latest three month bills declined to six point four three percent bid from an average of six point five three percent set at Tuesday’s auction
+item2199	The real change though is in how china looks
+item2200	The real estate investment trust said it was still hoping to reach a new credit arrangement
+item2201	There are too many foreign and institutional players willing to pay higher prices than we are
+item2202	There are two issues to consider
+item2203	There are two issues to consider .period
+item2204	The recent failure of the organization of petroleum exporting countries to reach an agreement limiting production suggests prices might fall some
+item2205	The reduction in the reserve amount also reduced the first -hyphen quarter net loss by seventeen million dollars .period
+item2206	The report it seems fails to mention anything about New York's credit conditions or factors tied to that market
+item2207	There shouldn't be any risk to the banks in this sort of stuff said Lawrence Cohn a banking analyst at Merrill lynch and company
+item2208	There's nothing sexy about it .period
+item2209	There was a striking split between the sexes with men more likely than women to favor space programs
+item2210	There were four hundred eighty two declining issues ,comma three hundred forty nine advancing and one hundred ninety eight unchanged .period
+item2211	There were four hundred eighty two declining issues three hundred forty nine advancing and one hundred ninety eight unchanged
+item2212	There were thirteen point nine million crimes reported in nineteen eighty eight
+item2213	There were two hundred seventy seven issues advancing and three hundred forty four declining .period
+item2214	'We can't possibly fly all the way home without dinner or tea,' said Robert with desperate decision.
+item2215	'And nobody will give us any dinner, or even lunch, let alone tea,' said Cyril.
+item2216	'Perhaps the clergyman here might,' suggested Anthea. 
+item2217	'He must know all about angels -'
+item2218	'Anybody could see we're not that,' said Jane. 
+item2219	'Look at Robert's boots and Squirrel's plaid necktie.'
+item2220	'Well,' said Cyril firmly, 'if the country you're in won't SELL provisions, you TAKE them. 
+item2221	In wars I mean. 
+item2222	I'm quite certain you do. 
+item2223	And even in other stories no good brother would allow his little sisters to starve in the midst of plenty.'
+item2224	'Plenty?' repeated Robert hungrily; 
+item2225	And the others looked vaguely round the bare leads of the church- tower, and murmured, 'In the midst of?'
+item2226	'Yes,' said Cyril impressively. 
+item2227	'There is a larder window at the side of the clergyman's house, and I saw things to eat inside -custard pudding and cold chicken and tongue - and pies - and jam. 
+item2228	It's rather a high window - but with wings -'

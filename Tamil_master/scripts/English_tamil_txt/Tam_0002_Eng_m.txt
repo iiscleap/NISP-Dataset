@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8118	It is distressing that lynching, as a consequence of vigilantism, communal bigotry and the dissemination of hate messages and rumours on social media, has acquired the status of a preponderant social trend.
+item8119	The Supreme Court noted this when it observed in a judgment last year that rising intolerance and growing polarisation expressed through a spate of incidents of mob violence cannot be permitted to become the normal way of life or the normal state of law and order?.
+item8120	It directed States to take specific preventive, punitive and remedial measures.
+item8121	It mooted a special law to deal with lynching and the appointment of a nodal officer in each district to combat the threat.
+item8122	While these measures are not yet in place, the latest incident must be thoroughly investigated and the perpetrators brought to book.
+item8123	However, the larger issue has to be faced squarely by the political leadership.
+item8124	Organised vigilantism by cow protection groups was initially behind a wave of lynchings; rumour-mongering through social media platforms came next.
+item8125	The Ansari incident shows that the problem has transmogrified into a sinister form of enforcing the chanting of Hindu slogans by citizens professing other religions.
+item8126	It may well be that the unseemly political use of the religious chant of 'Jai Shri Ram' in Parliament by some ruling party members to heckle those in the Opposition ranks is finding its echo on the streets.
+item8127	Chennai's aspirations to grow into a global economic hub appear considerably weakened as it struggles to find water.
+item8128	The shadow of drought from twenty eighteen has stretched into the torrid summer this year, evaporating not just the city's reservoirs, but the prosperity of its residents who are forced to hunt for tankers, pay bribes and spend hours even at night waiting for trucks to dispense some water.
+item8129	Ironically, Tamil Nadu's capital, which in a normal year gets anything between thirteen hundred mm and fourteen hundred mm of rainfall, has been laid low by the indifference of successive governments.
+item8130	That residents are now given minimum piped water and meagre tanker supplies totalling a third of the installed capacity of fifteen hundredmillion litres a day, that too mainly from desalination plants, faraway lakes and farm wells, is proof of the neglect of water governance.
+item8131	Yet, even searching questions posed by the Madras High Court to the AIADMK government have elicited only vague assurances on meeting basic requirements and restoring two ten waterbodies to augment future storage, rather than a firm timeline.
+item8132	Chief Minister Edappadi K.Palaniswami was wrong to dismiss reports on water scarcity as an exaggeration?, and he must end this business-as-usual approach.
+item8133	A time-bound plan is needed to augment the resources in the Greater Chennai region encompassing the neighbouring districts of Thiruvallur and Kancheepuram.
+item8134	This plan should be tasked to a Special Officer, to be framed by officials in consultation with credentialed experts in research and academia, and public comments invited before it is finalised.
+item8135	Given the large base of tanks and reservoirs in Greater Chennai ” over four thousand waterbodies of significance ” prudent rainfall management can help it through withering summers and weak monsoons.
+item8136	A white paper with a full assessment of these wetlands and their storage potential should be a priority for the State's Sustainable Water Security Mission.
+item8137	Deepening storage in the four major reservoirs must get priority.
+item8138	Such a project must quantify the increase in storage and set an early deadline of a year.
+item8139	These measures can harvest the bulk of the rain in a good year, and prove superior to the fire-fighting approach of installing expensive desalination plants and bringing small quantities by rail from another district.
+item8140	Tamil Nadu made rainwater harvesting mandatory quite early, but failed to follow it up with an institutional mechanism to help citizens implement it.
+item8141	The government should give monetary incentives to NGOs, as NITI Aayog proposed in its Water Index report, to encourage them to install systems and show quantifiable recharge outcomes.
+item8142	On the consumer side, devices and practices to reduce wastage should be promoted, especially on commercial premises.
+item8143	People have been coming to the wise man, complaining about the same problems every time. 
+item8144	One day he told them a joke and everyone roared in laughter.
+item8145	After a couple of minutes, he told them the same joke and only a few of them smiled.
+item8146	When he told the same joke for the third time no one laughed anymore.
+item8147	The wise man smiled and said:
+item8148	You can't laugh at the same joke over and over. So why are you always crying about the same problem??
+item8149	Moral of the story: Worrying won't solve your problems, it'll just waste your time and energy.

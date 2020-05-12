@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item5668	 I invite readers to suggest the story about which they want to know more.
+item5669	 And in adjudicating cases involving the life and personal liberties of citizens, courts must take special care to ensure that the temptation to get carried away and forget what the Constitution commands is held firmly in check. 
+item5670	 For instance, Balti, a Tibetic language, is on the wane on the Indian side of the LoC,with only about nine thousand speakers in five villages of the Nubra Valley.
+item5671	 Touted as India’s premier investigation agency, its reputation has of late suffered a near mortal blow, mainly on account of internecine quarrels, as also external interference in its internal affairs.
+item5672	 Look at the way the State school athletics meet is organised.
+item5673	These and other similar connections are based on minuscule associations of remains attributed to human types and stone tools - in most branches of science the evidence would be dismissed as insignificant.
+item5674	 Our entry into Xinjiang took around twenty eight hours at the customs, where all the data from our phones and laptops was downloaded.
+item5675	 In nineteen seventy one , we were part of Pakistan for six months during the war before India won us back.
+item5676	 If she emerges with a decent number of Lok Sabha seats, the Congress could be pressured to support her to the Prime Minister’s post.
+item5677	Back in two thousand four , in Kargil town, around two hundred km from Leh, two brothers, Gulzar Hussain Munshi, forty eight , and Ajaz Hussain Munshi, forty two , decided to sort out the artefacts hidden in their grandfather’s inn.
+item5678	government should find out how they continued to operate their trade. 
+item5679	Less than one percent of material used to produce clothing is recycled into new garments at the end of its life.
+item5680	The train, returning from Varanasi, came to a halt near Tundla, about two hundred km from Delhi; possibility of a cattle runover.
+item5681	Whatever advantages the people there see in milk, they outweigh the potential digestive issues or the need to process the milk.
+item5682	This year, there was also a large selection of Indian films, including Zoya Akhtar’s Gully Boy, Ritesh Batra’s Photograph, and Rima Das’s Bulbul Can Sing, a follow up to her National Award-winner Village Rockstars (two thousand seventeen).
+item5683	Its worth noting that in other mammals, there arent any lactase-persistent adults ninetysix adult cows dont have active lactase, and neither do cats or dogs, for example.
+item5684	But since the statements made in the audio recordings allude to transactions that are criminal in nature, law enforcement agencies are better-equipped to uncover the truth. 
+item5685	In fact, the United Nations Food and Agriculture Organisation has pushed for people in developing countries to keep more non-traditional dairy animals, such as llamas, so that they can obtain the benefits of milk even if cows milk is unavailable or too expensive.
+item5686	Another documented effect of mutual gaze may help explain why that moment of eye contact across a room can sometimes feel so compelling.
+item5687	 The two have had differences on many issues over the last two years.
+item5688	Organic food is food produced by methods that comply with the standards of organic farming.
+item5689	 Standards vary worldwide, but organic farming, in general, features practices that cycle resources, promote ecological balance, and conserve biodiversity.
+item5690	 Organizations regulating organic products may restrict the use of certain pesticides and fertilizers in the farming methods used to produce such products.
+item5691	 In general, organic foods are also usually not processed using irradiation, industrial solvents, or synthetic food additives.
+item5692	 In the twenty first century, the European Union, the United States, Canada, Mexico, Japan, and many other countries require producers to obtain special certification in order to market their food as organic within their borders.
+item5693	 In the context of these regulations, organic food is produced in a way that complies with the organic standards set by regional organizations, national governments, and/or international organizations.
+item5694	 Although the produce of kitchen gardens may actually be organic, selling food with an organic label is regulated by governmental food safety authorities, such as the US Department of Agriculture (USDA) or European Commission(EC).
+item5695	 From an environmental perspective, fertilizing, overproduction, and the use of pesticides in conventional farming may affect local ecosystems, biodiversity, groundwater, and drinking water supplies.
+item5696	 However, the outcome of farming organically may have uncertain benefits.
+item5697	 Organic agriculture has higher potential costs from an economic perspective due to lower yields, higher labour costs, and higher consumer prices.
+item5698	 Demand for organic foods is primarily driven by concerns for personal health and the environment.
+item5699	From the perspective of the consumer, there is not sufficient evidence in the scientific and medical literature to support claims that organic food is either safer or healthier to eat than conventional food.
+item5700	 While there may be some differences in the nutrient and antinutrient contents of organically and conventionally produced food, the variable nature of food production, shipping, storage, and handling makes it difficult to generalize results.
+item5701	 Claims that "organic food tastes better" are generally not supported by tests.s

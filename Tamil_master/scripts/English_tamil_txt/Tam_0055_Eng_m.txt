@@ -1,0 +1,44 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9949	This decision follows violence in Itanagar, which included arson attacks on the residence of the Deputy Chief Minister.
+item9950	The government took this step to de-escalate tensions despite the fact that both mainstream parties, the Congress and the BJP, were on the same page on the demand to grant the PRCs.
+item9951	The non-APSTs include the Deoris, Sonowal Kacharis, Morans, Mishings, Adivasis and ex-servicemen belonging to the Gorkha community.
+item9952	Successive governments and members of these communities have said PRCs are needed to avail of job and educational opportunities elsewhere in the country, and currently the twenty six tribes and numerous sub-tribes who claim to be native to Arunachal Pradesh enjoy this privilege.
+item9953	Members of some of the non-APST communities have been long-time residents of the reconstituted State, and to term them as “outsiders�? reflects a chauvinistic mindset that denies a just demand.
+item9954	Previous governments, including one led by the Congress in twenty ten, had also buckled under pressure on the issue.
+item9955	The indigenous tribes opposing the move say this is one step away from providing Scheduled Tribe status for the non-APSTs, which they vociferously oppose.
+item9956	While this fear is overblown, the award of PRCs could ensure land rights that are otherwise denied to the non-APSTs.
+item9957	The fact that the opposition to the demand took such a violent turn could be linked to a retaliation to attempts by the members of the non-APSTs to enforce an “economic blockade�? of the State from the neighbouring parts of Assam last month.
+item9958	But these incidents suggest that barely any northeastern State is today free of the pattern of ethnic discord marked by some communities being branded “outsiders�? and sought to be denied resident privileges.
+item9959	These include the Chakma issue in Mizoram, the hill versus valley disturbances in Manipur, the longstanding “migration�? issue in Assam, the attacks on Sikh residents in Meghalaya, and even the Chakma/Hajong citizenship issue in Arunachal Pradesh itself.
+item9960	The pattern through all these is eerily similar, with ethnic identities trumping civic consciousness in bringing about discord that has even escalated into violence in some cases.
+item9961	Arunachal Pradesh has otherwise remained a peaceful State, and it is incumbent on the government and the polity to foster a civic consciousness that allows equality of opportunity for all residents in the State.
+item9962	This is a difficult task as identity issues persist and fester when there is inadequate economic development – which is the real bane of the Northeast today.
+item9963	The arrest of one twenty nine Indians on the charge of wilfully violating immigration laws to stay and work in the United States sends a stark message to youth looking for better prospects abroad: their efforts should begin with due diligence and strictly follow the letter of the law.
+item9964	In the sting operation carried out by the U.S.Department of Homeland Security, which threatens to encompass many more Indians in the ‘University of Farmington’ case, the contentious issue is whether they fell victim to unscrupulous recruiters who offered to secure an I-twenty student document that allowed them to undertake paid work using the provision for Curricular Practical Training, or knowingly engaged in fraud.
+item9965	Going by the indictment of eight recruiters of Indian origin, they knew they were violating U.S.immigration law when they enrolled students using fraudulent and unlawful means, and their profits included negotiated referral fees paid into their accounts by undercover agents.
+item9966	The prosecution has alleged that each student who enrolled in the ‘university’ was aware that there would be no classes, credit scores or academic requirements, and the intention was merely to “pay to stay�? and gain access to employment.
+item9967	These statements are, of course, subject to scrutiny during the trial of the alleged recruiters.
+item9968	The Ministry of External Affairs has made the correct distinction between students who may have been duped and the recruiters.
+item9969	Students who are eligible to pursue studies at an authorised university in the U.S.should, therefore, get a further opportunity and not be subjected to summary deportation or humiliation.
+item9970	It must also not prejudice the prospects of such students who may apply in future for legal entry.
+item9971	The University of Farmington case in Michigan is not the first instance of Indian students falling foul of U.S.immigration laws, although it stands apart as a racket exposed by a sting operation.
+item9972	Others such as Tri-Valley University and Herguan University were degree mills run by individuals that used false claims and documents to enable youth to unlawfully stay in the U.S.and, in many cases, pursue employment.
+item9973	These trends reinforce the need for good communication that would help students identify credentialed institutions that meet the requirements of the Student and Exchange Visitor Program, and highlight the serious nature of visa fraud.
+item9974	When a friend encourages you, you’ll feel as if you could achieve just about anything in the world. 
+item9975	Friends are the people having your back as you push forward toward your goal by offering plenty of positive reinforcement.
+item9976	With the support of your friends, you’ll have a greater chance at succeeding. 
+item9977	That’s why choosing the wrong friends is so dangerous to your success. 
+item9978	Instead of encouraging you, they’re more likely to put your down.
+item9979	Avoid people who don’t respect your choices or constantly express skepticism about your ideas. 
+item9980	Real friends will always support you, no matter how crazy your idea is and will only withdraw their support when they believe that you might do yourself harm. 
+item9981	A toxic friend is a serious threat to your success.
+item9982	A friend who constantly makes negative comments about your goals and dreams will only distract your from them. 
+item9983	In the end, you’ll have to work harder towards achieving your objectives.
+item9984	If you think that you’ll fail, the chances are high that you will. 
+item9985	And if a friend brings you down, you’re in for trouble.
+item9986	Spot any friends who are happy to sit back and provide a fresh dose of criticism every time you two meet? Avoid them for your own good, don’t expect them to say anything nice to you.

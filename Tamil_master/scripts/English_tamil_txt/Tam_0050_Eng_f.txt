@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9776	At a broader level, the archipelago and the larger Indian Ocean region could expect more collaborative approaches on regional maritime security issues, including counterterrorism and trans-national crimes.
+item9777	However, Male is still grappling with the legacy of the Yameen administration’s headlong plunge into the orbit of Beijing.
+item9778	The massive debts the Maldives incurred, by some estimates to the tune of dollar three billion, linked to infrastructure investments need to be unwound.
+item9779	Second, the multiparty alliance must hold firm despite immense political pressures that arise from varying visions for governance.
+item9780	Some tensions already seem to be bubbling to the top: on February twenty five, Mohamed Nasheed, former President and important coalition-builder in the MDP, tweeted about the country’s Supreme Court “meddling in elections — again�?.
+item9781	For genuine peace and bilateral harmony to take root in the region, building a shared vision for the future of the Maldives is the immediate task at hand.
+item9782	The Reserve Bank of India’s decision last week to resort to a dollar-rupee swap, instead of the traditional open-market purchase of bonds, to infuse liquidity into the economy marks a significant shift in the central bank’s liquidity management policy.
+item9783	Under the three-year currency swap scheme, which is scheduled to open on Tuesday next week, the RBI will purchase dollar five billion from banks in exchange for rupees.
+item9784	The central bank will infuse as much as rupees thirty five thousand crore into the system in one shot at a time when liquidity generally tends to be squeezed.
+item9785	For the banks, it is a way to earn some interest out of the forex reserves lying idle in their kitty.
+item9786	Apart from injecting fresh liquidity into the economy, the move will have implications for the currency market even as it helps shore up the RBI’s dollar reserves.
+item9787	Bond yields rose on the day following the announcement of the swap scheme last week, reflecting the prevailing opinion among traders that the RBI may gradually reduce its dependence on the regular bond purchase scheme to manage liquidity within the economy.
+item9788	While traditional open market operations distort the bond market, the new forex swap scheme will introduce new distortions in the currency market.
+item9789	The rupee’s recent rally against the dollar has been halted by the RBI’s decision to infuse rupees and suck out dollars through the swap scheme.
+item9790	Even so, it is worth noting that the rupee has appreciated significantly in value terms against the dollar since the low reached in October as foreign investors have begun to pour money into the Indian economy.
+item9791	Overall, the dollar-rupee swap is a useful addition to the RBI’s policy toolkit as it offers the central bank a chance to directly influence both the value of the rupee and the amount of liquidity in the economy at the same time using a single tool.
+item9792	In the aftermath of the liquidity crisis in the non-banking financial sector, it can be an effective way to lower private borrowing costs as well.
+item9793	The coming elections, which can lead to an increase in cash withdrawals from banks, may have also played a role in the RBI’s larger decision to boost liquidity in the system.
+item9794	The way banks respond after receiving fresh liquidity from the RBI, however, will determine the success of the new liquidity scheme to a large extent.
+item9795	Businesses could benefit from the greater availability of liquidity, but only if banks aggressively pass on the benefit of lower rates to their borrowers.
+item9796	If banks choose to deposit the fresh RBI money in safe government securities at low yields, as they have done in the past, the de facto cap on the government’s borrowing costs will remain intact.
+item9797	But if banks manage to find alternative ways to deploy their money, the RBI’s new liquidity scheme could end up raising borrowing costs for the government, punishing it for fiscal indiscretion.
+item9798	When Pramod Sawant took office dramatically in the early hours of Tuesday as Chief Minister, it was the twenty third time that the regime in Goa changed since nineteen sixty three, excluding five spells of President’s Rule.
+item9799	Mr.Sawant’s legislative majority is far from clear and the longevity of his government remains a subject of speculation.
+item9800	The State voted a hung Assembly in twenty seventeen, with the BJP winning fewer seats than the Congress.
+item9801	I mentioned impatience as being both a positive and negative attitude people have towards success, and in many ways, stubbornness is very similar. 
+item9802	Starting with the less focused on, yet positive attitude, stubbornness means people are harder to crack when others try to tell them things can’t be done. 
+item9803	They won’t have any of it.
+item9804	If you’re a stubborn person, as I can definitely be at times, then you’ll know that once you’re set on doing something you’ll do it. 
+item9805	It doesn’t matter who tells you it’s impossible, that it can’t be done, you still believe it can be.
+item9806	The downside, being that stubborn people are far less likely to take others’ advice, or even want other people’s help. 
+item9807	It also has the potential to leave people narrow minded and unable to see past what they may be focusing on, which in itself can be both an advantage and disadvantage.
+item9808	It perhaps gives people greater focus, but less visibility on any opportunities that may present themselves.

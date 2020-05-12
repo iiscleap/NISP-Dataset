@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8081	Leaders of the ten -member Association of South East Asian Nations have resoundingly committed to conclude negotiations for the Regional Comprehensive Economic Partnership free trade agreement by the end of twenty nineteen.
+item8082	Some like the Malaysian Prime Minister went a step further, suggesting that countries not ready to join the RCEP, notably India but also Australia and New Zealand, could join at a later date, allowing a truncated thirteen-member RCEP to go ahead.
+item8083	Others insist that all sixteen members must agree on the final RCEP document.
+item8084	It is clear that ASEAN, which first promoted the RCEP idea in twenty twelve, is putting pressure on all stakeholders to complete the last-mile negotiations.
+item8085	The ASEAN summit, which ended in Bangkok on Sunday, agreed to send a three-member delegation to New Delhi to take forward the talks.
+item8086	RCEP includes ASEAN's FTA partners ” India, China, Japan, South Korea, Australia and New Zealand ” and the FTA would encompass fourty percent of all global trade among economies that make up a third of global GDP.
+item8087	India has been keen to join.
+item8088	But six years into negotiations, its concerns remain: opening its markets for cheaper goods from countries like China and South Korea; and ensuring that RCEP countries open their markets for Indian manpower (services).
+item8089	India has a trade deficit with as many as eleven of the RCEP countries, and it is the only one among them that isn't negotiating a bilateral or multilateral free trade agreement with China at present.
+item8090	As a result, although negotiators have agreed to New Delhi's demand for differential tariffs for its trade with China vis-a-vis the others, India has also made tagging the Country of Origin? on all products a sticking point in RCEP negotiations.
+item8091	Despite its misgivings, however, the government has reiterated that it is committed to making RCEP work, and any attempt to cut India out of the agreement was extremely premature?.
+item8092	In the next few months, India will be expected to keep up intense negotiations, and most important, give a clear indication both internally and to the world that it is joining RCEP.
+item8093	To that end, the Commerce Ministry has begun consultations with stakeholders from industries that are most worried about RCEP, including steel and aluminium, copper, textile and pharmaceuticals, and has engaged think tanks and management institutes to develop a consensus in favour of signing the regional agreement.
+item8094	Giving up the chance to join RCEP would mean India would not just miss out on regional trade, but also lose the ability to frame the rules as well as investment standards for the grouping.
+item8095	Above all, at a time of global uncertainties and challenges to multilateralism and the international economic order, a negative message on RCEP would undermine India's plans for economic growth.
+item8096	The death of a twenty four-year-old man in Jharkhand days after he was brutally beaten by a mob is a sordid reminder that the disturbing phenomenon of lynching is not going away any time soon.
+item8097	The assault on Tabrez Ansari also followed a recognisable pattern.
+item8098	The victim was Muslim and came under the suspicion of a mob, which chose to mete out vigilante justice, and someone in the crowd recorded trophy footage.
+item8099	This one was not motivated by cow vigilantism or suspicion of transporting cattle for slaughter or possessing beef.
+item8100	Yet, the communal angle was on display, with the crowd forcing him to shout 'Jai Sri Ram' and 'Jai Hanuman', confirming that vigilante justice and mob lynch mentality are invariably accompanied by a sectarian motive in the present context.
+item8101	Following a public outcry, some of the villagers allegedly involved were arrested on suspicion of murder.
+item8102	However, the conduct of the police typifies the official apathy and tacit acceptance of mob justice as a way of life in some parts of the country.
+item8103	Ansari was tied to a tree and beaten for hours before they came to his aid.
+item8104	They merely took him into custody based on a complaint of theft, and neither recorded his injuries nor mentioned in the FIR that he was assaulted.
+item8105	It was only after his condition worsened in jail that he was taken to hospital, where he died.
+item8106	An old man lived in the village. 
+item8107	He was one of the most unfortunate people in the world. 
+item8108	The whole village was tired of him; he was always gloomy, he constantly complained and was always in a bad mood. 
+item8109	The longer he lived, the more bile he was becoming and the more poisonous were his words. People avoided him, because his misfortune became contagious. 
+item8110	It was even unnatural and insulting to be happy next to him.
+item8111	He created the feeling of unhappiness in others.
+item8112	But one day, when he turned eighty years old, an incredible thing happened. Instantly everyone started hearing the rumour:
+item8113	An Old Man is happy today, he doesn't complain about anything, smiles, and even his face is freshened up.?
+item8114	The whole village gathered together. The old man was asked:
+item8115	Villager: What happened to you?
+item8116	Nothing special. Eighty years I've been chasing happiness, and it was useless. And then I decided to live without happiness and just enjoy life. That's why I'm happy now.? “ An Old Man
+item8117	Moral of the story: Don't chase happiness. Enjoy your life.

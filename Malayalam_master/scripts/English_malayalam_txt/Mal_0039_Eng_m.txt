@@ -1,0 +1,32 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10393	He further said that the Modi government seems to view everything and everyone through a tainted prism of suspicion and distrust, and has positioned itself as some saviour, "resorting to foolhardy moral-policing policies such as demonetisation, which have proved to be ill-thought-out and catastrophic".
+item10394	"Wrongful evil characterisation of everyone and a 'good-vs.-evil governance' doctrine cannot be a recipe for healthy economic growth," he wrote for the newspaper.
+item10395	Arguing that the role of social trust in economic development has been well-documented, right from the times of Adam Smith to the modern-day discipline of behavioural economics, Singh said it is imperative that the torn social fabric of fear and distrust is stitched together for economic growth to revive.
+item10396	The real worrying trend, Singh said, is that the most recent retail inflation numbers have shown a sharp increase, especially the food inflation figure, and it is expected to rise even further in the coming months.
+item10397	"Continued increase in inflation combined with stagnant demand and high unemployment will lead to what economists term as 'stagflation', a dangerous territory from which it becomes very hard for large economies to recover," he said.
+item10398	Singh said that while India is currently not in stagflation territory yet, it is prudent to act quickly to restore consumption demand through fiscal policy measures since the impact of monetary policy seems muted.
+item10399	"It is my belief that India's fragile economic situation calls for the twin policy actions of boosting demand through fiscal policy and reviving private investment through 'social policy' by inspiring trust and confidence in the economic participants in our society," he concluded.
+item10400	 India has the potential for "very rapid" economic growth over the next decade which will lift people out of poverty and allow the government to invest in health and education priorities in an "exciting way", billionaire philanthropist and Microsoft co-founder Bill Gates has said.
+item10401	In an exclusive interview to PTI, Gates, the world's richest person, specifically complimented India's Aadhaar identity system and the country's performance in the financial services and pharma sectors.
+item10402	The positive outlook by Gates for the Indian economy, Asia's third largest, comes at a time when it is reeling under major slowdown amid apprehensions that the cycle may last for a longer period.
+item10403	"I don't have any knowledge about the near term, but I'd say over the next decade, there's potential for very rapid growth, which will lift people out of poverty and allow the government to invest in health and education priorities in a really exciting way," he said.
+item10404	On Friday, sixty four-year-old Gates, with a net worth of USD eleven hundred billion, regained the position of the world's richest person surpassing the Amazon Inc's Jeff Bezos.
+item10405	The Microsoft co-founder has so far donated over USD thirty five billion to the Bill and Melinda Gates Foundation for poverty reduction and social development programmes in various countries.
+item10406	"... Everybody hopes that there's really good growth because the potential is certainly there for India to have high growth," he said.
+item10407	Gates is currently on a three-day visit to India to review the work of his foundation in the country.
+item10408	India's economic growth slumped to an over six-year low of five per cent in the first quarter ending June this fiscal due to slower consumer demand and private investment.
+item10409	The slump in growth has prompted many global agencies to cut India's GDP growth by various degrees for twenty nineteen-twenty .
+item10410	Gates also hailed India's Aadhaar identification system as well as adoption of the UPI system.
+item10411	"Well, in all of our areas, India's been a key place where we find innovators and financial services. It's fantastic the way that the Aadhaar identity system and the overall UPI system is gaining adoption, and there's some great lessons out of that work," he said.
+item10412	"We partner with people like Nandan Nilekani to think, okay, how do the lessons from India apply to other countries for things like digital identity or financial services," he said.
+item10413	There lived a black sheep in a nearby village. Every spring, he shaved his black wool and sold it to the villagers. The villagers made sweaters and socks from his black wool.
+item10414	One day, the black sheep noticed that he had some more wool left. He thought, 'It would be such a waste if nobody wants to buy the wool.'
+item10415	That afternoon, an old man came over to his wooden shed to see him. He wanted one bag full of the black sheep’s wool. Then an old woman came over. 
+item10416	She also wanted a bag full of wool. A short while later, a little boy arrived. He also wanted one bag full of wool.
+item10417	Therefore, the black sheep prepared three bags full of wool for them. He was happy that all of his wool was sold off.
+item10418	Moral of the story : We should be generous and helpful with what we have. We should be patient and not give up.

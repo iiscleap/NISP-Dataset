@@ -1,0 +1,45 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3279	As the new business will be called ought to be happy with the way things have panned out. But the situation on the ground is far from ideal.
+item3280	The intensity of competition has steadily increased since the entry of Reliance Jio, founded by the deep-pocketed billionaire Mukesh Ambani. 
+item3281	This has left the incumbents battling furiously to protect their turf with tariff reductions to match the newcomers no prisoners approach to pricing of its voice and data services. 
+item3282	The telecom regulators September decision to more than halve the fee that operators pay on cross-network calls has only added to their woes, 
+item3283	Resulting in a steep and continuing erosion in average revenues per user and margins. 
+item3284	The managements of Vodafone and Idea have repeatedly underscored the competitive challenges facing them, with both operators losing customers and the latter awash in red ink.
+item3285	With about four hundred and thirty million subscribers, Vodafone Idea would vault past Bharti Airtels current India customer base of about three hundred and fourty five million to the top of the heap. 
+item3286	But this scale that they gain would ultimately count for little if the combine fails to staunch customer losses, and do that without compromising on the businesss viability. 
+item3287	The cost of bidding for fresh wireless spectrum is escalating steadily and mobile number portability has made it easier.
+item3288	For customers to switch networks in case of dissatisfaction with service quality levels or pricing. 
+item3289	The combine will therefore need more than just a few smart ideas, as Idea Cellulars erstwhile marketing campaign used to stress, to make a fist of their merger.
+item3290	Prime Minister Narendra Modis announcement on Independence Day that Ayushman Bharat, or the National Health Protection Mission, will be launched formally on September twenty five.
+item3291	 It sends out the signal that the government is finally recognising the linkages between health care and economic development. 
+item3292	Political parties have not yet made the right to health a campaign issue, and the National Health Policy does not recommend such a right since it cannot be fulfilled. 
+item3293	But there is increasing awareness that it is unsustainable for a country of one point three billion people to rely on household savings to pay for health care. 
+item3294	The NHPM is an ambitious initiative, providing a coverage of ?5 lakh per family a year to ten crore families chosen through the Socio-Economic Caste Census, mainly rural poor and identified urban workers. 
+item3295	State governments, which will administer it through their own agency, will have to purchase care from a variety of players, including in the private sector, at pre-determined rates.
+item3296	Reaching a consensus on treatment costs through a transparent consultative process is vital for a smooth and steady rollout. 
+item3297	A large-scale Information Technology network for cashless treatment should be set up and validated. 
+item3298	Since a majority of the families will be rural, and the secondary and tertiary public hospital infrastructure suffers from severe efficiency and accountability problems, State governments should upgrade the administrative systems.
+item3299	National schemes on health provide an overarching framework, but the responsibility of executing them falls on the State governments. 
+item3300	It is widely recognised that there are nations with the nation in India, given the population sizes, disease burdens and the development levels of different regions. 
+item3301	Clearly, the NHPM has a problem with the distribution of hospitals, the capacity of human resources, and the finances available for cost-sharing. 
+item3302	Addressing these through the planned increase in public health spending to touch 2.five% of GDP, and 8% of State budgets, is the immediate challenge. 
+item3303	With steady economic growth, meeting that policy commitment through higher investments will be a test of political will. 
+item3304	The King was bitterly mortified by the large amount of the collection which had been made in obedience to his own call. 
+item3305	He knew, he said, what all this liberality meant.It was mere Whiggish spite to himself and his religion. 
+item3306	He had already resolved that the money should be of no use to those whom the donors wished to benefit. 
+item3307	He had been, during some weeks, in close communication with the French embassy on this subject, and had, with the approbation of the court of Verso,
+item3308	Determined on a course which it is not very easy to reconcile with those principles of toleration to which he afterwards pretended to be attached. 
+item3309	The refugees were zealous for the Calvinistic discipline and worship. 
+item3310	James therefore gave orders that none should receive a crust of bread or a basket of coals who did not first take the sacrament according to the Anglican ritual.
+item3311	It is strange that this inhospitable rule should have been devised by a prince who affected to consider the Test Act as an outrage on the rights of conscience: 
+item3312	For, however unjustifiable it may be to establish a sacramental test for the purpose of ascertaining whether men are fit for civil and military office, 
+item3313	It is surely much more unjustifiable to establish a sacramental test for the purpose of ascertaining whether, in their extreme distress, they are fit objects of charity. 
+item3314	Nor had James the plea which may be urged in extenuation of the guilt of almost all other persecutors: 
+item3315	For the religion which he commanded the refugees to profess, on pain of being left to starve, was not his own religion. 
+item3316	His conduct towards them was therefore less excusable than that of Lewis: for Lewis oppressed them in the hope of bringing them over from a damnable heresy 
+item3317	To the true Church: James oppressed them only for the purpose of forcing them to apostatize from one damnable heresy to another.

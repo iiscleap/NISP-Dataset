@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8289	The UN report shows migration to countries with a falling ratio of working-age people to those above sixty five will be steady, as those economies open up to workers to sustain economic production.
+item8290	Japan has the lowest such ratio, followed by Europe and the Caribbean; in over three decades, North America, Eastern and Southeastern Asia will join this group.
+item8291	India meanwhile will have a vast number of young people and insufficient natural resources left for exploitation.
+item8292	Preparing for the changes and opportunities migration offers will depend on a skills revolution.
+item8293	At the national level, achieving a reduction in fertility rates in States such as Bihar, Uttar Pradesh, Haryana, Madhya Pradesh, Jharkhand and Chhattisgarh ” which are high as per Sample Registration System data ” is a challenge for India as it seeks to stabilise population growth.
+item8294	This is possible if the State governments set their minds to it.
+item8295	They must singularly focus on improving education and health access for women, both of which will help them be gainfully employed.
+item8296	On the other hand, a rise in life expectancy has brought with it a policy imperative that is bound to become even more important in coming decades.
+item8297	A growing population of older adults is a certainty, and it opens up prospects for employment in many new services catering to them.
+item8298	Urban facilities have to be reimagined, with an emphasis on access to good, affordable housing and mobility.
+item8299	The Sustainable Development Goals framework provides a roadmap to this new era.
+item8300	But progress in poverty reduction, greater equality, better nutrition, universal education and health care, needs state support and strong civil society institutions.
+item8301	Making agriculture remunerative and keeping food prices stable are crucial to ensure nutrition for all.
+item8302	India is set to become the most populous nation.
+item8303	For its leaders, improving the quality of life for its people will be a test of political will.
+item8304	The decision to form a committee to examine the issue of holding simultaneous elections to the Lok Sabha and the State Assemblies is a significant step towards achieving Prime Minister Narendra Modi's objective of synchronising elections across the country.
+item8305	The fact that he took the initiative to convene a meeting of leaders of all political parties so early in his second stint in office shows that he attaches considerable importance to it.
+item8306	Advocates of such elections point to potential benefits.
+item8307	There is the obvious advantage of curbing the huge expenditure involved and reducing the burden on the manpower deployed.
+item8308	The second point in its favour is that ruling parties can focus more on governance and less on campaigning.
+item8309	The idea that some part of the country is in election mode every year, resulting in impediments to development work due to the model code of conduct being in force, is cited in favour of reducing election frequency.
+item8310	But there are challenging questions of feasibility that the political system must contend with.
+item8311	First, it may require the curtailment or extension of the tenure of State legislatures to bring their elections in line with the Lok Sabha poll dates.
+item8312	Should State governments bear this burden just to fulfil the ideal of simultaneous elections? There is an obvious lack of political consensus on this.
+item8313	Another question is: what happens if the government at the Centre falls?
+item8314	Vijay and Raju were friends. On a holiday they went walking into a forest, enjoying the beauty of nature. 
+item8315	Suddenly they saw a bear coming at them. They became frightened.
+item8316	Raju, who knew all about climbing trees, ran up to a tree and climbed up quickly. 
+item8317	He didn't think of Vijay. Vijay had no idea how to climb the tree.
+item8318	Vijay thought for a second. He'd heard animals don't prefer dead bodies, so he fell to the ground and held his breath. The bear sniffed him and thought he was dead. So, it went on its way.
+item8319	Raju asked Vijay; What did the bear whisper into your ears??
+item8320	Vijay replied, The bear asked me to keep away from friends like you? ¦and went on his way.
+item8321	Moral of the story: A friend in need is a friend indeed.

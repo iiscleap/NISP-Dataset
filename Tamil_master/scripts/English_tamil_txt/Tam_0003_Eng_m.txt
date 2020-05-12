@@ -1,0 +1,42 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8150	Droughts are bottlenecks for profit, and several actors have developed a vested interest in transferring water to the city at high cost.
+item8151	Long-term solutions can end this cycle.
+item8152	The recent defection of four Rajya Sabha MPs from the Telugu Desam Party to the ruling Bharatiya Janata Party, merely a month after simultaneous Assembly and Lok Sabha elections in Andhra Pradesh, can only be termed as political opportunism.
+item8153	The fact that these MPs merged with the BJP as a group helped them stay clear of the anti-defection law, which stipulates that a breakaway group constitute at least two-thirds of a legislative party’s strength and that it merge with another party.
+item8154	The TDP had been reduced to just twenty three and two seats in the newly elected Andhra Pradesh and Telangana Assemblies, respectively.
+item8155	It now commands a much lower legislative profile with just two members in the Rajya Sabha and three in the Lok Sabha.
+item8156	There is a tendency among legislators to seek greener pastures at a time of crisis for their parties, but the nature of these defections suggests that this was not a simple case of leaving a party whose political strength had considerably diminished.
+item8157	The BJP is even more of a non-player in Andhra Pradesh as it does not hold a single seat in the current Assembly and its vote share dipped in comparison to the previous Assembly elections.
+item8158	The reasons for the defections appear to have little to do with the political equations in the parent State.Some of the defecting legislators have a cloud of suspicion over them as they were subjected to probes by Central Bureau of Investigation, Enforcement Directorate and Income Tax officials over financial transactions.
+item8159	It would be in order to ask whether the defections are aimed at currying favour with the government at the Centre in regard to the investigations.
+item8160	The NDA government led by Prime Minister Narendra Modi has promised zero tolerance on corruption, and it is to be hoped that the investigations against two of the defecting MPs continue unhindered.
+item8161	At the same time, the fact that the BJP has chosen to accommodate legislators the party had only months ago castigated for being corrupt, and against whom one of its own MPs had sought action from the Rajya Sabha ethics committee, suggests that the benefits of accrual to its numbers outweighed even the pretence of principle.
+item8162	The BJP has managed to increase its strength in the Rajya Sabha to seventy five with the addition of the defectors from the TDP.
+item8163	Fresh elections to the Rajya Sabha are due for a substantive number of seats by twenty twenty, and defections such as these will help the ruling combine get closer to the majority mark in the two fourty five-member Upper House.
+item8164	Even if it is justified as an exercise to increase numbers, it does not reflect well on the BJP, which claims to be a party with a difference.
+item8165	Defections that are not based on ideology or principle undermine parliamentary democracy; a vibrant opposition is equally vital to ensure an efficient government.
+item8166	The leadership race in the U.K.’s ruling Conservative party has been whittled down to two candidates with contrasting personal styles and political stances.
+item8167	The current Foreign Secretary, Jeremy Hunt, is a moderate and will face off against his predecessor, the flamboyant and controversial Boris Johnson.
+item8168	Over one lakh overwhelmingly pro-Brexit party members will, in mid-July, choose Prime Minister Theresa May’s successor via a postal ballot.
+item8169	One option to see through their project of a life-time is to elect Mr.Hunt, a one-time advocate of remaining in the European Union (like Ms.May), and risk not realising the end goal.
+item8170	The other alternative is to choose the hardliner Mr.Johnson, who famously, and erroneously, claimed during the twenty sixteen referendum that London was sending pounds three fifty million a week to Brussels.
+item8171	His xenophobic remark about Turkish immigrants flooding the U.K.
+item8172	was said to be among the factors that tilted the twenty sixteen outcome.
+item8173	The principal architect of the leave campaign assured partymen before the current contest that Britain will exit by the October thirty one deadline, deal or no deal.
+item8174	Mr.Johnson, a two-time London Mayor, has emerged a clear favourite, polling the highest in all the elimination rounds among Conservative MPs over the past days.
+item8175	A salt seller used to carry the salt bag on his donkey to the market every day.
+item8176	On the way they had to cross a stream. 
+item8177	One day the donkey suddenly tumbled down the stream and the salt bag also fell into the water. 
+item8178	The salt dissolved in the water and hence the bag became very light to carry. The donkey was happy.
+item8179	Then the donkey started to play the same trick every day.
+item8180	The salt seller came to understand the trick and decided to teach a lesson to it. 
+item8181	The next day he loaded a cotton bag on the donkey.
+item8182	Again it played the same trick hoping that the cotton bag would be still become lighter.
+item8183	But the dampened cotton became very heavy to carry and the donkey suffered. It learnt a lesson. 
+item8184	It didn’t play the trick anymore after that day, and the seller was happy.
+item8185	Moral of the story: Luck won’t favor always.

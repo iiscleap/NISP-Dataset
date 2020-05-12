@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3522	India does not have a Gandhi but his teachings are alive, and one needs to invent a Gandhian solution within a Nehruvian framework. 
+item3523	For a spiritual leader, politics is the art of the impossible. 
+item3524	The Dalai Lama is explaining that Indias spirituality has the realism to show our humdrum politicians the magical everydayness of an alternative solution. 
+item3525	He is telling us India is a civilisation, that its Gandhis, its Nanaks, its Kabirs, its Buddhas can find a solution to the current impasse. 
+item3526	It is a wonderful gift at a time when we celebrate freedom.
+item3527	Shiv Visvanathan is an academic associated with the Compost Heap, a group in pursuit of alternative ideas and imagination.
+item3528	The amendments to the Prevention of Corruption Act, nineteen eighty eight, adopted recently by both Houses of Parliament, are a mixed bag. 
+item3529	Moves to make changes in this law, aimed at combating corruption in government, were initiated during the UPAs second term in office and largely centred on the misuse of one provision.
+item3530	Former Prime Minister Manmohan Singh had criticised this section for ignoring a foundational principle of criminal law: mens rea. 
+item3531	This resulted in many honest officials being prosecuted even when they gained nothing and merely exercised their power or discretion in favour of someone. 
+item3532	Insofar as it had a chilling effect on governance and deterred bold decision-making, the amended form may have a liberating effect on honest officials. 
+item3533	Besides, it is more concise and restricts criminal misconduct to two offences: misappropriating or converting to ones own use property entrusted to a public servant.
+item3534	There was concern initially with the wording, as it raised a doubt whether the intention to amass wealth would also have to be proved. 
+item3535	Now an explanation has been added that a person shall be presumed to have intentionally enriched himself if he cannot account for his assets through known sources of income.
+item3536	By making citizens liable for offering a bribe to a public servant, the anti-corruption law has been brought in line with the UN Convention Against Corruption. 
+item3537	The only exception to this rule is when one is forced to give a bribe. 
+item3538	This exception kicks in only when the fact that one was forced to pay a bribe is reported to a law enforcement authority within seven days. 
+item3539	The penal provision can empower people by allowing them to cite it to refuse to pay a bribe.
+item3540	 At the same time, what happens when the police or any other agency refuses to register a complaint? People may be left in the lurch with no redress. 
+item3541	Further, it may render them vulnerable to threats from unscrupulous public servants who collect money to speed up public services but do not deliver. 
+item3542	The most unacceptable change is the introduction of a prior approval norm to start an investigation. 
+item3543	When a prior sanction requirement exists in law for prosecution, it is incomprehensible that the legislature should create another layer of protection in the initial stage of a probe. 
+item3544	Public servants need to be protected against unfair prosecution, but a genuine drive against corruption needs a package of legislative measures. 
+item3545	These should contain penal provisions, create an ombudsman in the form of a Lokpal or Lokayukta, as well as assure citizens of time-bound services and whistle-blower protection.
+item3546	Laws to fulfil these objectives are either not operational or are yet to materialise.
+item3547	The effect of these disturbances on trade was serious.The Dutch minister informed the States General that the business of the Exchange was at a stand. 
+item3548	The Commissioners of the Customs reported to the King that, during the month which followed the opening of Lime Street Chapel, the receipt in the port of the Thames had fallen off by some thousands of pounds. 
+item3549	Several Aldermen, who, though zealous royalists appointed under the new charter, were deeply interested in the commercial prosperity of their city, and loved neither Popery nor martial law, tendered their resignations. 
+item3550	But the King was resolved not to yield. He formed a camp on Hounslow Heath, and collected there, within a circumference of about two miles and a half, 
+item3551	Fourteen battalions of foot and thirty-two squadrons of horse, amounting to thirteen thousand fighting men. 
+item3552	Twenty-six pieces of artillery, and many wains laden with arms and ammunition, were dragged from the Tower through the City to Hounslow. 
+item3553	The Londoners saw this great force assembled in their neighbourhood with a terror which familiarity soon diminished. 
+item3554	A visit to Hounslow became their favourite amusement on holidays. 
+item3555	The camp presented the appearance of a vast fair.
+item3556	Mingled with the musketeers and dragoons, a multitude of fine gentlemen and ladies from Soho Square, sharpers and painted women from Whitefriars, invalids in sedans, 
+item3557	Monks in hoods and gowns, lacqueys in rich liveries, pedlars, orange girls, mischievous apprentices and gaping clowns, was constantly passing and repassing through the long lanes of tents. 
+item3558	From some pavilions were heard the noises of drunken revelry, from others the curses of gamblers. In truth the place was merely a gay suburb of the capital. 
+item3559	The King, as was amply proved two years later, had greatly miscalculated. 
+item3560	He had forgotten that vicinity operates in more ways than one. 
+item3561	He had hoped that his army would overawe London: but the result of his policy was that the feelings and opinions of London took complete possession of his army.

@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9640	Admittedly, Ms.May’s commitment to a cross-party approach to deliver Brexit has come rather late in the day.
+item9641	But her willingness to put country above party at last has the potential to prevent the catastrophe of Britain going over the cliff when the date of departure eventually approaches.
+item9642	That is no small comfort going by the government’s own assessment of the economic and social impact of the step, besides protecting the peace across Ireland.
+item9643	Rahul Gandhi’s decision to choose Wayanad in Kerala, in addition to Amethi in Uttar Pradesh, to contest, could well be a defining moment in this election.
+item9644	Though Wayanad was under consideration for at least two weeks, the decision was nonetheless surprising as his principal opponent would be, not his national-level ideological rival the BJP, but a party of the Left, which is in the forefront of the fight for a secular alternative to the ruling formation.
+item9645	This paradox could turn out to be a central challenge in the emergence of a national coalition against the BJP because many parties that are opposed to the BJP are also opposed to one another.
+item9646	Mr.Gandhi’s gambit amplifies that contradiction and marks a rupture between the Congress and the Left Front — fierce opponents in Kerala, but natural partners at the Centre.
+item9647	The national leadership of the Congress had kept an arm’s length from the highly competitive politics in Kerala, where its State unit and the Left are face to face.
+item9648	The exigencies of national politics shape their cooperation elsewhere.
+item9649	Only recently, on Mr.Gandhi’s watch, the Congress was in seat-sharing talks with the Left in West Bengal.
+item9650	Though the Congress has said Mr.Gandhi’s candidature is not against the Left, the latter has been brutal in its reaction.
+item9651	The Congress claimed the foray signalled Mr.Gandhi’s commitment to all regions.
+item9652	But the choice of Kerala, rather than Karnataka, where the Congress is locked in a direct battle with the BJP, is difficult to explain.
+item9653	If the Left frontally attacked the Congress, the BJP was disparaging.
+item9654	Amit Shah remarked Mr.Gandhi feared he would be held accountable by Amethi’s voters; and Narendra Modi, in a statement with communal overtones, said Mr.Gandhi chose the seat because Hindus were in a minority there.
+item9655	By fielding Mr.Gandhi from Wayanad, the Congress has taken a view that considerations of alliances are now secondary to its push to maximise its individual tally.
+item9656	The Congress has strong alliances in Maharashtra, Tamil Nadu and Bihar but a shaky one in Karnataka.
+item9657	Its U.P.
+item9658	ambitions were rejected by the SP-BSP axis; and differences persist within the party on aligning with the AAP in Delhi.
+item9659	After the two thousand four elections, the Congress became the fulcrum of a national coalition, which was bound by a broad commitment to a pluralist India, as opposed to Hindutva’s exclusivist and majoritarian politics.
+item9660	The Left had a significant role in its formation but ended the experiment in two thousand eight over differences with the Congress on the nuclear deal.
+item9661	State-level compulsions have led regional parties to cross from the BJP to the Congress and vice versa, but the primary fault-line is political mobilisation along religious lines.
+item9662	Without clarity of concept on addressing this fault-line, there can be no effective cooperation among non-BJP parties.
+item9663	Though it is unfair to put the entire onus of aggregating non-BJP politics on Mr.Gandhi, his candidacy in Wayanad can do nothing for the larger secular cause.
+item9664	The drama of government-formation and Cabinet shuffle amid shifts in political allegiance in Goa serves as a reminder of the dark shadows of manoeuvre and intrigue that lurk within Indian democracy.
+item9665	Greed is one of those negative attitudes people have normally after they become relatively successful
+item9666	The money and power goes to their head, which eventually leads to them chasing more of it and completely disregarding their original goals.
+item9667	It’s happens all the time in business, and more often than not they end up destroying themselves because of it.
+item9668	Sure, you can naturally be greedy, a lot of people are. 
+item9669	That’s why you’ll see thousands of people every year start businesses with nothing but dollar signs in their eyes.
+item9670	They want the money, they want the power, but they have no passion for helping others. 
+item9671	So greed is definitely a negative attitude people have potentially both before and after achieving success in their lives.
+item9672	The first two goals people have involve money and power. What’s your third goal? Forget the first two and focus on that one.

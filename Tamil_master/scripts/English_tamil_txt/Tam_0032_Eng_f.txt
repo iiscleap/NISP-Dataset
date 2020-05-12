@@ -1,0 +1,51 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9132	Given the vulnerability of Odisha and Andhra Pradesh to cyclones, the frequency and intensity of which may be influenced by a changing climate, the Centre should press for global environmental funding under the UN framework to help in the rebuilding.
+item9133	Both States have received funding from the World Bank in cyclone risk mitigation efforts since twenty eleven.
+item9134	The priority in Odisha is to restore electricity and telecommunications, which will require massive manpower.
+item9135	This should be treated as a national mission.
+item9136	Public health interventions are paramount to avoid disease outbreaks.
+item9137	The State government has been able to restore some physical movement by opening up highways and district roads; the Centre has relieved tension among students by postponing the National Eligibility-cum-Entrance Test in Odisha.
+item9138	Overall, there is a sense of relief that in the midst of a national election the toll was effectively contained.
+item9139	Looking ahead, India must prepare for many more intense and frequent cyclones along the coastal States.
+item9140	Preparedness has to focus on building resilience and strengthening adaptation.
+item9141	This can be achieved through better-designed houses and cyclone shelters, good early warning systems, periodic drills and financial risk reduction through insurance.
+item9142	Early weather warnings hold the key to better management, and during the Fani episode the India Meteorological Department played a crucial role.
+item9143	Its commendable performance has been recognised by the UN as well.
+item9144	Odisha's experience, which coincides with similar devastation along east Africa this year, will be keenly followed at the UN Disaster Risk Reduction conference convening on May thirteen in Geneva.
+item9145	Venezuelan Opposition leader Juan Guaid has been trying to oust President Nicolas Maduro for months.
+item9146	Last week, in his most daunting effort yet, he called for a military uprising.
+item9147	Hours later, the U.S., which has recognised him as Venezuela's President, supported his bid.
+item9148	A few soldiers broke ranks with the military and joined him, along with tens of thousands of protesters who battled for two days with police and government supporters.
+item9149	Still, Mr.Guaid failed to topple the Maduro regime.
+item9150	This was the third major attempt by Mr.Guaid to seize the government.
+item9151	In January he declared himself President, saying Mr.Maduro's presidency was not legitimate as he had rigged? last year's election.
+item9152	Since then, the U.S.has imposed sanctions on top Venezuelan government officials and the state-run oil company PDVSA on the calculation that these would make the already battered Venezuelan economy worse, rendering Mr.Maduro even more unpopular.
+item9153	In February, Mr.Guaid launched another bid when he went to the Colombia border to accept U.S.aid, which the government had rejected.
+item9154	He called for mass protests, but Mr.Maduro survived.
+item9155	Last week's failed attempt was Mr.Guaid's biggest setback so far.
+item9156	It is evident that Venezuela is going through serious political and economic crises.
+item9157	In a small Italian town, hundreds of years ago, a small business owner owed a large sum of money to a loan-shark. 
+item9158	The loan-shark was a very old, unattractive looking guy that just so happened to fancy the business owner's daughter.
+item9159	He decided to offer the businessman a deal that would completely wipe out the debt he owed him. 
+item9160	However, the catch was that we would only wipe out the debt if he could marry the businessman's daughter.
+item9161	Needless to say, this proposal was met with a look of disgust.
+item9162	The loan-shark said that he would place two pebbles into a bag, one white and one black.
+item9163	The daughter would then have to reach into the bag and pick out a pebble. 
+item9164	If it was black, the debt would be wiped, but the loan-shark would then marry her. 
+item9165	If it was white, the debt would also be wiped, but the daughter wouldn't have to marry the loan-shark.
+item9166	Standing on a pebble-strewn path in the businessman's garden, the loan-shark bent over and picked up two pebbles.
+item9167	Whilst he was picking them up, the daughter noticed that he'd picked up two black pebbles and placed them both into the bag.
+item9168	He then asked the daughter to reach into the bag and pick one.
+item9169	The daughter naturally had three choices as to what she could have done:
+item9170	Refuse to pick a pebble from the bag.
+item9171	Take both pebbles out of the bag and expose the loan-shark for cheating.
+item9172	Pick a pebble from the bag fully well knowing it was black and sacrifice herself for her father's freedom.
+item9173	She drew out a pebble from the bag, and before looking at it accidentally' dropped it into the midst of the other pebbles. She said to the loan-shark;
+item9174	Oh, how clumsy of me. Never mind, if you look into the bag for the one that is left, you will be able to tell which pebble I picked.?
+item9175	The pebble left in the bag is obviously black, and seeing as the loan-shark didn't want to be exposed, he had to play along as if the pebble the daughter dropped was white, and clear her father's debt.
+item9176	Moral of the story: It's always possible to overcome a tough situation throughout of the box thinking, and not give in to the only options you think you have to pick from.

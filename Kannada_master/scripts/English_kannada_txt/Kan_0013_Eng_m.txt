@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2834	In fact, the removal of Nawaz Sharif as Prime Minister last summer and later from the electoral arena over a conviction on corruption charges had given the impression that the dice were loaded in Mr. Khans favour. 
+item2835	The former cricketer will be watched for how he emerges from the shadow of the campaign and the election itself. 
+item2836	His immediate task is to negotiate assistance from the International Monetary Fund to stave off a balance of payments crisis. 
+item2837	Pakistan has already sought more loans from China, with no sign that the costs of infrastructure projects under the China-Pakistan Economic Corridor will be recovered soon.
+item2838	His next set of challenges emerge from the region, where he will be expected to make good on promises made by Pakistan to Washington and Kabul to crack down on terror and bring the Taliban to the table for talks. 
+item2839	Mr. Khan has long held that the U.S. must first pull out troops from Afghanistan, and was called Taliban Khan for suggesting that Taliban militants were fighting for independence.
+item2840	The next steps will take place amid great scrutiny of the tenor of his engagement with Donald Trumps administration, given the U.S. Presidents tough talk against Pakistan.
+item2841	Mr. Khan will also have to tackle terror groups inside Pakistan, those that target Pakistani forces and those trained with Pakistans support to target its neighbours. 
+item2842	It is here that Prime Minister Khan will be most tested; these groups function with impunity,
+item2843	And it remains to be seen whether his softness during the campaign against them will carry over into the prime ministership.
+item2844	Significantly, he spent the most time on ties with India when listing his foreign policy priorities. 
+item2845	While his comments on alleged human rights violations in Jammu and Kashmir will not be viewed kindly in New Delhi, those on resolving disputes through dialogue must be regarded seriously. 
+item2846	So far, he had distanced himself from what he called the soft approach of the Sharif government towards India. 
+item2847	But after the election result, Mr. Khan claimed that no Pakistani leader had engaged more with India than he had. 
+item2848	He offered to take two steps forward if India reciprocates. 
+item2849	For the moment, he will also be aware of other odds that are stacked against him; not the least being that of becoming the first Pakistani PM to complete a full term.
+item2850	Football is always about more than football. 
+item2851	This is especially true during a World Cup, when a staged face-off between national teams concentrates on stereotypes and enflames political tensions.
+item2852	Who can forget when the U.S. was beaten by Iran in the final minutes of their group-stage encounter in nineteen ninety eight?
+item2853	Or when the reigning world champions France were defeated by Senegal, a former French colony, in their first match of the two thousand two tournament?
+item2854	Or when Luis Suarezs handball stopped Ghana from becoming the first African team to reach a semi-final in the only World Cup ever to be held on African soil in two thousand ten?
+item2855	The two thousand eighteen edition of the World Cup had plenty of similar subplots. 
+item2856	There was controversy when a group of Swiss players of Kosovan origin celebrated their goals against Serbia by making the shape of an eagle, a symbol of Kosovan nationalism. 
+item2857	And more than one football pundit bemoaned the fact that, by the semi-finals, the remaining teams were all from Europe.
+item2858	But there has been no bigger political talking-point than the identity of the winning French team.
+item2859	That Del, if he had needed the royal mercy, would have found it is not very probable. 
+item2860	It is certain that every advantage which the letter of the law gave to the government was used against him without scruple or shame. 
+item2861	He was in a different situation from that in which Stamford stood. 
+item2862	The indictment against Stamford had been removed into the House of Lords during the session of Parliament, 
+item2863	And therefore could not be prosecuted till the Parliament should reassemble. 
+item2864	All the peers would then have voices, and would be judges as well of law as of fact. 
+item2865	But the bill against Del was not found till after the prorogation.
+item2866	He was therefore within the jurisdiction of the Court of the Lord High Steward. 
+item2867	This court, to which belongs, during a recess of Parliament, the cognizance of treasons and felonies committed by temporal peers, 
+item2868	Was then so constituted that no prisoner charged with a political offence could expect an impartial trial. 
+item2869	The King named a Lord High Steward.
+item2870	The Lord High Steward named, at his discretion, certain peers to sit on their accused brother.
+item2871	The number to be summoned was indefinite. No challenge was allowed. 
+item2872	A simple majority, provided that it consisted of twelve, was sufficient to convict. 
+item2873	The High Steward was sole judge of the law; and the Lords Triers formed merely a jury to pronounce on the question of fact.

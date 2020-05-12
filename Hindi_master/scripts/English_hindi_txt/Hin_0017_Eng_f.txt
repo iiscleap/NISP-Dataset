@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item5337	There are already well-developed ideas for improving the ability of food and knowledge systems to be recuperated after catastrophe.
+item5338	 For a sixteen-year-old academy, that is an excellent record, I feel.
+item5339	 Why don't you give that medallist better training and more exposure in quality meets abroad?
+item5340	You may have experienced these effects first hand, perhaps without realising, whenever you have broken eye contact with another person so as to better concentrate on what you are saying or thinking about.
+item5341	So concluded the historian Arnold Toynbee in his twelve volume magnum opus A Study of History.
+item5342	Only the political will is lacking.
+item5343	Elinav says his findings suggest a need for more advanced tailoring to personalise probiotics to the needs of individuals.
+item5344	Art is rarely the unadulterated expression of an individual genius such as Picasso: usually it is ensnared within the agendas and demands of others, such as patrons who are also political rulers.
+item5345	BBC Future reviewed the findings of some of the science so far.
+item5346	Neither urban Naxal? nor anti-national? is a term defined by law. 
+item5347	Eminems Lose Yourself is off on its own in the angry quadrant.
+item5348	The Global Recycling Council commends other firms, including Adidas, which will use only recycled polyester in all shoes and clothing by two thousand twenty four ; and Bottletop, which collaborated with Mulberry to launch a luxury bag made entirely from up-cycled materials 
+item5349	This would imply that labour intensive manufacturing exports may be less profitable. 
+item5350	It is hoped that scientists will soon be able to understand how microbes can be used to produce neurotransmitters to treat psychiatric and neurologic disorders liked to our microbiomes, including Parkinson's disease and multiple sclerosis.
+item5351	For example, the climatic changes we face are of a different nature to what undid the Maya or Anazasi.
+item5352	Recent work has suggested that disturbances in early life gut microbiome have negative consequences for host health, she says.
+item5353	These creatures werent thrown there.
+item5354	 They may change their designations or they may be controlling affairs from behind the curtain even when they don't have any role officially.
+item5355	 Meanwhile, growing uncertainties over Britain's future on the global stage only expose the hollowness of the Leave campaign and the fragility of its leadership. 
+item5356	And Libby Peake from the think tank Green Alliance said litter wasn't the only issue: "Introducing a deposit on all containers would improve the flow of materials into the recycling stream - that'll be a major plus," she told the BBC.
+item5357	Disease problems must be controlled by:
+item5358	Management practices to suppress the spread of disease
+item5359	Application of non-synthetic biological, botanical or mineral inputs
+item5360	TheNational Listprovides a list of allowed and prohibited substances for organically grown crops.
+item5361	Organically Grown Meat, Poultry, Eggs and Dairy:
+item5362	Livestock must be fed rations composed of agricultural products, pasture and forage that are organically produced and, if applicable, handled.
+item5363	Prohibitions regarding animal feed include:
+item5364	Administering of animal drugs in the absence of illness
+item5365	Use of hormones to promote growth
+item5366	Use of supplements in amounts above those for adequate nutrition
+item5367	Use of mammal or poultry slaughter by-products for feed
+item5368	Excessive use of feed additives
+item5369	Routinely administering synthetic parasiticides
+item5370	Producer must provide conditions to maintain and promote the health and welfare of livestock including:
+item5371	Sufficient nutritional feed rations
+item5372	Appropriate housing, pasture, sanitation conditions
+item5373	Conditions allowing for exercise, freedom of movement and minimizing stress of the animals

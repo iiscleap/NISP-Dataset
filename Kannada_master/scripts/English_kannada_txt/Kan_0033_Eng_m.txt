@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3642	 It also spoke of an imbalance in regional representation. It was obvious that these were not good enough reasons to turn down his appointment. 
+item3643	It only served to strengthen the suspicions that Justice Joseph found himself in disfavour because he was on a Bench that quashed the imposition of Presidents Rule in Uttarakhand in two thousand sixteen. 
+item3644	Now that his elevation is all set to go through, these issues may not appear to be relevant anymore. 
+item3645	However, it is difficult not to see a pattern in the governments conduct. 
+item3646	It has been splitting recommended lists and selectively approving proposals from the collegium, while holding back or returning some names. 
+item3647	In the case of Justice Joseph, his name was sent along with that of senior advocate Indu Malhotra to the Centre in January. 
+item3648	However, three months later, the government cleared only one of the two names, while seeking reconsideration of Justice Josephs candidature. 
+item3649	Such decisions tend to alter the inter se seniority among sitting judges, a factor that determines who becomes Chief Justice of India and who joins the collegium.
+item3650	The Centres right to seek the reconsideration of a recommendation, on the basis of information available to it, cannot be disputed.
+item3651	But it is worrying that one or two names are held back from a number of batches. 
+item3652	The reasons for seeking reconsideration need to be explicitly stated in every such instance.
+item3653	Even in its adherence to the norm that reiteration of a recommendation is binding, the Centre has not been consistent. 
+item3654	Recently, it returned a recommendation concerning two appointments to the Allahabad High Court for the second time. 
+item3655	The other issue is delay there is no justification for sitting on files without taking a decision one way or another, particularly given the backlog in the Supreme Court. 
+item3656	The current controversy may have come to a close, but the possibility of other flashpoints cannot be ruled out. 
+item3657	If the judiciary and the government want to dispel the impression of a prolonged conflict.
+item3658	A fresh memorandum of procedure for appointments has to be agreed upon: it is unclear what exactly is holding it up.
+item3659	With more than one quarter of the year and two months of the monsoon over, it is time to take a look at what the whole year is going to be like. 
+item3660	Are there signs of recovery? If there are, are they robust? What are the short- and medium-term concerns of the country?
+item3661	The monsoon has been somewhat below expectations the overall rainfall deficiency was Three percent. 
+item3662	Though it may seem negligible, it has to be noted that there were eleven meteorological divisions which were deficient. 
+item3663	The area sown has come down. Rice-producing Bihar, for instance, has been severely affected. 
+item3664	However, the monsoon can pick up. There is no consensus on the future behaviour of the monsoon. 
+item3665	Agricultural growth may at best be equal to what it was last year Three pont four percent.
+item3666	The services sector may perform better because public expenditure will be maintained at a high level. 
+item3667	The Bishops were repeatedly sent out into the antechamber, and repeatedly called back into the Council room. 
+item3668	At length James positively commanded them to answer the question. 
+item3669	He did not expressly engage that their confession should not be used against them. 
+item3670	But they, not unnaturally, supposed that, after what had passed, such an engagement was implied in his command. 
+item3671	Sancroft acknowledged his handwriting; and his brethren followed his example. 
+item3672	They were then interrogated about the meaning of some words in the petition, 
+item3673	And about the letter which had been circulated with so much effect all over the kingdom.
+item3674	But their language was so guarded that nothing was gained by the examination. 
+item3675	The Chancellor then told them that a criminal information would be exhibited against them in the Court of King's Bench, and called upon them to enter into recognisances. 
+item3676	They refused. They were peers of the realm, they said. 
+item3677	They were advised by the best lawyers in Westminster Hall that no peer could be required to enter into a recognisance in a case of libel;
+item3678	And they should not think themselves justified in relinquishing the privilege of their order. 
+item3679	The King was so absurd as to think himself personally affronted because they chose, on a legal question, to be guided by legal advice. 
+item3680	"You believe everybody," he said, "rather than me." He was indeed mortified and alarmed. 
+item3681	For he had gone so far that, if they persisted, he had no choice left but to send them to prison;

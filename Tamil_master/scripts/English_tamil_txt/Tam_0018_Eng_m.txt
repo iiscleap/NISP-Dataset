@@ -1,0 +1,37 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8662	Thousands of others have died due to disease, poor health care and malnutrition.
+item8663	The blockade Saudi Arabia imposed on Yemen steadily worsened the country's hunger problem and health-care crisis.
+item8664	The country is on the brink of a famine.
+item8665	It's a shame that even when the ceasefire was holding, the Saudis did not halt bombing Yemen.
+item8666	Saudi Arabia appears to be frustrated that it is not able to defeat the Houthis even after years of heavy bombing.
+item8667	The Houthis, on their part, continue to provoke the Saudis through cross-border rocket and drone attacks.
+item8668	The Yemenis are stuck in between.
+item8669	The way forward is the Hodeida model.
+item8670	The December ceasefire took effect in the Red Sea port city and both the rebels and government forces stuck to it till the rebels pulled out last week.
+item8671	They should continue talks under international mediation and replicate the Hodeida model elsewhere in Yemen.
+item8672	For this to be achieved, the Houthis should decouple themselves from the regional politics, and stay focussed on resolving differences with the government and rebuilding the war-torn country, while Saudi Arabia should get out of Yemen.
+item8673	As India awaits the arrival of the annual summer monsoon, hopes are particularly high for normal rainfall that is so vital for agriculture, the health of forests, rivers and wetlands.
+item8674	The India Meteorological Department has forecast normal rainfall of ninety six percent of the long period average of eighty nine cm rain, with an onset date in the first week of June in Kerala.
+item8675	It has also signalled a significant possibility of a deficit.
+item8676	The monsoon bounty is crucial for the sixty percent of gross cropped area in farming that is rain-fed, and represents, in the assessment of the National Commission on Farmers, fourty five percent of agricultural output.
+item8677	Given the erratic patterns of rainfall witnessed over the past few decades and their possible connection to atmospheric changes caused by a variety of pollutants, the distribution of monsoon twenty nineteen will add to the insights.
+item8678	The southwest monsoon is a determinant of India's overall prosperity, and sustained efforts to make the best use of rainfall are absolutely important for farms, cities and industry.
+item8679	Considering that there has been a fifty two percent decline in groundwater levels based on tests conducted last year over the previous decadal average, State governments should have pursued the setting up of new recharging wells and made improvements to existing ones on a war footing.
+item8680	They also have lagged in building structures to harvest surface water and helping farmers raise the efficiency of irrigation.
+item8681	The approach to the farming sector, however, has been influenced more by the imperatives of an election year, and the Centre's biggest intervention was to announce a cash handout to specified categories of small farmers.
+item8682	A normal summer monsoon over the subcontinent brings widespread prosperity, but does not guarantee a uniform spread.
+item8683	This, as scientists point out, may be due to the effect of particulates released through various industrial and agricultural processes.
+item8684	Some of these aerosols suppress the rainfall and disperse it across the land, causing long breaks in precipitation, while others absorb heat and lead to a convection phenomenon that increases rainfall in some places.
+item8685	Such evidence points to the need for India to clean up its act on rising industrial emissions, and burning of fossil fuels and biomass in order to improve the stability of the monsoon.
+item8686	An equally key area of concern is freshwater availability for households, which, NITI Aayog says, account for four percent of available supplies, besides twelve percent used by industry.
+item8687	Okay, so one of the biggest and most ridiculous reasons why people never take action on their ideas, their visions, is because they've failed once before at something very similar.
+item8688	However, this time around, they're determined not to make the same mistakes they did last time around, even if it means not trying in the first place.
+item8689	Which… funnily enough, is the option most people will decide to take.
+item8690	Tony Robbins once said that he believes, not achieving our goal is part of life's design, causing us to reach deep within and really produce the best that we can.
+item8691	Failure is a part of life's design, causing you to learn from your mistakes, to grow stronger from them in order to keep getting better every time you try again.
+item8692	Giving up after one failure is absolutely pointless. You need to stick it out!

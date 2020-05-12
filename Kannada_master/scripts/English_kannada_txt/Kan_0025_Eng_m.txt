@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3318	Yet, it is also an opportunity to tap into a large labour pool for the new jobs that will be created, and to raise skill levels. 
+item3319	Reducing the cost of universal health coverage is imperative, and it requires parallel investments in the neglected public sector. 
+item3320	Private insurance can only be a short-term option, and it clearly has limitations. Less ethical institutions have been found ordering unnecessary treatments to claim insurance compensation. 
+item3321	An ombudsman to deal with complaints from NHPM users should, therefore, be a priority.
+item3322	The Centre should extend the scheme to all children and senior citizens, and cover out-patient consultation and essential drugs to sharply reduce out-of-pocket spending.
+item3323	The life story of Karunanidhi is also a history of Tamil Nadu politics. 
+item3324	A five-time Chief Minister, and the longest serving legislator, winning thirteen terms in the Assembly and not losing even once.
+item3325	Karunanidhi was the engineer of many of the progressive measures adopted by the State since Independence. 
+item3326	As the leader of the Dravida Munnetra Kazhagam, an offshoot of the rationalist social reform movement, the Dravidar Kazhagam, 
+item3327	He was an influential figure at both State and national levels, whether in or out of power. 
+item3328	He excelled as both administrator and organiser, adopting different styles, but always displaying a clinical efficiency while interacting with bureaucrats and party workers. 
+item3329	Although his administrative acumen was often contrasted with the welfarism of his political rival, M.G. Ramachandran, Karunanidhi was not beyond the draw of populism. 
+item3330	Extending the Public Distribution System and increasing food subsidies were coupled with efforts at generating employment and encouraging industrial investment. 
+item3331	Towards the latter part of his political career, he emulated his political opponents, MGR and Jayalalithaa, in handing out freebies indiscriminately to every household, rich or poor. 
+item3332	He was a crusader for federalism, often standing up to the Centre for the States rights. He was one of the foremost opponents of the Emergency. 
+item3333	In nineteen seventeen six and nineteen ninety one, his governments were dismissed by the Centre, the first time citing corruption charges, 
+item3334	And the second time citing support to the terror outfit, the Liberation Tigers of Tamil.
+item3335	In his home State, he ran the DMK with an iron hand; at the same time, he provided some space for the second rung, 
+item3336	Even indulging the odd dissenter now and then, as long as there was no threat to his leadership. 
+item3337	District secretaries and ministers had a long reign under him. His longevity permitted him the leeway to promote his immediate family members to positions of power within the party and the government. 
+item3338	His designated successor, his younger son M.K. Stalin, had to work his way up the party ladder.
+item3339	From ordinary worker and youth wing leader before being accommodated in the top rungs of the party and government. 
+item3340	But elder son M.K. Alagiri and grand-nephew Dayanidhi Maran were rewarded with Cabinet berths in their very first terms in the Lok Sabha. 
+item3341	Karunanidhi will be remembered for being an astute politician, one with a quick wit and ready repartee; 
+item3342	An able administrator with an uncanny eye for detail and a keen sense of the occasion; and as an elder statesman who could take the long-term view of events and issues. 
+item3343	The preliminary arrangements were now complete. 
+item3344	There was a Solicitor General to argue for the dispensing power, and twelve Judges to decide in favour of it. 
+item3345	The question was therefore speedily brought to a hearing. 
+item3346	Sir Edward Hales, a gentleman of Kent, had been converted to Popery 
+item3347	In days when it was not safe for any man of note openly to declare himself a Papist. 
+item3348	He had kept his secret, and, when questioned, had affirmed that he was a Protestant with a solemnity which did little credit to his principles. 
+item3349	When James had ascended the throne, disguise was no longer necessary. 
+item3350	Sir Edward publicly apostatized, and was rewarded with the command of a regiment of foot.
+item3351	He had held his commission more than three months without taking the sacrament. 
+item3352	He was therefore liable to a penalty of five hundred pounds, which an informer might recover by action of debt. 
+item3353	A menial servant was employed to bring a suit for this sum in the Court of King's Bench. 
+item3354	Sir Edward did not dispute the facts alleged against him, 
+item3355	But pleaded that he had letters patent authorising him to hold his commission notwithstanding the Test Act. 
+item3356	The plaintiff demurred, that is to say, admitted Sir Edward's plea to be true in fact, but denied that it was a sufficient answer. 
+item3357	Thus was raised a simple issue of law to be decided by the court.

@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9097	It cannot forge peace on the Taliban's terms as it would mean endangering whatever few freedoms the Afghans enjoy right now.
+item9098	This resource deficit can be bridged only with the help of the international community.
+item9099	The U.S., which is in talks with the Taliban, should not overlook the interests of Kabul.
+item9100	It must put pressure on the Taliban to cease hostilities and engage with Mr.Ghani's government.
+item9101	The overwhelming message from the global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is that human beings have so rapaciously exploited nature, and that species belonging to a quarter of all studied animal and plant groups on earth are gravely threatened.
+item9102	If the world continues to pursue the current model of economic growth without factoring in environmental costs, one million species could go extinct, many in a matter of decades.
+item9103	Catastrophic erosion of ecosystems is being driven by unsustainable use of land and water, direct harvesting of species, climate change, pollution and release of alien plants and animals in new habitats.
+item9104	While ecosystem losses have accelerated over the past five decades universally, there is particular worry over the devastation occurring in tropical areas, which are endowed with greater biodiversity than others; only a quarter of the land worldwide now retains its ecological and evolutionary integrity, largely spared of human impact.
+item9105	Nature provides ecosystem services, but these are often not included in productivity estimates: they are vital for food production, for clean air and water, provision of fuel for millions, absorption of carbon in the atmosphere, and climate moderation.
+item9106	The result of such skewed policies, as the IPBES estimates, is that the global rate of species extinction is at least tens to hundreds of times higher today than the average rate over the past ten million years, and it is accelerating alarmingly.
+item9107	Ecological economists have for years pointed to the extreme harm that humanity as a whole is courting by modifying terrestrial, marine and freshwater ecosystems to suit immediate needs, such as raising agricultural and food output and extracting materials that aid ever-increasing consumption.
+item9108	Expanding agriculture by cutting down forests has raised food volumes, and mining feeds many industries, but these have severely affected other functions such as water availability, pollination, maintenance of wild variants of domesticated plants and climate regulation.
+item9109	Losses from pollution are usually not factored into claims of economic progress made by countries, but as the IPBES assessment points out, marine plastic pollution has increased tenfold since nineteen eighty, affecting at least two sixty seven species, including eighty six percent of marine turtles, fourty four percent of seabirds and fourty three percent of marine mammals.
+item9110	At the same time, about nine percent of six thounsand two hundred domesticated breeds of mammals used for food and agriculture had gone extinct by twenty sixteen, and another one thousand may disappear permanently.
+item9111	Viewed against a shrinking base of wild varieties of farmed plants and animals, all countries have cause for alarm.
+item9112	They are rapidly emptying their genetic resource kit.
+item9113	Reversing course is a dire necessity to stave off disaster.
+item9114	This can be done by incorporating biodiversity impacts into all economic activity, recognising that irreparably breaking the web of life will impoverish and endanger people everywhere.
+item9115	Cyclone Fani has left a trail of destruction across a large part of coastal Odisha, but its management has emerged as a global example of how timely weather alerts, preparedness and informed public participation can dramatically reduce loss of life.
+item9116	The toll from the extremely severe cyclonic storm on May three stood, at last count, at thirty four deaths.
+item9117	In terms of material losses, several districts were battered, houses flattened and electricity and telecommunications infrastructure destroyed, but the relatively low mortality shows a dramatic transformation from the loss of over ten thousand lives in nineteen ninety nine when super cyclone zero five B struck.
+item9118	Odisha then worked to upgrade its preparedness, which was tested when very severe cyclonic storm Phailin struck in twenty thirteen.
+item9119	It was able to bring down the number of deaths to fourty four then, in spite of a wide arc of destruction: thirteen million people were hit and half a million houses destroyed.
+item9120	The Odisha government and the Centre now have the task of rebuilding infrastructure.
+item9121	They should use the opportunity to upgrade technology, achieve cost efficiencies and build resilience to extreme weather, all of which can minimise future losses.
+item9122	A gentleman was walking through an elephant camp, and he spotted that the elephants weren't being kept in cages or held by the use of chains.
+item9123	All that was holding them back from escaping the camp, was a small piece of rope tied to one of their legs.
+item9124	As the man gazed upon the elephants, he was completely confused as to why the elephants didn't just use their strength to break the rope and escape the camp. They could easily have done so, but instead, they didn't try to at all.
+item9125	Curious and wanting to know the answer, he asked a trainer nearby why the elephants were just standing there and never tried to escape.
+item9126	The trainer replied; when they are very young and much smaller we use the same size rope to tie them and, at that age, it's enough to old them. 
+item9127	As they grow up, they are conditioned to believe they cannot break away. 
+item9128	They believe the rope can still hold them, so they never try to break free.â€?
+item9129	The only reason that the elephants weren't breaking free and escaping from the camp was that over time they adopted the belief that it just wasn't possible.
+item9130	Moral of the story: No matter how much the world tries to hold you back, always continue with the belief that what you want to achieve is possible. 
+item9131	Believing you can become successful is the most important step in actually achieving it.

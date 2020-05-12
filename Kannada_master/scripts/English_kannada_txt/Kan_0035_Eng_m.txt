@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3723	The RBIs latest report on financial stability shows that the gross non-performing asset ratio of scheduled commercial banks rose to Eleven point six percent.
+item3724	The ratio for public sector banks was fifteen point six pecent. This is indeed a very high level of NPAs. 
+item3725	Some part of the increase is also due to the adoption of a more rigorous definition of NPAs.
+item3726	The high NPA level has a dampening effect on the provision of new credit. 
+item3727	In fact, credit to the industrial sector has slowed down considerably. Recapitalisation of banks has become an urgent necessity. 
+item3728	Of course, this will impose a serious burden on the fiscal position. 
+item3729	Many suggestions, which include asset reconstruction companies, have been made to resolve the NPA issue. A quick decision has to be made. 
+item3730	Unless the banking system recovers fast, it is difficult to sustain a high growth of the industrial sector. 
+item3731	Medium-term banking reforms will have to wait until the immediate problem is resolved.The third concern relates to the fiscal position. 
+item3732	So far in the current year, the Central governments fisc has been within limits. 
+item3733	At the end of the first quarter, the fiscal deficit as a percentage of total deficit for the year as a whole was Sixty Eight percent a strong improvement over the deficit in the corresponding period last year.
+item3734	There are two aspects of the fisc which need to be kept under watch. One relates to GST. 
+item3735	It is estimated that GST revenues are currently running behind budgetary projections. Perhaps revenues may pick up in the second half. But one doesnt know. 
+item3736	It is also not clear how much of the refunds are outstanding. Any significant shortfall can put the fisc under stress.
+item3737	The second concern relates to the impact of the proposed minimum support prices for various agricultural commodities. 
+item3738	The MSPs have been raised sharply in the case of some commodities. 
+item3739	Except in the case of rice and wheat , there is no indication of how the MSPs will be implemented in relation to other commodities. 
+item3740	If market prices fall below MSPs, there are only two ways in which farmers can be assured of the minimum price. 
+item3741	One is the M.P. model where the State pays the difference between market price and MSP.
+item3742	But this can turn out to be a serious burden if market prices fall steeply. 
+item3743	This is apart from the administrative problems involved in implementing the scheme. 
+item3744	The other alternative is for the government to procure excess production over normal production so that market prices rise. 
+item3745	This alternative may be less burdensome. However, this alternative will not work if the MSP is fixed at a level to which the market price will never rise. 
+item3746	Thus the burden on the government as a result of the new MSPs is uncertain and needs to be watched. 
+item3747	The possibility of cutting expenditures if revenues fall below projections is remote in a year before elections.
+item3748	He might well be out of temper. His defeat had been complete and most humiliating. 
+item3749	Had the prelates escaped on account of some technical defect in the case for the crown, had they escaped because they had not written the petition in Middlesex, 
+item3750	Or because it was impossible to prove, according to the strict rules of law, that they had delivered to the King the paper for which they were called in question, the prerogative would have suffered no shock. 
+item3751	Happily for the country, the fact of publication had been fully established. 
+item3752	The counsel for the defence had therefore been forced to attack the dispensing power.They had attacked it with great learning, eloquence, and boldness. 
+item3753	The advocates of the government had been by universal acknowledgment overmatched in the contest. 
+item3754	Not a single judge had ventured to declare that the Declaration of Indulgence was legal. 
+item3755	One Judge had in the strongest terms pronounced it illegal. 
+item3756	The language of the whole town was that the dispensing power had received a fatal blow. 
+item3757	Finch, who had the day before been universally reviled, was now universally applauded. 
+item3758	He had been unwilling, it was said, to let the case be decided in a way which would have left the great constitutional question still doubtful. 
+item3759	He had felt that a verdict which should acquit his clients, without condemning the Declaration of Indulgence, would be but half a victory. 
+item3760	It is certain that Finch deserved neither the reproaches which had been cast on him while the event was doubtful, nor the praises which he received when it had proved happy. 
+item3761	It was absurd to blame him because, during the short delay which he occasioned, the crown lawyers unexpectedly discovered new evidence. 
+item3762	It was equally absurd to suppose that he deliberately exposed his clients to risk, in order to establish a general principle: 
+item3763	And still more absurd was it to praise him for what would have been a gross violation of professional duty.

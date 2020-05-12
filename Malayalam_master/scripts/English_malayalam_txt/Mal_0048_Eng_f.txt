@@ -1,0 +1,34 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10657	"India does not experience heavy rainfall in September.
+item10658	The downpour in MP and Rajasthan is an extreme and unprecedented event.
+item10659	To battle climate change, we must be equipped with warning systems for dams.
+item10660	If early warnings are issued at least seventy two hours before, dams can gradually release the water in an effective manner without affecting the downstream," Singh said.
+item10661	Three persons were killed in separate rain related incidents in Kota and two others are trapped near Kural river in Bundi as heavy rainfall has thrown normal life out of gear causing flood like situation here.
+item10662	In the first incident, sixteen -year-old Shantanu Keswani, was electrocuted in Rajiv Nagar area of Kota on Wednesday evening while he was returning from a coaching institute, Sub Inspector Suraj Singh said.
+item10663	The deceased fell down from his bicycle in knee deep water near an electric transformer and got electrocuted.
+item10664	In the second incident, sixty eight-year-old Rajendra Singh was electrocuted in Mahaveer Nagar area of Kota when he came in contact with an electric wire lying open on the flooded road.
+item10665	Police is investigating both the electrocution cases and would be lodging a complaint against the Jaipur Vidut Vitran Nigam Limited (JVVNL), Singh said.
+item10666	The third death was caused after the wall of a residential house collapsed yesterday due to heavy rain in Santoshi Nagar of Kota city, police said.
+item10667	Station House Officer (SHO) Bhanwar Singh said four -year-old Kartik died after being trapped under the debris.
+item10668	At least eleven people who were trapped in a temple near the flooded Mangali river on the Kota-Jaipur highway were rescued today morning, but there are still two others who are feared to be trapped near Kural river, police said here.
+item10669	Circle Inspector Subash Pooniya said eleven persons from nearby villages had gone to perform a pooja in a temple near the Mangali river last evening.
+item10670	Due to heavy rain, Mangali river overflowed and the devotees could not return and remained trapped there throughout the night, he said.
+item10671	Police teams have been rushed to rescue the people trapped near Kural river.
+item10672	The two men had taken about thirty goats for grazing but could not return due to the heavy rains, Station House Officer (SHO) Manoj Soni said.
+item10673	Residents of the southern area of Chambal river were asked to evacuate their homes citing the increase in the water levels, he said.
+item10674	Heavy rains due to cyclonic storm Maha lashed parts of Mumbai on Thursday night, leading to flooding of streets.
+item10675	Officials said the rain, which intensified in the early hours of Friday, had not affected rail and airport operations.
+item10676	The cyclonic storm Maha that formed over north-east Arabian Sea moved towards the east and north-east with wind speeds up to twelve kmph.
+item10677	The other servants thereupon began to murmur, "See, how he is burning the king's bridal shirt!" But the young king replied, "Who knows what good he has done? Leave him alone. He is my faithful Jose."
+item10678	Soon after this, the wedding was celebrated and a great ball was given and the bride began to dance. 
+item10679	So, the faithful Jose paid great attention and constantly watched her countenance. All at once she grew pale and fell as if dead to the ground. Then he sprang up hastily raised her and bore her to a chamber, knelt beside her and drawing three drops of blood out of her right arm, threw them away. 
+item10680	As soon as she breathed again, she raised herself up...but the young king had witnessed everything and not knowing why faithful Jose had done this, he was very angry and called out, "Throw him into prison!"
+item10681	The next morning trusted Jose was brought up for trial and led to the gallows and as he stood there and was about to be executed, he said, "Everyone condemned to die may once before his death speak. Shall I also have that privilege?"
+item10682	"Yes", answered the king, "it shall be granted to you". Then faithful Jose replied, "I have been unrighteously judged and have always been true to you," and he narrated the conversation of the cranes which he had heard at sea and how, in order to save his master, he was obliged to do all he had done.
+item10683	Then the king cried out, "Oh, my most trusted Jose, pardon, pardon...lead him away!" But trusted Jose had fallen down at the last word and was turned into stone.
+item10684	At this event both the king and the queen were in great grief and the king thought, "Ah, how wickedly have I rewarded his great fidelity!" and he had the stone statue raised and placed in his sleeping-chamber near his bed and as often as he looked at it, he wept and said, "Ah, if only I could bring you back to life again, my faithful Jose."

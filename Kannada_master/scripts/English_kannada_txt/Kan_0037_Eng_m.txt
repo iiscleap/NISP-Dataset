@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3844	Since then, Saudi Arabia has allowed women to drive, cracked down on hardliners among the clergy and projected itself as a moderate Islamic country.
+item3845	But when Canadian Foreign Minister Chrystia Freeland called for the release of Samar Badawi, a Saudi womens rights activist .
+item3846	Who was detained last week, and her brother Raif Badawi, Riyadh took a series of unilateral steps. 
+item3847	Terming Ms. Freelands appeal as interference in its domestic affairs, it expelled the Canadian Ambassador, called back its envoy from Ottawa.
+item3848	Froze trade with Canada and said it would transfer out some twelve thousand Saudi citizens studying in Canadian universities.
+item3849	Ms. Badawi has long campaigned against Saudi Arabias guardianship laws that require all Saudi women to have a male guardian. 
+item3850	Riyadh is yet to give reasons for the arrest. Her brother, who ran a website critical of the Saudi religious establishment, was sentenced to ten years in jail and one thousand lashes in two thousand fourteen.
+item3851	On overseas visits, Prince Mohammed has dwelt on his plan to improve womens rights and strengthen the economy. 
+item3852	He is also obliquely critical of the guardianship laws, saying they did not exist in Saudi Arabia before nineteen seventy nine, the year of the Iranian revolution and the siege of the Grand Mosque at Mecca. 
+item3853	But despite this rhetoric on rights, the palace has shown little tolerance of political criticism at home. 
+item3854	Since May, many womens rights activists have been detained. 
+item3855	In addition, dozens of lawyers, human rights defenders and intellectuals have been arrested since September two thousand seventeen. 
+item3856	Interestingly, while most Western governments refrain from commenting on the crackdown against dissent in Saudi Arabia, Canada has given refuge to Mr. Badawis wife and children.
+item3857	For Canada, the spat could prove costly. Saudi Arabia is its second largest export destination in West Asia. 
+item3858	The two countries have signed a $twelve billion arms deal, which is still in the works. 
+item3859	But despite the aggressive Saudi response, Ottawa had stood by its Foreign Minister, saying it will continue to back the protection of human rights, including womens rights. 
+item3860	For Prince Mohammed, the diplomatic crisis is an opportunity to rethink the Kingdoms approach towards dissent and diplomacy. 
+item3861	If he is indeed serious about reform, Riyadh should be lenient towards its advocates. 
+item3862	Taking vengeful action against those who stand by rights activists will neither help Saudi Arabias image nor attract investment into the country.
+item3863	The process of putting together a regulatory framework for electronic commerce in the country is finally speeding up. 
+item3864	A task force of the Union Commerce Ministry has submitted the draft National Policy on Electronic Commerce.
+item3865	Which will now be studied by a seventy-member think tank chaired by Suresh Prabhu, the Union Commerce, Industry and Civil Aviation Minister. 
+item3866	Indias e-tail business, estimated to be worth around $twenty five billion, is still a fraction of the overall retail sector in the country. 
+item3867	But it has been witness to some frenetic activity of late, including the merger between home-grown, but Singapore-based, Flipkart and global giant Walmart. 
+item3868	Over the coming decade, the e-commerce pie is expected to swell to two hundred billion Dollars, fuelled by smartphones, cheaper data access and growing spends. 
+item3869	Of the many errors which James committed, none was more fatal than this. 
+item3870	Already he had alienated the hearts of his people by violating their laws, confiscating their estates, and persecuting their religion. 
+item3871	Of those who had once been most zealous for monarchy, he had already made many rebels in heart. 
+item3872	Yet he might still, with some chance of success, have appealed to the patriotic spirit of his subjects against an invader. 
+item3873	For they were a race insular in temper as well as in geographical position. 
+item3874	Their national antipathies were, indeed, in that age, unreasonably and unamiably strong. Never had the English been accustomed to the control of interference of any stranger. 
+item3875	The appearance of a foreign army on their soil might impel them to rally even round a King whom they had no reason to love. 
+item3876	William might perhaps have been unable to overcome this difficulty; but James removed it.
+item3877	Not even the arrival of a brigade of Lewis's musketeers would have excited such resentment and shame as our ancestors felt when they saw armed columns of Papists, 
+item3878	Just arrived from Dublin, moving in military pomp along the high roads. No man of English blood then regarded the aboriginal Irish as his countrymen. 
+item3879	They did not belong to our branch of the great human family. They were distinguished from us by more than one moral and intellectual peculiarity, which the difference of situation and of education, great as that difference was, did not seem altogether to explain. 
+item3880	They had an aspect of their own, a mother tongue of their own. When they talked English their pronunciation was ludicrous; their phraseology was grotesque, 
+item3881	As is always the phraseology of those who think in one language and express their thoughts in another. They were therefore foreigners; 
+item3882	And of all foreigners they were the most hated and despised: the most hated, for they had, during five centuries, always been our enemies; 
+item3883	The most despised, for they were our vanquished, enslaved, and despoiled enemies.

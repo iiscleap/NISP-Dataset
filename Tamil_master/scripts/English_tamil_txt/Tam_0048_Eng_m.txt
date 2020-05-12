@@ -1,0 +1,42 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9708	Three people collapsed while inspecting their residential septic tank, and others who tried to save them also perished.
+item9709	Although workers were not affected in this case, it confirms Tamil Nadu’s abysmal overall record at raising sanitation standards.
+item9710	Since nineteen ninety three, when the first law was passed against manual cleaning, there were at least one fourty four worker deaths in Tamil Nadu as of November twenty eighteen, according to official data reported to the Centre for grant of compensation.
+item9711	Karnataka, Uttar Pradesh and Punjab also fared badly with a cumulative toll of one fourty six lives lost during that period.
+item9712	But this is obviously a gross underestimate, since the Safai Karmachari Andolan, which has litigated in the Supreme Court seeking to aggressively prosecute offenders, contends that septic tank cleaning claimed nearly fifteen hundred lives between twenty fourteen and twenty sixteen.
+item9713	More reports of deaths continue to come in.
+item9714	Every death of a manual worker represents a crime, since the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, twenty thirteen makes the use of such labour to clean septic tanks an offence punishable with imprisonment of two years or with a fine of rupees two lakh or both even in the first instance.
+item9715	If State governments are reluctant to prosecute offenders, they are also slow to adopt newer technologies such as Faecal Sludge Treatment Plants (FSTP), which can be combined with omniprocessors for safe treatment of waste.
+item9716	For the task of cleaning the tanks, indigenous innovation in robotics looks promising.
+item9717	A prototype is planned to be tested by the Indian Institute of Technology Madras and such devices can potentially transform sanitation in India and other developing countries.
+item9718	But the pace of adoption will depend on the priority that governments accord to the long-neglected problem.
+item9719	Last year, Tamil Nadu, and some other States, notably Andhra Pradesh and Odisha, announced plans to scale up FSTP infrastructure.
+item9720	This is a task that deserves the highest importance, and needs to be completed on deadline.
+item9721	What happened in Sriperumbudur highlights the heavy price that communities pay for the lack of scientific sanitation.
+item9722	If governments remain apathetic, citizens would expect the courts to step in to uphold the law against manual scavenging and make individual departments accountable.
+item9723	The science on sanitation has advanced, and policy must urgently catch up.
+item9724	Bahujan Samaj Party chief Mayawati once again asserted this week she is a contender for the post of Prime Minister, though she will not be contesting in the Lok Sabha polls herself.
+item9725	She also lost no opportunity to position herself equidistant from the Congress and the BJP, the two national parties at the opposite poles of the electoral contest this year.
+item9726	Much more than her alliance partner for the parliamentary election in Uttar Pradesh, the Samajwadi Party, effectively led by Akhilesh Yadav, she has discounted any need to seek Congress support to give greater ballast to the fight against the BJP.
+item9727	Unlike Mr.Yadav, she has refrained from giving the impression that she too considers the BJP a bigger threat to their social justice politics, relative to the Congress.
+item9728	The BSP-SP-Rashtriya Lok Dal alliance in U.P.
+item9729	will not contest in Amethi and Rae Bareli, the constituencies of Rahul Gandhi and Sonia Gandhi, respectively.
+item9730	When the Congress sought to reciprocate the gesture by announcing it would not field candidates against the senior leaders of the alliance, the BSP chief was stinging in her rebuff.
+item9731	Positioning herself politically vis-a-vis the Congress at a time when the BJP is dominant has not been easy.
+item9732	For the Assembly elections in Madhya Pradesh, Chhattisgarh and Rajasthan last year, Ms.Mayawati’s pre-poll negotiations with the Congress were half-hearted and doomed.
+item9733	Some time ago, a man punished his three-year-old daughter for wasting a roll of gold wrapping paper. 
+item9734	Money was tight and he became infuriated when the child tried to decorate a box to put under the Christmas tree.
+item9735	Nevertheless, the little girl brought the gift to her father the next morning and said, “This is for you, Daddy.�?
+item9736	The man became embarrassed by his overreaction earlier, but his rage continue when he saw that the box was empty. 
+item9737	He yelled at her; “Don’t you know, when you give someone a present, there is supposed to be something inside?�?
+item9738	The little girl looked up at him with tears in her eyes and cried;
+item9739	“Oh, Daddy, it’s not empty at all. I blew kisses into the box. They’re all for you, Daddy.�?
+item9740	The father was crushed. He put his arms around his little girl, and he begged for her forgiveness.
+item9741	Only a short time later, an accident took the life of the child.
+item9742	Her father kept the gold box by his bed for many years and, whenever he was discouraged, he would take out an imaginary kiss and remember the love of the child who had put it there.
+item9743	Moral of the story: Love is the most precious gift in the world.

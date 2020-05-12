@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4408	By changing the definition of cost of production for the purpose of calculating the Minimum Support Price.
+item4409	What is the lowdown on minimum support price for crops?
+item4410	Third, not only did the government not fulfil its promise of cost+fifty percent as MSP, it did not even maintain the routine annual increase in MSP. 
+item4411	It began this by stopping the bonus over the MSPs announced by State governments. 
+item4412	Over the nearly five-year period, the percentage increase in MSP by this government has actually been lower than the hike by both the previous governments.
+item4413	Even this governments much-publicised recent hike in MSP this year is lower than the year-on-year increase announced by the United Progressive Alliance . 
+item4414	The Modi governments failure to implement the MSP that it announced forced the farmers into distress sale of Kharif and Rabi crops, amounting to at least fifty thousands crore Rupees.
+item4415	Fourth, this government is guilty of perhaps the most lackadaisical response to nationwide droughts in two thousand fourteen-fifteen and two thousand fifteen-sixteen. 
+item4416	The central governments response was limited to a revision in the eligibility cap for compensation.
+item4417	And a routine raise in the compensation amount but also included cuts in contribution to States from the National Disaster Relief Fund. 
+item4418	Despite repeated push from the Supreme Court, the government did not take any proactive steps in terms of either declaration of drought or improvement in ration delivery.
+item4419	The Supreme Court had to reprimand the central government.
+item4420	Fifth, the Modi governments lack of political will in implementing the Mahatma Gandhi National Rural Employment Guarantee Scheme has hit the rural poor in general and farm labourers in particular. 
+item4421	After making a determined but unsuccessful attempt to dismantle the MGNREGS, the Modi government has choked this programme of adequate and timely funds.
+item4422	He reneged on its legal obligation to provide timely wages and compensation for delayed payments.
+item4423	Sixth, from imposing Minimum Export Price on potatoes in two thousand fourteen to importing sugar from Pakistan, this government has followed anti-farmer trade policies. 
+item4424	Farm exports were systematically discouraged, leading to a decline in agricultural exports from $forty three billion on two thousand thirteen-fourteen to $33 billion in two thousand sixteen-seventeen. 
+item4425	At the same time, import of lentil, chana, wheat, sugar and milk powder was allowed that led to a crash in crop prices.
+item4426	A sudden shrinking of cash led to demand contraction and fall in prices, whose effects are being felt even now.
+item4427	Eighth, the governments crude attempt to regulate livestock market by imposing ban on livestock movement and its protection to those guilty of lynching.
+item4428	The suspected cow smugglers has disrupted livestock economic cycle, leading to loss of income on the one hand and aggravation of the widespread problem of animals destroying crops on the other.
+item4429	Ninth, for the adivasi farmer, this is surely the most insensitive government. 
+item4430	In a series of moves, this government has diluted the Forest Rights Act and various other environmental and forest conservation laws substantially.
+item4431	In order to help the transfer of common land and water resources from the adivasis to industry.
+item4432	And finally, the Modi government made not one but four attempts to bring an ordinance so as to nullify the historic Land Acquisition Act of two thousand thirteen.
+item4433	With very different feelings had the news of this great revolution been received in France.
+item4434	The politics of a long, eventful, and glorious reign had been confounded in a day.England was again the England of Elizabeth and of Cromwell; 
+item4435	And all the relations of all the states of Christendom were completely changed by the sudden introduction of this new power into the system. 
+item4436	The Parisians could talk of nothing but what was passing in London. 
+item4437	National and religious feeling impelled them to take the part of James.They knew nothing of the English constitution. 
+item4438	They abominated the English Church. Our revolution appeared to them, not as the triumph of public liberty over despotism, 
+item4439	But as a frightful domestic tragedy in which a venerable and pious Servius was hurled from his throne by a Tarquin, and crushed under the chariot wheels of a Tullia. 
+item4440	They cried shame on the traitorous captains, execrated the unnatural daughters, and regarded William with a mortal loathing, tempered, however, by the respect which valour, capacity, and success seldom fail to inspire. 
+item4441	The Queen, exposed to the night wind and rain, with the infant heir of three crowns clasped to her breast, 
+item4442	The King stopped, robbed, and outraged by ruffians, were objects of pity and of romantic interest to all France. 
+item4443	But Lewis saw with peculiar emotion the calamities of the House of Stuart. All the selfish and all the generous parts of his nature were moved alike. 
+item4444	After many years of prosperity he had at length met with a great check. He had reckoned on the support or neutrality of England. 
+item4445	He had now nothing to expect from her but energetic and pertinacious hostility. 
+item4446	A few weeks earlier he might not unreasonably have hoped to subjugate Flanders and to give law to Germany. 
+item4447	At present he might think himself fortunate if he should be able to defend his own frontiers against a confederacy such as Europe had not seen during many ages.

@@ -1,0 +1,45 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2472	It, however, remains to be seen if mid caps and small caps will follow the large caps and resume their journey upward. 
+item2473	Else, the lack of sufficient breadth in the wider market will presage an eventual correction in the large caps too.
+item2474	In Eighteen Hundred Seventy One, the colonial regime passed the notorious Criminal Tribes Act. 
+item2475	This law was based upon the racist British belief that in India there were entire groups and communities that were criminal by birth, nature, and occupation. 
+item2476	The Act unleashed a reign of terror, with its systems of surveillance, police reporting, the separation of families, detention camps, and forced labour. 
+item2477	More then six decades after independent India repealed the Act, the denotified tribes continue to suffer from stigma and systemic disadvantage.
+item2478	The Act was one strand of a web of colonial laws that dehumanised communities and ways of life. 
+item2479	The colonial administrators were particularly concerned about nomadic and itinerant communities, which by virtue of their movements and lifestyle were difficult to track, surveil, control, and tax. 
+item2480	Through laws such as the Criminal Tribes Act, and other legal weapons such as vagrancy laws, the regime attempted to destroy these patterns of life, 
+item2481	By using criminal laws to coerce communities into settlements and subjecting them to forced labour.
+item2482	Independence brought with it many changes, but also much continuity. 
+item2483	Despite the birth of a Constitution that promised liberty, equality, fraternity, and dignity to all, 
+item2484	Independent Indias rulers continued to replicate colonial logic in framing laws for the new republic. 
+item2485	They continued to treat individuals as subjects to be controlled and administered, rather than rights-bearing citizens. 
+item2486	One of the most glaring examples of this is the Bombay Prevention of Begging Act. 
+item2487	The Begging Act was passed in Nineteen Hundre Fifty Fine by the State of Bombay, and has continued to exist in as many as Twenty States and two Union Territories. 
+item2488	But last week, in a remarkable, landmark and long overdue judgment, the Delhi High Court struck it down as inconsistent with the Constitution.
+item2489	What does the Begging Act do? It criminalises begging. It gives the police the power to arrest individuals without a warrant. 
+item2490	It gives magistrates the power to commit them to a certified institution for up to three years on the commission of the first offence, and up to ten years upon the second offence.
+item2491	Before that, it strips them of their privacy and dignity by compelling them to allow themselves to be fingerprinted. 
+item2492	The Act also authorises the detention of people dependant upon the beggar , and the separation of children over the age of five. 
+item2493	Certified institutions have absolute power over detainees, including the power of punishment, and the power to exact manual work. 
+item2494	Disobeying the rules of the institution can land an individual in jail.
+item2495	From its first word to the last, the Begging Act reflects a vicious logic. First, there is the definition of begging. 
+item2496	The Act defines it to include soliciting or receiving alms, in a public place whether or not under any pretence such as singing, dancing, fortune telling, 
+item2497	In ordinary circumstances the courts of Spain and of Rome would have eagerly applauded a prince who had made vigorous war on heresy. 
+item2498	But such was the hatred inspired by the injustice and haughtiness of Lewis that, when he became a persecutor,
+item2499	The courts of Spain and Rome took the side of religious liberty, 
+item2500	And loudly reprobated the cruelty of turning a savage and licentious soldiery loose on an unoffending people.
+item2501	One cry of grief and rage rose from the whole of Protestant Europe. 
+item2502	The tidings of the revocation of the edict of Nantes reached England about a week before the day to which the Parliament stood adjourned. 
+item2503	It was clear then that the spirit of Gardiner and of Alva was still the spirit of the Roman Catholic Church. 
+item2504	Lewis was not inferior to James in generosity and humanity, 
+item2505	And was certainly far superior to James in all the abilities and acquirements of a statesman. 
+item2506	Lewis had, like James, repeatedly promised to respect the privileges of his Protestant subjects. 
+item2507	Yet Lewis was now avowedly a persecutor of the reformed religion. 
+item2508	What reason was there, then, to doubt that James waited only for an opportunity to follow the example? 
+item2509	He was already forming, in defiance of the law, a military force officered to a great extent by Roman Catholics. 
+item2510	Was there anything unreasonable in the apprehension that this force might be employed to do what the French dragoons had done?

@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9673	Goa politics has for long been an arena of overnight desertion and defection.
+item9674	But the death of Chief Minister Manohar Parrikar earlier last month, and the midnight swearing-in of Pramod Sawant, came against the backdrop of the ruling BJP’s aggressively expansionary phase.
+item9675	In this post-twenty fourteen phase, the BJP has been unabashed about targeting its allies, as its partner in Goa, the Maharashtrawadi Gomantak Party, found out last week.
+item9676	Two of the MGP’s three MLAs in the Assembly joined the BJP.
+item9677	One of them, Manohar Ajgaonkar, was appointed Deputy Chief Minister hours later, replacing Sudin Dhavalikar, the third MGP lawmaker.
+item9678	The breakaway faction constituted a two-thirds majority in the MGP legislature party, which just might safeguard the manoeuvre from the anti-defection provisions of the law.
+item9679	The split of the MGP and the merger of the splinter group with the BJP were all carried out in the dead of night, with Speaker Michael Lobo working his office through odd hours as if it were a national emergency.
+item9680	In the twenty seventeen Assembly election, the Congress had emerged as the single largest party with seventeen seats in the fourty -member House, and the BJP had thirteen seats.
+item9681	Through a series of manipulative acts that raised questions of political propriety, the BJP managed to form the government.
+item9682	To lead the rickety coalition with the MGP and the Goa Forward Party, the BJP brought Parrikar to the State.
+item9683	His death triggered the current round of jostling for power.
+item9684	The BJP sought to lure MLAs from supporting parties to reduce their collective bargaining power even as the new government was being formed.
+item9685	The MGP was trying to pre-empt the BJP bid by suspending one lawmaker to foreclose the option of a split in the legislature party, when the BJP struck first.
+item9686	The episode has underscored Goa’s disrepute as a theatre of absurdities of Indian democracy.
+item9687	There is speculation that the BJP is now targeting MLAs of the GFP and even the Congress.
+item9688	The BJP and the Congress have fourteen MLAs each.
+item9689	The GFP lawmakers boycotted the swearing-in of Mr.Ajgaonkar, who has hopped from the Congress to the BJP to the MGP and back to the BJP.
+item9690	Some BJP leaders have rightly warned that such machinations will undermine the party’s credibility.
+item9691	GFP leader Vijai Sardesai has sought clarity from the Chief Minister on his political plans.
+item9692	It is clear that the current government or any other combination will not inspire trust and confidence in the people.
+item9693	If Goa is not to witness a sequence of party-hopping in search of ministerial berths and loaves of office, a fresh election might be the only answer.
+item9694	The tragic death of six people who entered a septic tank in Tamil Nadu’s Sriperumbudur town is a grim reminder that sanitation remains a low-priority area despite the high political profile of Swachh Bharat.
+item9695	Public understanding of the science of managing septic tanks continues to be poor, and the availability of cheap labour to clean these structures has slowed efforts to develop technologies that can safely remove and transport the waste.
+item9696	Sanitation thus remains a challenge in thousands of unsewered towns.
+item9697	What sets the incident apart from the several instances of people dying of asphyxiation in the tanks is that some of the victims were the owners of the property and not workers.
+item9698	As a group of frogs was traveling through the woods, two of them fell into a deep pit. 
+item9699	When the other frogs crowded around the pit and saw how deep it was, they told the two frogs that there was no hope left for them.
+item9700	However, the two frogs decided to ignore what the others were saying and they proceeded to try and jump out of the pit. 
+item9701	Despite their efforts, the group of frogs at the top of the pit were still saying that they should just give up. 
+item9702	That they would never make it out.
+item9703	Eventually, one of the frogs took heed to what the others were saying and he gave up, falling down to his death. The other frog continued to jump as hard as he could. Again, the crowd of frogs yelled at him to stop the pain and just die.
+item9704	He jumped even harder and finally made it out. When he got out, the other frogs said, “Did you not hear us?�?
+item9705	The frog explained to them that he was deaf. He thought they were encouraging him the entire time.
+item9706	Moral of the story:
+item9707	People’s words can have a big effect on other’s lives. Think about what you say before it comes out of your mouth. It might just be the difference between life and death.

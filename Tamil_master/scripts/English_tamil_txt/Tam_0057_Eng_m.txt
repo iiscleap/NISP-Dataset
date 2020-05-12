@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10021	Prime Minister Narendra Modi described him as “an outstanding statesman of our times�?.
+item10022	While Mr.Mukherjee’s seniority and contribution to the polity are not in doubt, the fact that he agreed to speak at an RSS event last year to the bemused disapproval of the Congress party was held out as a reason.
+item10023	And more unsympathetically, could the award have been a part of the BJP’s strategy of embracing old Congress leaders such as Vallabhbhai Patel to highlight that its real opposition is to the Nehru-Gandhi family? It is no secret that Mr.Mukherjee’s political ambitions were thwarted at one point by his inability to break the hold of dynastic politics in the Congress.
+item10024	Whether or not someone deserves a particular honour is not an easy question to resolve.
+item10025	Idolised leaders are integral to the imagination of a community, and arguably, for nation-building.
+item10026	Such secular rites of veneration set an ideal that the community celebrates and strives for.
+item10027	This is of course different from the pursuit of partisan political interests.
+item10028	Unfortunately, competitive politics has overshadowed the majesty of the Bharat Ratna.
+item10029	The honour to M.G.Ramachandran in nineteen eighty eight was widely seen as a cynical political move ahead of an election in Tamil Nadu.
+item10030	A promise to confer the Bharat Ratna to Madan Mohan Malaviya was made by Mr.Modi during the twenty fourteen campaign, and he fulfilled it soon after coming to power.
+item10031	Claims and counterclaims for the honour have become part of assertions of power by various groups.
+item10032	The emergence of new political elites is often accompanied by a clamour for greater acceptance for their leaders in the national roll of honour.
+item10033	A democratic, plural community must resolve these demands with respect and sensitivity.
+item10034	But this must not lead to a devaluation of the honour.
+item10035	Transparency is not easy to achieve, and fairness is difficult to establish, given the contradictory demands of representation and majesty.
+item10036	But a good place to start is to discontinue posthumous awards.
+item10037	It is a slippery slope of arbitrariness.
+item10038	Idols and ideals unite diversities in a community, and Bharat Ratnas must be selected with this in mind.
+item10039	On this count at least, the Modi government’s list will be contested.
+item10040	In appointing his sister Priyanka Gandhi Vadra as a general secretary of the party, Congress president Rahul Gandhi probably calculated that the benefits outweighed the risks.
+item10041	While the BJP lost no time in decrying the move as another instance of dynastic politics, the high-stakes manoeuvre could lift the profile of the Congress as a serious contender in the general election.
+item10042	In Uttar Pradesh, where it has been left high and dry in the seat-sharing deal between the Samajwadi Party and the Bahujan Samaj Party, it sorely needs a dramatic turnaround in political fortunes.
+item10043	While her formal induction into politics may have been prompted by a number of factors, including the ill-health of her mother, former Congress president Sonia Gandhi, the charge of eastern Uttar Pradesh was surely meant as a signal to the SP and the BSP.
+item10044	Although her only previous formal role in politics was as the party’s campaign manager in Amethi and Rae Bareli, constituencies of her brother and mother, Ms.Vadra is high on charisma quotient, that intangible but nonetheless real quality that saw crowds gather in the party’s pocket boroughs.
+item10045	The Nehru-Gandhi lineage aside, Ms.Vadra commands a stage presence, helped no doubt by a resemblance to her grandmother Indira Gandhi.
+item10046	Close friends are the secret to living a long and happy life
+item10047	According to a study from by Australia’s Flinder’s University, adults who have close friends are likely to live longer.
+item10048	Researchers discovered that people with a large network of friends would outlive their counterparts by twenty two percent.
+item10049	Friendship is healthy. And you should definitely seek out the company of other people.
+item10050	But be careful while doing that. 
+item10051	You don’t want to end up with a friend who instead of making you healthy and balanced makes you nervous and unhappy. 
+item10052	Friends are supposed to contribute to your well-being – and research shows that they can do that in a significant way.
+item10053	That’s why you should be wise to choose friends who genuinely care about you. 
+item10054	If you feel good at the mere thought of meeting them, it’s a sign they could be one of these friends who boost your longevity.

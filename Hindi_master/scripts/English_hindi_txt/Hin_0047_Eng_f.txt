@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item6329	Per unit costs decline only when they are mass produced. 
+item6330	Women came out against the mandatory headscarf in recent months, challenging religious orthodoxy. 
+item6331	While India’s principled position that it will not directly or publicly talk to the Taliban until it engages the Afghan government remains valid, it is necessary that India stays abreast of all negotiations and isn’t cut out of the resolution process. 
+item6332	Four kg of CO2 per one kg of PVC.
+item6333	Tehran’s criticism of foreign intervention has some merit. 
+item6334	 She has written extensively about things which life teaches us.
+item6335	Additive manufacturing started out as a technology for nerds and geeks trying to build an arm of a robot or a body of a drone in their garages. 
+item6336	For a more personal experience, polyglot Timothy Doner recommends reading and watching material that you already have an interest in.
+item6337	The unfolding Conservative leadership crisis could trigger a general election, a prospect the Labour Party has been eyeing ever since Ms. 
+item6338	Bahujan Samajwadi Party chief Mayawati has been unsparing in her criticism of the Congress, even as most other non-BJP parties are hiding their anti-Congress feelings, though not necessarily burying them.
+item6339	Banerjee posted a tweet saying he has made three commitments to himself in the aftermath of the Pulwama attacks.
+item6340	Fortunately, this manufacturing paradigm has several features that play to the strengths of the Indian ecosystem. 
+item6341	This refers to the ratio between the amount of energy produced by a resource relative to the energy needed to obtain it.
+item6342	In the end, though, its all about taking sleep advice from non-experts with a grain of salt.
+item6343	Revoking it means India can levy whatever import tariffs it wants.
+item6344	The chemistry of eye contact doesnt end there.
+item6345	Going forward, a major worry for policymakers globally will be the lack of sufficient central bank firepower should the global economy move into a full-fledged recession in two thousand ninteen. 
+item6346	It is hard to make sense of this pattern because we dont know precisely why drinking milk, and therefore lactase persistence, was a good thing, says Segurel: Why was it so strongly advantageous in itself?
+item6347	It was all about being in the right place at the right time, something that natural selection - with its restriction of acting in the present on templates from the past - could not respond to fast enough.
+item6348	 Other major economies such as Europe and Japan have also shown signs of a potential slowdown in growth. 
+item6349	This is a story explaining how adversity is met differently by different people.
+item6350	 Asha’s father placed an egg, a potato, and some tea leaves in three separate vessels with boiling water.
+item6351	 He asked Asha to keep an eye on the vessels for ten minutes.
+item6352	 Once these ten minutes were over , he asked Asha to peel the potato, peel the egg and strain the tea leaves.
+item6353	 Asha was left puzzled.
+item6354	Her father explained , ‘Each of these items was but in the same circumstance of being in a pot of boiling water.
+item6355	 See how they’ve responded differently.
+item6356	 The potato is now soft, the egg is now hard, and the tea has changed the water itself.
+item6357	 We are all like these items.
+item6358	 When adversity calls we respond in exactly the way they have.
+item6359	 Now are you a potato, an egg or are you tea leaves?’
+item6360	Moral Of The Story: We can choose how to respond to a difficult situation.

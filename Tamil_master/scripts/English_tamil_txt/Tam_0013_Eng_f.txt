@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8497	Waiting in sub-zero temperatures at the rarefied altitude can be fatal ” this season's deaths were mostly due to frostbite, exhaustion, dehydration and lack of oxygen.
+item8498	This year's drama has caught the public imagination, as happened in nineteen ninety six when eight persons died in a single day amid an unexpected storm ” events of and around that day were the subject of Jon Krakauer's bestselling book, Into Thin Air.
+item8499	The adventure industry that is built around the human desire to scale the peak has meant many amateurs take up the challenge, confident that support teams and specialised equipment will make up for their lack of adequate mountaineering experience.
+item8500	The fallout is that in case of a disaster not only are some of them unable to manage, but they hold up others, putting them in harm's way.
+item8501	The commercial operations have led to the Everest being called the world's highest garbage dump as many climbers discard non-critical gear and fail to clean up the mess.
+item8502	It is unlikely, however, that this season's tragedies will deter future summiteers, as the hypnotic lure remains intact.
+item8503	As George Mallory, the English mountaineer who perished in the attempt to scale Everest, reportedly said of its pull, œBecause it's there.? But the authorities must learn from this year's tragedies and work out an optimum number of climbers and strengthen safety measures.
+item8504	In light of the Congress's dismal defeat in the seventeen th general election, Congress president Rahul Gandhi's offer to resign from his party post at the Congress Working Committee on Saturday was on expected lines.
+item8505	What came as a surprise is the indication that he was seemingly unmoved by the CWC resolution that urged him to continue as president and restructure the party.
+item8506	Either way, whether Mr.Gandhi finally insists on quitting or allows himself to be persuaded otherwise, the party cannot look away from a dilemma that has shadowed it for long: the double-edged sword of the dynasty.
+item8507	Devoid of a coherent ideology or organisational structure, especially over the past two decades, the Nehru-Gandhi dynasty has remained the party's cementing glue.
+item8508	The family is projected as the party's emotional currency with the public and the Gandhi surname is invoked to hark back to the formative years of modern India.
+item8509	However, now in twenty nineteen, facing its toughest crisis, the Congress must address the question unflinchingly, and in depth, if it is to refresh itself as a political force.
+item8510	The decline of the Congress is symptomatic of the fading appeal of the old ways of conducting politics and of the disenchantment with opaque and unaccountable power-wielding by political dynasties.
+item8511	Also, as with the Left and Mandal parties, the Congress has collectively failed to upgrade its message, modes of outreach and organisational structures.
+item8512	But the Congress's success in nimbly facing up to the rout is vital if India is to have a coherent political opposition that keeps the government of the day democratically accountable.
+item8513	Of course, Congress leaders argue that the party would disintegrate if Mr.Gandhi were to quit.
+item8514	Mr.Gandhi, who had once likened power to poison, must take full responsibility for his party's debacle.
+item8515	However, figuring out the form that this account-taking must assume is what makes it a difficult moment for him and the Congress.
+item8516	Whether Mr.Gandhi sticks to his resolve to quit or not, the party will have to go through a process of revitalisation that deals with the hollowing out of its intra-party democracy.
+item8517	Any organisational reform that does not decentralise decision-making and fix accountability at all levels is bound to fail.
+item8518	It must involve a frank assessment of the Congress's risk of failing to cohere if Mr.Gandhi were to abruptly leave his post as party president.
+item8519	True, the Congress may well be able to sustain itself without a dynast.
+item8520	But unless the new leadership emerges through a truly democratic exercise, and is truly independent of the dynasty, any half-hearted restructuring will only lead to the enfeeblement of the party.
+item8521	A dynasty-free Congress will surely invigorate the Indian polity, but a Congress-free polity could well prove dangerous for Indian democracy.
+item8522	Ah yes, the œgood things come to those who wait? line. Depends what you're doing whilst you're waiting.
+item8523	Some people think that the opportunities that are given to them are the only ones that they will ever get. 
+item8524	For them, there's no such thing as creating your own opportunities in life. 
+item8525	That seems impossible within the world they're living in.
+item8526	When we're younger, opportunities are given to us, mainly by our parents and our school teachers or friends. We have been given the opportunity to make something of ourselves. 
+item8527	However, once you've left school nobody just hands you opportunities.
+item8528	It's your job to go out in the world and create these opportunities, no matter how small they may be at first.
+item8529	I've often spoken about taking small opportunities every day such as adding someone on Facebook, that end up with you creating big opportunities for yourself, and this is what you need to be doing.

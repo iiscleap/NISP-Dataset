@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3440	A Nehruvian moment which one senses as lacking today in this time of the Rohingya crisis and the National Register of Citizens threatening to extern lakhs of people.
+item3441	No one has spoken with greater gratitude to India than the Dalai Lama. 
+item3442	His rituals of thanks to India as a civilisation and to the Indian regime have been many. 
+item3443	By welcoming him to India, we added to the sense of India. 
+item3444	Yet, newspapers reported that in the anniversary speech, he said India had missed a moral opportunity.
+item3445	Mahatma Gandhi, to avoid Partition, offered Muhammad Ali Jinnah the Prime Ministership, and Nehru objected because he wanted to lead India. 
+item3446	The newspaper reports came out boldly and literally. 
+item3447	A few days later, true to a spirit of correctness, the Dalai Lama withdrew his statement, saying that he had hurt feelings.
+item3448	At a level of formal correctness, the matter is closed, but India is the loser because our prickly sense of arrogance blinded us to the possibility of the story.
+item3449	The Dalai Lama was not criticising Nehru. He was merely pointing to glimpses of history beyond Nehru. 
+item3450	He was being thoughtful, provocative, in a pedagogic way, because he was confident in himself and the people he was talking about. 
+item3451	As a spiritual leader and as an astute politician, he was using the occasion to open us to new possibilities. 
+item3452	Anyone living in India knows that our sense of nationalism has blinded us to alternative possibilities. 
+item3453	We conceive of history as a fait accompli and with a dose of fatalism.
+item3454	Yet, what the Dalai Lama is pointing out is that what we saw as a moment of closure had its openings. 
+item3455	The greatness of Gandhi recognised it and pursued it with a desperation. 
+item3456	Gandhi tried to thwart Partition by offering Jinnah something he would not have dreamed of.
+item3457	Gandhi offered him the possibility of a giant leadership, the possibility of being leader of a joint India-Pakistan. 
+item3458	Instead of Partition we could or could have had a united India. It was an act which required a surreal moral courage. 
+item3459	It was an appeal to Jinnah to go beyond divisive politics. It was almost a utopian solution to a communal fissure.
+item3460	The Dalai Lama suggests that Nehru refuted such a possibility. 
+item3461	The historian in him must have seen it as impractical; the politician in him must have read it as insulting, wondering whether Gandhi had lost his sense of the bloody reality facing India.
+item3462	Jinnah, Nehru and Mountbatten were responding at the level of realpolitik. It is the level at which history took place and Partition became inevitable.
+item3463	The Dalai Lama understands history. As a political leader, he has an acute sense of it. 
+item3464	But as a spiritual leader, he is suggesting decades after the event that history could have been transcended morally. 
+item3465	The Bishop requested a copy of the Commission in order that he might know by what authority he was thus interrogated. 
+item3466	"If you mean," said Jeffreys, "to dispute our authority, I shall take another course with
+item3467	you. As to the Commission, I do not doubt that you have seen it. At all events you may see it in any coffeehouse for a penny." 
+item3468	The insolence of the Chancellor's reply appears to have shocked the other Commissioners, and he was forced to make some awkward apologies. 
+item3469	He then returned to the point from which he had started. 
+item3470	"This," he said, "is not a court in which written charges are exhibited. Our proceedings are summary, and by word of mouth. The question is a plain one. Why did you not obey the King?" 
+item3471	With some difficulty Compton obtained a brief delay, and the assistance of counsel. 
+item3472	When the case had been heard, it was evident to all men that the Bishop had done only what he was bound to do. 
+item3473	The Treasurer, the Chief Justice, and Sprat were for acquittal. The King's wrath was moved. 
+item3474	It seemed that his Ecclesiastical Commission would fail him as his Tory Parliament had failed him. 
+item3475	He offered Rochester a simple choice, to pronounce the Bishop guilty, or to quit the Treasury. 
+item3476	Rochester was base enough to yield. Compton was suspended from all spiritual functions; and the charge of his great diocese was committed to his judges, Sprat and Crewe. 
+item3477	He continued, however, to reside in his palace and to receive his revenues; 
+item3478	For it was known that, had any attempt been made to deprive him of his temporalities, 
+item3479	He would have put himself under the protection of the common law; and Herbert himself declared that, at common law, judgment must be given against the crown.

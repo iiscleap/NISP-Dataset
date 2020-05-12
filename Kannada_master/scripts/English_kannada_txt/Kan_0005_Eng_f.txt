@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2511	Performing or offering any article for sale and having no visible means of subsistence and wandering about or remaining in any public place in such condition or manner.
+item2512	Not only do these vague definitions give unchecked power to the police to harass citizens but they also reveal the prejudices underlying the law. 
+item2513	The pointed reference to singing, dancing, fortune telling, performing or offering any article for sale makes it clear that the purpose of the Act is not simply to criminalise the act of begging.
+item2514	But to target groups and communities whose itinerant patterns of life do not fit within mainstream stereotypes of the sedentary, law-abiding citizen with a settled job. 
+item2515	And the reference to no visible means of subsistence and wandering about punishes people for the crime of looking poor.
+item2516	But it also reflects the lawmakers desire to erase from public spaces people who look or act differently, and whose presence is perceived to be a bother and a nuisance. 
+item2517	The Begging Act encodes into law the vicious prejudice that recently saw a prominent institution putting up spikes outside its Mumbai branch, to deter rough sleeping.
+item2518	Once individuals fall within its clutches, the Begging Act effectively renders them invisible, by confining them to certified institutions after a truncated, summary judicial procedure.
+item2519	Like the poorhouses of 19th century Europe, it is based on a philosophy of first criminalising poverty, and then making it invisible by physically removing offenders from public spaces.
+item2520	Effectively, it places a cordon sanitaire around the poor and the undesirable, keeping them from accessing spaces reserved for the use of respectable citizens. 
+item2521	For these people, the constitutional guarantees of pluralism and inclusiveness do not exist.
+item2522	The authorities have not hesitated to use the Begging Act as a weapon. 
+item2523	Just before the Two Thousand and Ten Commonwealth Games, the Delhi government was engaged in combing operations to take beggars off the street, 
+item2524	Lest their presence embarrass the nation in the eyes of foreigners. 
+item2525	Such operations are also a regular part of preparing for national events, such as Independence Day and Republic Day.
+item2526	In its judgment delivered last week , a Bench of the Delhi High Court presided over by the Chief Justice, held that the Begging Act violated Article Fourteen and Article Twenty One of the Constitution. 
+item2527	In oral argument, the government conceded that it did not intend to criminalise involuntary begging. 
+item2528	The High Court noted, however, that the definition of begging under the Act made no such distinction, and was therefore entirely arbitrary. 
+item2529	More importantly, it also held that under Article twenty one of the Constitution, it was the states responsibility to provide the basic necessities for survival food, clothing, shelter to all its citizens. 
+item2530	Poverty was the result of the states inability or unwillingness to discharge these obligations. 
+item2531	Therefore, the state could not turn around and criminalise the most visible and public manifestation of its own failures.
+item2532	And indeed, penalise people who were doing nothing more than communicating the reality of their situation to the public.
+item2533	The Delhi High Courts judgment marks a crucial step forward in dismantling one of the most vicious and enduring legacies of colonialism. 
+item2534	It is perhaps fitting that this judgment comes just a few days before the Supreme Court is likely to vindicate Naz Foundation after a ten-year legal battle. 
+item2535	Both Naz Foundation and Harsh Mander recognise that our Constitution is a transformative Constitution, 
+item2536	The interval was well employed by those who took the lead against the court. 
+item2537	They had indeed no light work to perform. In three days a country party was to be organized. 
+item2538	The difficulty of the task is in our age not easily to be appreciated; 
+item2539	For in our age all the nation may be said to assist at every deliberation of the Lords and Commons. 
+item2540	What is said by the leaders of the ministry and of the opposition after midnight is read by the whole metropolis at dawn, 
+item2541	By the inhabitants of Northland and Cornwall in the afternoon, and in Ireland and the Highlands of Scotland on the morrow.
+item2542	In our age, therefore, the stages of legislation, the rules of debate, the tactics of faction, the opinions, 
+item2543	Temper, and style of every active member of either House, are familiar to hundreds of thousands. 
+item2544	Every man who now enters Parliament possesses what, in the seventeenth century, would have been called a great stock of parliamentary knowledge. 
+item2545	Such knowledge was then to be obtained only by actual parliamentary service. 
+item2546	The difference between an old and a new member was as great as the difference between a veteran soldier and a recruit just taken from the plough; 
+item2547	And James's Parliament contained a most unusual proportion of new members, 
+item2548	Who had brought from their country seats to Westminster no political knowledge and many violent prejudices. 
+item2549	These gentlemen hated the Papists, but hated the Whigs not less intensely, and regarded the King with superstitious veneration. 
+item2550	To form an opposition out of such materials was a feat which required the most skilful and delicate management. 

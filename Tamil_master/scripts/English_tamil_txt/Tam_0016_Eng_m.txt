@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8591	In U.P.and Bihar, social justice parties with deep-rooted support among the Hindu backward castes, in alliance with the considerable Muslim population in these States, became the biggest roadblock to the Hindutva project.
+item8592	In twenty fourteen, the BJP upended that dynamic and swept both States; on Thursday it proved that the phenomenon is enduring.
+item8593	The Rashtriya Janata Dal in Bihar and the Samjawadi Party, the Bahujan Samaj Party and the Rashtriya Lok Dal in U.P., usurped by their leaders as personal and family fiefdoms and sunk in corruption charges, collapsed.
+item8594	But outfits such as Ram Vilas Paswan's Lok Janshakti Party in Bihar and the Shiv Sena in Maharashtra, guilty of the same sins, have flourished in their alliance with the BJP.
+item8595	The twenty nineteen outcome must thus be seen as one powered by the hyper-nationalist agenda that was the mainstay of Mr.Modi's five-year term in government, though corruption and nepotism of the BJP's opponents could have been supplementary factors.
+item8596	The welfare schemes of the Modi government did play a role, but these or the promise of economic development were not the real differentiators.
+item8597	The Pulwama terrorist strike and India's response to it dovetailed into the BJP's campaign.
+item8598	And, the victory of a terror accused in Bhopal constituency who hailed the assassin of Gandhi as a patriot stood out as a striking reiteration of Hindutva.
+item8599	Southern States, barring Karnataka, remained unimpressed by Hindutva, but the BJP made impressive inroads in West Bengal and Odisha, proving its potency even in areas where linguistic, political and cultural factors have historically been unfavourable to it.
+item8600	Tamil Nadu, where Dravidian politics had entrenched itself as a counter to homogenising pressures decades ago, stonewalled the BJP yet again as did Kerala.
+item8601	But the BJP's gains in Telangana, modest as they are, might be an indicator that the south may not remain impervious to it forever.
+item8602	For the present, the victories of the Biju Janata Dal in Odisha, which won a fifth term, and the YSR Congress Party in Andhra Pradesh are indicative that linguistic and cultural identities still continue to hold sway in these States.
+item8603	Punjab was also an outlier, as the Sikh-majority State leaned towards the Congress.
+item8604	To urge the BJP to uphold secular ideals or to protect the integrity of existing institutions may amount to demanding an abandonment of its very core beliefs.
+item8605	Gaining the trust of all citizens will be a necessary prerequisite for Mr.Modi to drive India's continuing journey to become a global leader.
+item8606	It is only reasonable that the government and the Prime Minister be asked to live up to the promise they continuously make — ‘sabka saath, sabka vikas (with all, development for all)'.
+item8607	These tenets must be felt in the daily lives of the marginalised sections of the population, and Mr.Modi must add a third tenet to make his mantra meaningful: sabka vishwas (the trust of all).
+item8608	The Hindu hopes that Mr.Modi's second term will be more inclusive than the first, which was marred by arrogant pride and hateful prejudice.
+item8609	We extend our congratulations and wishes to him and his party.
+item8610	With the successful pre-dawn launch of RISAT- two B satellite on May twenty two , the Indian Space Research Organisation (ISRO) has added another feather to its cap.
+item8611	The satellite will enhance India's capability in crop monitoring during the monsoon season, forestry mapping for forest fires and deforestation, and flood mapping as part of the national disaster management programme.
+item8612	Given that overcast skies are a constant during the monsoon season and during times of flood, the ability to penetrate the cloud cover is essential.
+item8613	While optical remote sensing that relies on visible light for imaging gets obstructed by clouds, RISAT- two B will not.
+item8614	Much like the RISAT-one satellite that was launched by ISRO in April twenty twelve, RISAT- two B will also use microwave radiation.
+item8615	Unlike visible light, microwaves have longer wavelength and so will not be susceptible to atmospheric scattering.
+item8616	Ideas are supposed to be ambitious. How else do you live your dream life and not just an average one?
+item8617	But, people come up with these amazing, yet incredibly ambitious ideas and somewhere along the line they tell themselves that it's pretty much impossible, and there's no point in taking the action needed to achieve these dreams and desires.
+item8618	There's no such thing as an idea that's too ambitious. 
+item8619	It's just going to be more difficult to achieve.
+item8620	Look at all the crazy inventions over the years that we now take for granted. 
+item8621	Somebody had a dream to be able to fly, and so they set to work building the Airplane. 
+item8622	Back then people would have set that the dream to fly was an absolutely ludicrous one. 
+item8623	Yet someone made their highly ambitious idea become a reality.
+item8624	I don't care what you're idea may be, “limits�? are being broken every day by people around the world. 
+item8625	Are you really going to rule yourself out right from the off?

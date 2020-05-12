@@ -1,0 +1,36 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10596	"The expert panel will conduct a post-flood analysis of the dam's behaviour and review its performance on the release of excess water since Saturday," he added.
+item10597	Located in Mandsaur district of Madhya Pradesh, the Gandhi Sagar dam is one of the four major dam's built on the Chambal river.
+item10598	It was completed in nineteen sixty as part of the Chambal River Valley Development projects in the First Five Year Plan of nineteen fifty one.
+item10599	The dam has a storage capacity of seven point three two billion cubic metres from a catchment area of twenty two five eighty four sqkm and can generate power to the tune of five sixty four Gigawatt hours (GWh).
+item10600	The CWC declared a crisis at India's third largest reservoir on Saturday when heavy rains in Madhya Pradesh caused an inflow of sixteen lakh cubic foot per second (cusec) and outflow of five lakh cusec of water.
+item10601	This led to overtopping in other smaller dams in Rajasthan and Madhya Pradesh, the effects of which were being in Uttar Pradesh and Bihar as well.
+item10602	"The effect of around fourty five thousand cumec overflow from Gandhi Sagar dam may be seen all along the Ganga, from Allahabad to Patna," the CWC said.
+item10603	Himanshu Thakkar of the South Asia Network on Dams, Rivers and People (SANDRP) blamed faulty dam management behind the crisis.
+item10604	"The Gandhi Sagar dam was filled to full capacity few weeks ago.
+item10605	Why was the dam filled up with almost a month of monsoon to go? This violated many of the dam management rules.
+item10606	Sudden heavy rains only made things worse," he told News eighteen.
+item10607	Sixty years since it was built, climate change has pushed the dam to go beyond its designed spillway capacity of twenty one two thirty eight cubic metre per second (cumec).
+item10608	Heavy rains caused the dam to cross both its Full Reservoir Level (FRL) of four hundred meters and Maximum Allowed Water Level (MAWL) of four hundred and one meters.
+item10609	In nineteen ninety , the CWC had declared the dam as unsafe after it was found the spillway capacity of the dam is much lower than the floodwaters it could receive.
+item10610	The World Bank too had declared it unsafe.
+item10611	However, Thakkar said it is difficult to know the actual condition of dam today.
+item10612	According to Pramod Narayan, programme director at the CWC's Dam Rehabilitation and Improvement Project, dams across the country are reviewed according to rules of compliance safety analysis.
+item10613	"A pre and post-safety inspection of all dams on their strength happens every year.
+item10614	However, in terms of a comprehensive evaluation, not many dams have been reviewed.
+item10615	Until the Dam Safety Bill was passed in twenty nineteen, there was no Central protocol and policy on dams," he said.
+item10616	When the princess heard these words, she felt reassured and her heart was inclined towards him and so, she willingly became his bride.
+item10617	While they thus went on their voyage on the high sea, it so happened that faithful Jose sitting on the deck of the ship, playing music, saw three cranes in the air who came flying towards them. He stopped playing and listened to what they were saying to one another for he understood them perfectly.
+item10618	The first one said, "The king is carrying home the daughter of the king of the Golden Palace." "But he is not home yet", replied the second. "But he has her", said the third, "She is sitting by him in the ship."
+item10619	Then the first one began again and said, "What matters that? When they go on shore, a fox-colored horse will spring towards them on which he will mount and as soon as he is on it, it will jump up with him into the air so that he will never again see his bride."
+item10620	The second one asked, "Is there no escape?"
+item10621	"Oh yes, if anybody mounts behind quickly and takes out the firearms which are in the holster and with them shoots the horse dead then the young king will be saved. But who knows that? And if anyone knows it and tells him, such a person will be turned into stone from the toe to the knee."
+item10622	Then the second spoke again, "I know more...even if the horse is killed, the young King cannot still retain the bride for, when they come into the castle, a beautiful bridal shirt will lie there upon a dish and seem to be woven of gold and silver, but it is nothing but sulphur and pitch and if he puts it on, it will burn him to his marrow and bones."
+item10623	Then the third crane asked, "Is there no escape?"
+item10624	"Oh yes", answered the second. "If someone takes up the shirt with one's gloves on and throws it into the fire so that it is burnt, the young king will be saved. 
+item10625	But what does that signify? Whoever knows it and tells him will be turned into stone from the knee to the heart."

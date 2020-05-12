@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4448	And take away the few concessions that farmers had won after one hundred and twenty years. 
+item4449	Further, the government has effectively bypassed this law in the land acquisitions done by central agencies like the National Highways Authority of India.
+item4450	They also allowed State governments to nullify the provisions benefitting the land-owning farmers.
+item4451	Notwithstanding its recent attempts at damage control, this government has justly acquired the reputation of being the most anti-farmer government in the history of independent India. 
+item4452	Whatever the fate of the no-confidence motion in the Lok Sabha, the Modi government would find it hard to win a vote of confidence brought by the farmers.In just under twelve months since its introduction in Parliament, the Centre has quietly withdrawn the Financial Resolution and Deposit Insurance Bill. 
+item4453	The decision to seek the Lok Sabhas approval to withdraw the legislation this week is a clear acknowledgement by the government.
+item4454	That it had underestimated the extent and intensity of public opposition to the proposed law. 
+item4455	One provision in the Bill had, in particular, generated the greatest debate and attracted the fiercest criticism and ultimately proved to be its very undoing: the bail-in clause. 
+item4456	That banks, by the very nature of their business, are essentially dependent on the funds lent to them by depositors.
+item4457	To serve as the pool of lendable resources from which they provide credit to borrowers is well known and requires no elaboration. 
+item4458	So when a depositor apprehends that her hard-earned savings placed in a bank may be at risk from a law.
+item4459	That forces her to partake in the pain of financial losses in case her bank is forced into resolution on account of distress, she will naturally fear such a legislation. 
+item4460	The government did make strenuous efforts to reassure the public, explaining the rationale for the Bill as well as the built-in safeguards relating to the bail-in provision. 
+item4461	However, its exertions made little headway. 
+item4462	Union Minister Piyush Goyal finally informed the joint parliamentary committee that was reviewing the Bill.
+item4463	A resolution of these issues would require a comprehensive examination and reconsideration, and that therefore the government deemed it appropriate that the Bill be withdrawn.
+item4464	However, the need for a specialised dispensation to cope with large financial corporations on the verge of going bust cannot be overstated.
+item4465	Especially given the contagion risk that a bank failure can pose to overall financial stability.
+item4466	The withdrawal of the FRDI Bill should therefore be used as an opportunity by policymakers. To reappraise the existing framework for resolving bankruptcy scenarios among financial entities.
+item4467	While such a review ought to include an evaluation of the progress made by the Insolvency and Bankruptcy Code in addressing the crucial issue of debt resolution in the banking sector.
+item4468	It must also look at ways to strengthen the Deposit Insurance and Credit Guarantee Corporation. 
+item4469	Set up in nineteen seventy eight in the aftermath of the collapse of two banks, the DICGC, which guarantees repayment of bank deposits up to ?one lakh in case a bank is liquidated.
+item4470	This anomaly must be addressed, especially at a time when several state-run public sector banks have been roiled by a series of frauds and high levels of bad loans. 
+item4471	Any measure that helps prevent further erosion of public faith in the beleaguered banking system would undoubtedly be very welcome.
+item4472	Two years after accepting the Justice R.M. Lodha Committees recommendations, the Supreme Court has now extended some concessions.
+item4473	From this position, so new, so embarrassing, so alarming, nothing but a counterrevolution or a civil war in the British Islands could extricate him. 
+item4474	He was therefore impelled by ambition and by fear to espouse the cause of the fallen dynasty. 
+item4475	And it is but just to say that motives nobler than ambition or fear had a large share in determining his course. 
+item4476	His heart was naturally compassionate; and this was an occasion which could not fail to call forth all his compassion. His situation had prevented his good feelings from fully developing themselves. 
+item4477	Sympathy is rarely strong where there is a great inequality of condition; 
+item4478	And he was raised so high above the mass of his fellow creatures that their distresses excited in him only a languid pity, 
+item4479	Such as that with which we regard the sufferings of the inferior animals, of a famished redbreast or of an overdriven posthorse. 
+item4480	The devastation of the Palatinate and the persecution of the Huguenots had therefore given him no uneasiness which pride and bigotry could not effectually soothe. 
+item4481	But all the tenderness of which he was capable was called forth by the misery of a great King 
+item4482	Who had a few weeks ago been served on the knee by Lords, and who was now a destitute exile. 
+item4483	With that tenderness was mingled, in the soul of Lewis, a not ignoble vanity. 
+item4484	He would exhibit to the world a pattern of munificence and courtesy. 
+item4485	He would show mankind what ought to be the bearing of a perfect gentleman in the highest station and on the greatest occasion; 
+item4486	And, in truth, his conduct was marked by a chivalrous generosity and urbanity, such as had not embellished the annals of Europe 
+item4487	Since the Black Prince had stood behind the chair of King John at the supper on the field Poitiers.

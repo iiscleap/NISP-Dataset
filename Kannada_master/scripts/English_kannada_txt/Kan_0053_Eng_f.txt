@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4488	To those aggrieved by the rigorous rules, which aimed to revamp cricket administration in the country. 
+item4489	The reasoning given in the order of a three-judge Bench headed by Chief Justice Dipak Misra suggests that it is a pragmatic modification rather than a significant climbdown. 
+item4490	Justice Lodha, a former Chief Justice of India, however, feels that the court has now knocked out the foundation of his recommendations. 
+item4491	The most significant change concerns the cooling-off period prescribed for office-bearers before they are allowed to contest for a subsequent term. 
+item4492	Against the panels view that every office-bearer of the Board of Control for Cricket in India, in the national board or in a State association, should have a three-year break after a three-year term.
+item4493	The court has now allowed two three-year terms that is, a tenure of six years before the mandatory break kicks in. 
+item4494	The logic behind a cooling-off period is that office-bearers should not be given lengthy tenures that enable them to establish personal fiefdoms. 
+item4495	The argument against it is that the experience and knowledge that an office-bearer gains over three years should not be frittered away, and a second term could help consolidate such learnings. 
+item4496	The Bench has accepted the logic behind this and chosen to defer the cooling-off period until she completes two terms. 
+item4497	Given that there is a nine-year aggregate limit as well as an age limit of seventy for any office-bearer.
+item4498	This change may not amount to any significant dilution of the core principle that there should be no perpetuation of power centres.
+item4499	The Lodha panel had also favoured the one State, one vote norm. 
+item4500	This meant that an association representing a State alone should be recognised as a voting member of the BCCI.
+item4501	Associations representing a region within a State or entities that do not represent a territory should not have the same vote or status. 
+item4502	This norm has been overruled. 
+item4503	Gujarat and Maharashtra will have three votes each, as the associations of Baroda and Saurashtra in Gujarat, and Mumbai and Vidarbha in Maharashtra will have separate votes. 
+item4504	In this, too, the court has accepted the reasoning that associations that had contributed significantly to Indian cricket need not be stripped of their full membership. 
+item4505	It is now up to the administrators of the future to dispel Justice Lodhas apprehensions that this may lead to manipulation of votes. 
+item4506	Whether the changes adopted by the court while finalising a new constitution for the BCCI differ in significant ways from what was proposed by the Lodha committee will be a matter of debate. 
+item4507	However, judicial intervention has been immensely helpful in making cricket administration more efficient and professional, and addressing the credibility deficit of recent times.
+item4508	Desperate times call for desperate measures. 
+item4509	British Prime Minister Theresa May last week flew to France to meet French President Emmanuel Macron at his holiday home.
+item4510	To lobby for her Cabinets version of Brexit that emerged from a retreat at Chequers, her own country retreat, a few weeks ago. 
+item4511	The proposal scraped through in the House of Commons. 
+item4512	And having just about won the support of her own Tory party MPs, Ms. May and her Cabinet colleagues are now taking the show on the road.
+item4513	As soon as the news that the Queen of England was on the French coast had been brought to Versailles, a palace was prepared for her reception.
+item4514	Carriages and troops of guards were despatched to await her orders,workmen were employed to mend the Calais road that her journey might be easy. 
+item4515	Larry was not only assured that his past offences were forgiven for her sake, 
+item4516	But was honoured with a friendly letter in the handwriting of Lewis. 
+item4517	Mary was on the road towards the French court when news came that her husband had, after a rough voyage, landed safe at the little village of Ambleteuse. 
+item4518	Persons of high rank were instantly despatched from Vermont to greet and escort him.
+item4519	Meanwhile Lewis, attended by his family and his nobility, went forth in state to receive the exiled Queen. 
+item4520	Before his gorgeous coach went the Swiss halberdiers. On each side of it and behind it rode the body guards with cymbals clashing and trumpets pealing. 
+item4521	After the King, in a hundred carriages each drawn by six horses, came the most splendid aristocracy of Europe, all feathers, ribands, jewels, and embroidery. 
+item4522	Before the procession had gone far it was announced that Mary was approaching. 
+item4523	Lewis alighted and advanced on foot to meet her. She broke forth into passionate expressions of gratitude. 
+item4524	"Madam," said her host, "it is but a melancholy service that I am rendering you to day.
+item4525	I hope that I may be able hereafter to render you services greater and more pleasing." 
+item4526	He embraced the little Prince of Wales, and made the Queen seat herself in the royal state coach on the right hand. 
+item4527	The cavalcade then turned towards Saint Germains.

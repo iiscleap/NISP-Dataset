@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8256	The alternative of having a bureaucracy to deal with the issue makes profit look like a bad word, and encourages rent-seeking by corrupt authorities.
+item8257	President Ram Nath Kovind's address to the joint sitting of Parliament set out the philosophy and priorities of the Narendra Modi government that has been re-elected.
+item8258	It outlined the rupture that has come to characterise Mr.Modi's politics, marked by his twenty fourteen victory, and pointedly ignored the progress India had made during earlier years.
+item8259	The President said his government was committed to that very idea of nation-building, the foundation for which was laid in twenty fourteen.? 
+item8260	Harnessing the thoughts of social reformer Sree Narayana Guru and Rabindranath Tagore to emphasise brotherhood among all sections and the celebration of the human spirit would have been uplifting if only the rest of the speech dwelt on those ideas in some detail and with force.
+item8261	In the absence of elaboration, such grand intent in the initial paragraphs was not reassuring.
+item8262	The Prime Minister's newly added objective of winning the trust of all governed, Sabka vishwas, was not fleshed out meaningfully.
+item8263	Sardar Patel, Babasaheb Ambedkar and Mahatma Gandhi found mention, but not Jawaharlal Nehru, the founding Prime Minister whose vision and unfailing commitment to secularism, pluralism and progress set the Republic on a sustainable course.
+item8264	The 'New India' that the President mentioned is a departure from that founding vision, and there was no ambiguity on that aspect.
+item8265	He struck a chord with the constituency of the government, but not with all.
+item8266	The notion that there is a non-sectarian development agenda that is impervious to identity politics is good to have, and the Prime Minister's evangelical fervour in driving its schemes is laudable.
+item8267	But triumphalism around many schemes such as the Swachh Bharat Mission has deflected public attention from the serious tasks ahead and an honest discussion on achievements.
+item8268	New focus on water conservation and management and the rural economy is not a moment too early.
+item8269	These are critical areas.
+item8270	Mr.Kovind also spoke of the government's intent to expand scientific research and higher education.
+item8271	A speech by the President is significant not for the technical details it offers, but for the vision.
+item8272	The cultural nationalist agenda of the ruling dispensation that has made intellectual curiosity and academic integrity dangerous in India is not the route to any of these goals.
+item8273	The restrictions on cattle trade and violence against those employed in it ” mostly Muslims and Dalits ” have not merely become a protracted communal conflict but are also among the factors that have pushed the rural economy off the rails.
+item8274	Announcing yet another scheme for cattle, as the President did, is not confronting the real, self-inflicted problem.
+item8275	What differentiates one dispensation from another is not the material ambitions but the social purpose and direction of such pursuits.
+item8276	The clarity on that aspect in the address may be stimulating for many, but certainly not good for India.
+item8277	The key message from the UN's World Population Prospects twenty nineteen report is that national leaders must redouble their efforts to raise education, health and living standards for people everywhere.
+item8278	India is projected to become the most populous country by twenty twentyseven surpassing China, and host two billion people by twenty fifty; the world as a whole could be home to eight billion people in just over a decade from now, and the number could go up to nine billion by mid-century.
+item8279	The projections should be viewed in perspective, considering that alarmist Malthusian fears of inability to provide for more than a billion people on earth did not come true.
+item8280	Yet, there are strong arguments in favour of stabilising population numbers by raising the quality of life of people, and achieving sustainable development that will not destroy the environment.
+item8281	It was an incredibly hot day, and a lion was feeling very hungry.
+item8282	He came out of his den and searched here and there. He could find only a small hare. 
+item8283	He caught the hare with some hesitation. This hare can't fill my stomach? thought the lion.
+item8284	As the lion was about to kill the hare, a deer ran that way. The lion became greedy. He thought;
+item8285	Instead of eating this small hare, let me eat the big deer.?
+item8286	He let the hare go and went behind the deer. But the deer had vanished into the forest. 
+item8287	The lion now felt sorry for letting the hare off.
+item8288	Moral of the story: A bird in hand is worth two in the bush.

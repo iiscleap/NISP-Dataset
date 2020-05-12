@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2673	As Vallabhbhai Patel had then said, Indias Constitution-making process, and especially its citizenship clause, was going to be scrutinised all over the world. 
+item2674	As scholar Niraja Gopal Jayal has observed, this was probably because Indian nationalism during the freedom movement had not attempted to define itself on exclusive racial or ethnic bases.
+item2675	Seventy years later, Indias approach to citizenship is once again going to be scrutinised by the world. 
+item2676	The subcontinent has seen multiple, large-scale humanitarian crises erupt over questions of nationhood, citizenship and identity. 
+item2677	One hopes the Supreme Court has the good sense not to spark off yet another for no apparent reason.
+item2678	The elections in Pakistan have delivered the expected outcome a victory for Imran Khans party, Pakistan Tehreek-e-Insaf.
+item2679	Though with slightly greater numbers than was perhaps anticipated. 
+item2680	Twenty-two years after he entered politics, Mr. Khans persistence has finally paid off as he gets ready to be sworn in as the new Prime Minister of Pakistan. 
+item2681	However, he will remain dependent on coalition partners who will ensure that he keeps in line with what the umpire wants. 
+item2682	Mr. Khan needs to understand that while on the cricket pitch, the winner is a playing team, in Pakistani politics, the Army is the umpire and calls the shots.
+item2683	Every election is guided by a hawa (a wave), and after so many elections, the Army has become adept at manipulating the hawa.
+item2684	In the two thousand two elections, with Gen. Pervez Musharraf in charge, it was clear that neither the Pakistan Peoples Party nor the Pakistan Muslim League-Nawaz could be allowed to win.
+item2685	And so a new party, the Pakistan Muslim League , or PML, emerged to sweep the election. 
+item2686	Incidentally, the PML has been reduced to five seats this time and will support Mr. Khan.
+item2687	In the two thousand eight election, Benazir Bhuttos assassination (in December two thousand seven) created a sympathy wave for the PPP 
+item2688	But an accommodating President (and her husband) Asif Ali Zardari ensured that the Army remained in control of key policy matters. 
+item2689	Five years later, dissatisfaction with the PPPs mis-governance propelled Nawaz Sharif to victory and he was sworn in as Prime Minister for the third time. 
+item2690	Ironically, even though Mr. Sharifs political career was nurtured under the benign gaze of Gen Zia-ul-Haq in the nineteen eighties, 
+item2691	His relations with the Army have invariably been strained every time he has been Prime Minister. The first time he became Prime Minister, in nineteen ninety, 
+item2692	He ended up being dismissed by President Ghulam Ishaq Khan in nineteen ninety three over growing differences with Chief of Army Staff .
+item2693	History repeated itself and this time too. 
+item2694	His relations with the Army deteriorated from two thousand sixteen onwards with the Dawn leaks about a meeting where the Armys flawed Afghan policy was held responsible.
+item2695	For Pakistans international isolation and worsening law and order situation at home. 
+item2696	The Army was not amused and held the Prime Ministers office responsible for the embarrassing disclosure. 
+item2697	The Panama Papers came in useful to begin an inquiry into Mr. Sharifs financial assets, eventually leading to a judgment on somewhat flimsy grounds, resulting in his resignation last year. 
+item2698	On the same day it became clear that the spirit of opposition had spread from the Commons to the Lords, and even to the episcopal bench. 
+item2699	William Cavendish, Earl of Devonshire, took the lead in the Upper House; and he was well qualified to do so. 
+item2700	In wealth and influence he was second to none of the English nobles; and the general voice designated him as the finest gentleman of his time. 
+item2701	His magnificence, his taste, his talents, his classical learning, his high spirit, the grace and urbanity of his manners, were admitted by his enemies. 
+item2702	His eulogists, unhappily, could not pretend that his morals had escaped untainted from the widespread contagion of that age. 
+item2703	Though an enemy of Popery and of arbitrary power, he had been averse to extreme courses, had been willing, when the Exclusion Bill was lost, 
+item2704	To agree to a compromise, and had never been concerned in the illegal and imprudent schemes which had brought discredit on the Whig party. 
+item2705	But, though regretting part of the conduct of his friends, he had not, on that account, failed to perform zealously the most arduous and perilous duties of friendship. 
+item2706	He had stood near Russell at the bar, had parted from him on the sad morning of the execution 
+item2707	With close embraces and with many bitter tears, nay, had offered to manage an escape at the hazard of his own life. 
+item2708	This great nobleman now proposed that a day should be fixed for considering the royal speech. 
+item2709	It was contended, on the other side, that the Lords, by voting thanks for the speech, had precluded themselves from complaining of it. 
+item2710	But this objection was treated with contempt by Halifax. "Such thanks," he said with the sarcastic pleasantry in which he excelled, 
+item2711	Imply no approbation. We are thankful whenever our gracious Sovereign deigns to speak to us. 
+item2712	Especially thankful are we when, as on the present occasion, he speaks out, and gives us fair warning of what we are to suffer.

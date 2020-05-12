@@ -1,0 +1,42 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9500	At a protest in Srinagar against the trade suspension, for instance, a leader of the cross-LoC traders association argued that they had, in fact, themselves been seeking a foolproof mechanism to enforce the terms of the agreement.
+item9501	The benefits to the local economies from the cross-LoC trade are beyond doubt.
+item9502	It is estimated that since the barter trade commenced along two routes across the LoC in October two thousand eight, employment to the order of more than one lakh days had been created.
+item9503	The volume of trade over the decade has crossed rupees six thousand crore.
+item9504	It must be kept in mind that the trade is mostly of local goods, and those employed, including in the transportation, are from border communities.
+item9505	The opening of cross-LoC trade was among the confidence-building mechanisms that followed the two thousand three India-Pakistan ceasefire along the line, and that included a bus service between Srinagar and Muzaffarabad (in PoK).
+item9506	The hope of the mid-two thousands that people-to-people contact between those living in J&K and PoK would over time become obstruction-free has, for now, faded.
+item9507	But the LoC trade has held, with just the occasional disruption.
+item9508	The current suspension comes in the course of a shrill election campaign that the ruling BJP is relentlessly pulling towards its hard line on subjects such as Article three seventy on the special status of J&K.
+item9509	The government has sent unsettling signals by closing the National Highway between Udhampur and Baramulla to civilian traffic for two days a week to secure the movement of troop convoys.
+item9510	To now summarily suspend LoC trade is to invite suspicion that the step has been taken without careful consideration of the consequences and also for political reasons.
+item9511	The suspension must be urgently revoked.
+item9512	Pragya Singh Thakur may not be the first person to contest in an election despite facing serious charges, but her candidacy on behalf of the BJP in the Bhopal Lok Sabha constituency stands out as exceptionally controversial.
+item9513	She is arraigned as the prime accused and principal conspirator behind the September two thousand eight blast at Malegaon, in which six persons were killed.
+item9514	In other words, a person accused of a terrorist act and against whom charges have been framed under the Unlawful Activities (Prevention) Act is being fielded as a candidate, by a party that wants to underscore its anti-terrorism credentials.
+item9515	While many candidates may have criminal cases pending against them, it is highly unusual to find among mainstream party contestants one who has been accused of planting a bomb targeting a community.
+item9516	An obvious problem with Pragya Singhs candidacy is that she appears to have been chosen solely as a totemic representative of aggressive Hindutva nationalism.
+item9517	She was not prominent as a BJP member until she was named the candidate for Bhopal, where she will take on senior Congress leader Digvijaya Singh.
+item9518	It is one thing to field a political leader who faces criminal charges, but quite another to create an electoral candidate out of a key terror suspect.
+item9519	It would appear that the sole purpose of fielding her is to bolster the BJPs narrative that there never has been any Hindu or saffron terror group.
+item9520	Two blasts at Malegaon , the Samjhauta Express bombing near Panipat (February two thousand seven), the explosions at Mecca Masjid in Hyderabad and the Ajmer Dargah were linked to a fringe Hindu group called Abhinav Bharat, but the NIA had neither the political backing nor the ability to obtain convictions.
+item9521	To no ones surprise, Ms.Singh lost little time in embarrassing the BJP by making serious allegations against the chief of the Mumbai Police Anti-Terrorist Squad, Hemant Karkare, who was martyred in the twenty six by eleven terror attack.
+item9522	Election law as it stands today does not bar one facing criminal charges from contesting, except those convicted of specified classes of offences, or those that entail a sentence of at least two years.
+item9523	If the mere pendency of a case was made a ground for disqualification, a vindictive regime could get any political opponent disqualified by merely slapping a criminal charge.
+item9524	However, given the tortuous process of taking a criminal prosecution to its conclusion, some have made a case for advancing the stage at which disqualification kicks in — by making a legislative change to rule out of the contest any person against whom charges have been framed by a competent court.
+item9525	Have a Support System
+item9526	Personally, my wife has been my biggest fan and supporter. She has been there for me during the tough times and the good ones as well. 
+item9527	Building a support system that includes personal and professional contacts is very important.
+item9528	Whether it is online or in-person, the more support that you have, the greater confidence you will have. 
+item9529	The support system does not have to be big, but you do need to have mutual trust and respect.
+item9530	Have a Plan B
+item9531	I always have a plan B. Many times, things do not go as planned and you need to resort to the backup plan. 
+item9532	In several instances, the backup ends up being better than the original.
+item9533	Not only should you have a plan, but a method of quickly putting it into action quickly if plan A gets derailed by the unforeseen.
+item9534	Change is part of life. You cannot control it. 
+item9535	Accepting and understand that life or business will not be exactly as you planned will help you adapt and make the best of a given situation.

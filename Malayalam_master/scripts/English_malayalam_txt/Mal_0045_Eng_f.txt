@@ -1,0 +1,37 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10565	The bill states exemptions for some kinds of data processing, such as in the interest of national security, for legal proceedings, or for journalistic purposes.
+item10566	The Transgender Persons (Protection of Rights) Bill
+item10567	The proposed legislation, which was first introduced in Parliament in the previous session on July nineteen and passed by the Lok Sabha on August five , defines a transgender person as one whose gender does not match the gender assigned at birth.
+item10568	The bill prohibits discrimination against transgender persons in areas including but not limited to education, employment, healthcare, etc.
+item10569	The section of the bill which requires a transgender person to get issued a certificate of identity from a district magistrate, indicating the gender as transgender, had drawn criticism from the community who asked for the removal of the provision.
+item10570	The Dam Safety Bill, twenty nineteen
+item10571	The bill was introduced on July twenty nine and passed by the Lok Sabha on August two .
+item10572	So, it is expected to be introduced in the Rajya Sabha in the current session.
+item10573	The bill provides for surveillance, inspection, operation, and maintenance of all specified dams - with height more than fifteen metres, or height between ten metres and fifteen metres with certain design and structural conditions - across the country.
+item10574	The bill will constitute two national bodies: the National Committee on Dam Safety (NCDS) to evolve policies and recommend regulations with regards to dam safety standards, and National Dam Safety Authority (NDSA) which will implement policies framed by the NCDS and provide technical assistance to the State Dam Safety Organisations (SDSOs).
+item10575	Another state body to be constituted is State Committee on Dam Safety.
+item10576	The Chit Funds (Amendment) Bill, twenty nineteen
+item10577	The bill, which was first introduced in August, was listed to be moved by the government for consideration by the Lok Sabha on Monday.
+item10578	The bill seeks to amend the Chit Funds Act, nineteen eighty two.
+item10579	The legislation regulates chit funds, and prohibits a fund from being created without prior sanction of the state government.
+item10580	The government had in March twenty eighteen introduced a bill to regulate the chit fund industry and later referred it to a standing committee on finance for scrutiny.
+item10581	The parliamentary panel had advised the government to incorporate an element of insurance coverage for subscribers, apart from other things.
+item10582	The National Crisis Management Committee in an emergency meeting convened by the Cabinet Secretary on Sunday decided to send an expert panel to the Gandhi Sagar dam after the Central Water Commission (CWC) declared its overtopping a "great crisis," sources told News eighteen.
+item10583	"The Madhya Pradesh and Rajasthan governments had already sought the Centre's intervention due to the heavy rains and flooding.
+item10584	The committee has also dispatched an expert panel to Mandsaur on Monday to prepare a report on the crisis that has raised alarms of overtopping along the Chambal and Yamuna rivers," said an official privy to the developments.
+item10585	When the king's daughter saw the golden cups, she liked them all and said, "They are finely made. I will purchase them all."
+item10586	But faithful Jose replied, "I am only the servant of a rich merchant; "What I have here is nothing compared to what is there in our ship. Nothing more delicate or costly has ever been made in gold."
+item10587	Then the king's daughter wished to have them all bought...but he said, "It would take many days and so great is the quantity that your palace has not halls enough in it to place them around."
+item10588	Then her curiosity and desire were still more excited and at last she said, "Take me to the ship. I will go myself and look at your master's treasure."
+item10589	Faithful Jose took her to the ship with great joy and the king when he beheld her saw that her beauty was still greater than the picture had represented and thought that his heart would jump out of his mouth. 
+item10590	When she stepped on board and the king conducted her below, faithful Jose remained on the deck by the steersman and told him to unmoor the ship and put on all the sails he could that it might fly like a bird through the air.
+item10591	Meanwhile the king showed the princess all the golden treasures - the dishes, the cups, the bowls, the birds and the wild and wonderful beasts. Many hours elapsed while she looked at everything and in her joy she did not remark that the ship sailed on and on. 
+item10592	As soon as she had looked at the last and thanked the merchant, she wished to depart. But when she came on deck, she perceived that they were upon the high sea, far from the shore and were hastening on with all the sails. 
+item10593	"Ah", she exclaimed in fright, "I have been betrayed. I am carried off and taken away in the power of a strange merchant. I would rather die!"
+item10594	But the king taking her by the hand said, "I am not a merchant...but a king and equal to you in birth. It is true that I have carried you off. 
+item10595	But that is because of my overwhelming love for you. When I first saw the portrait of the beauteous face, I fell down in a swoon before it."

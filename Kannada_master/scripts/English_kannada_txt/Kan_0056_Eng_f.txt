@@ -1,0 +1,45 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4609	Such an agreement may persuade banks to embark more quickly on a resolution plan for stressed assets. 
+item4610	This is an improvement on the earlier model, which relied solely on the joint lenders forum to arrive at a consensus among creditors.
+item4611	It is, in fact, logical for joint lenders who want to avoid a deadlock to agree on the ground rules of debt resolution prior to lending to any borrower. 
+item4612	But the obligation on the lead lender to come up with a time-bound resolution plan can have unintended consequences. 
+item4613	Banks may be compelled to engage in a quick-fire sale of stressed assets due to arbitrary deadlines on the resolution process. 
+item4614	This will work against the interests of lenders looking to get the best price for their stressed assets. 
+item4615	Also, it is often in the interest of the majority of creditors to take the time to extract the most out of their assets. 
+item4616	Meanwhile, the biggest obstacle to bad loan resolution is the absence of buyers who can purchase stressed assets from banks.
+item4617	And the unwillingness of banks to sell their loans at a deep discount to their face value. 
+item4618	Unless the government can solve this problem, the bad loan problem is likely to remain unresolved for some time to come.
+item4619	For the Indian rupee, already grappling with high crude oil prices and the growing heft of the U.S. dollar.
+item4620	The latest shock has come from a most unexpected quarter. 
+item4621	The currency, which was valued at sixty three point eight four to the dollar at the end of two thousand seventeen, briefly crossed the seventy-mark in early trading on Tuesday, on account of the fall in the Turkish lira. 
+item4622	The lira has slipped forty pecent against the U.S. dollar this year, but a bulk of that decline took place over just two days. \
+item4623	There are many factors at play for Turkeys currency crisis, including its standoff with the U.S.
+item4624	The Trump administration has just sanctioned Turkeys Justice and Interior Ministers and plans to double punitive tariffs on steel and aluminium imports from the NATO member-country. 
+item4625	Relations between the U.S. and Turkey are tense, with Washington refusing to hand over an Islamic cleric charged by the Erdogan government of masterminding the failed military coup in two thousand sixteen.
+item4626	A few days ago, a potential bilateral deal to end Turkeys continued detention of an American pastor and the incarceration by the U.S. of a Turkish banker collapsed. 
+item4627	Beyond the bilateral consequences, the crash of the lira has had a ripple effect on most emerging market currencies, catching policy-makers off guard. 
+item4628	The South African rand, for instance, on Monday had its biggest single-day fall in a decade.
+item4629	In contrast, the rupees fall from about sixty eight point five to seventy appears minor. 
+item4630	The stock markets, which tumbled on Monday as the currency weakened, seemed to take the rupees slide in their stride on Tuesday, with the Sensex rising by half a percentage point.
+item4631	There is in fact no need to panic on account of the rupee. 
+item4632	Barring the gradual decline in its value this year, the Indian currency has been fairly stable over two thousand sixteen and two thousand seventeen.
+item4633	With inflation being higher than in developed countries, its purchasing power at home has been falling. 
+item4634	The first act of the Commons was to choose a Speaker; and the choice which they made indicated in a manner 
+item4635	Not to be mistaken their opinion touching the great questions which they were about to decide. 
+item4636	Down to the very eve of the meeting, it had been understood that Seymour would be placed in the chair.He had formerly sate there during several years.
+item4637	He had great and various titles to consideration; descent, fortune, knowledge, experience, eloquence. 
+item4638	He had long been at the head of a powerful band of members from the Western counties.
+item4639	Though a Tory, he had in the last Parliament headed, with conspicuous ability and courage, the opposition to Popery and arbitrary power. 
+item4640	He had been among the first gentlemen who had repaired to the Dutch head quarters at Europe, 
+item4641	And had been the author of that association by which the Prince's adherents had bound themselves to stand or fall together. 
+item4642	But, a few hours before the Houses met, a rumour was spread that Sam was against declaring the throne vacant. 
+item4643	As soon, therefore, as the benches had filled, the Earl of Wilt, who represented Hampshire, stood up, and proposed that Powle should be Speaker. 
+item4644	Sir Fane, member for Kent, seconded the motion. A plausible objection might have been raised;
+item4645	For it was known that a petition was about to be presented against Powle's return: 
+item4646	But the general cry of the House called him to the chair; and the Tories thought it prudent to acquiesce. 
+item4647	The mace was then laid on the table; the list of members was called over; and the names of the defaulters were noted.

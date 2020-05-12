@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9809	The machinations that led to the installation of a BJP-led government headed by Manohar Parrikar did not match up to any high standards of democracy.
+item9810	Parrikar’s image acted as a veneer for his party’s less than honourable pursuit of power.
+item9811	He was a moderate in the Hindutva party and reached out to Christians, who constitute twenty five percent of the population.
+item9812	His return to the State after leaving the Union Cabinet was a condition set by parties and independents for supporting the BJP.
+item9813	He was able to considerably insulate himself from the afflictions of Goa’s politics.
+item9814	With his passing, politics in Goa could be less restrained.
+item9815	Its politicians should strive hard to prove the sceptics wrong.
+item9816	History, of course, does not counsel optimism.
+item9817	Multiple social and economic factors contribute to the volatility.
+item9818	Goa’s population, as per Census twenty eleven, is just fourteen lakh, and it is one of the smallest States also in terms of area.
+item9819	There are fourty Assembly constituencies, relatively small in size; most have less than thirty thousand voters.
+item9820	Besides the Congress and the BJP, the Maharashtrawadi Gomantak Party, the Goa Forward Party and the Nationalist Congress Party are represented in the current Assembly.
+item9821	The main political contest is between the BJP and the Congress, but given the small sizes of constituencies and the close contests, the scope for manipulation of the electoral process is very high.
+item9822	Seasoned political players have perfected the art of setting up multi-cornered contests by fielding independents and fringe political outfits that fragment the votes and turn the tide to their benefit.
+item9823	Goa is the place where the many ills of Indian democracy play out in a stark manner.
+item9824	Land is scarce, with tourism being the mainstay of the economy.
+item9825	Mining, which used to be the other major driver of the economy, has been stalled by the Supreme Court since February last year.
+item9826	There are numerous avenues for political patronage, rent-seeking and generation of dirty money.
+item9827	The political system, rather than acting as a counterweight to the hazardous forces that its economy and geography generate, often ends up accelerating them.
+item9828	A government with a wafer-thin majority is unlikely to address these systemic ills.
+item9829	With the overwhelming vote on Thursday to seek a delay to the exit from the EU, Britain’s Parliament might have actually given Prime Minister Theresa May another chance to push her existing deal for Brexit.
+item9830	A day earlier, a majority of the MPs decided to rule out, under all circumstances, Britain’s crashing out of the EU without an agreement.
+item9831	With the catastrophic consequences of a hard Brexit option thus foreclosed, from Britain’s perspective at least, there is good reason to think that the worst is over for the U.K., although there is no clue yet to the direction of the exit.
+item9832	Both these proposals had been rejected as part of earlier amendments to the draft withdrawal bill, and the votes this week reflect a significant shift in Parliament’s stance.
+item9833	Yet, a delay to the March twenty nine deadline to leave the EU can only bring a temporary respite from uncertainty.
+item9834	You’ll notice, that up until now none of the attitudes listed really serve as a mental block for people not being able or not wanting to move in the direction of success.
+item9835	That’s where disbelief comes in. What with only a small percentage of people in the world becoming abnormally successful, and a large percentage that put in a lot of effort and still don’t make it, it can be difficult to actually believe that you can do it.
+item9836	The important thing to remember is that some of the most successful people in the world came from backgrounds where most people thought it could never be done, until they had the believe to find out for themselves.
+item9837	Arnold Schwarzenegger is a classic example, coming from a small village in Austria, becoming a world champion bodybuilder was almost deemed out of the question.
+item9838	Even then, he went on to star in world famous movies against all odds and people’s opinions, and then even further to become the governor of California. 
+item9839	Schwarzenegger was only the second foreign person in history to become governor.
+item9840	Have the belief, that anything is possible.

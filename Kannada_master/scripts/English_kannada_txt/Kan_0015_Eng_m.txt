@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2915	Such a strong public philosophy is often incomprehensible to people outside France. 
+item2916	In many parts of the world, the French insistence that race does not exist and that the state should remain rigorously secular seem strange. 
+item2917	Would it not be better to celebrate Frances multi-ethnic and multi-religious composition?
+item2918	Would this not allow the French to face up to the waves of immigration that are the most visible legacy of a violent colonial past?
+item2919	Perhaps it would. But things are not quite that simple. 
+item2920	Over the past century and a half, France has received and successfully absorbed millions of immigrants from Europe, Africa, Asia, the Pacific and the Caribbean. 
+item2921	For better or for worse, almost all of them have wanted to become French and have clung tightly to their French identity. 
+item2922	This was true even during moments of crisis, like the Second World War, when the French state tried to strip some of them of their citizenship.
+item2923	Moreover, large-scale surveys of social attitudes over the past few decades show clearly that the French are becoming more tolerant in their attitudes towards race, ethnicity and origin.
+item2924	The fact that more French people than ever are willing to call their country racist does not mean that France today is more racist than it was half a century ago.
+item2925	Has this deep attachment to citizenship and a growing tolerance towards ethnic difference come about because of Frances much-maligned colour-blind republicanism? 
+item2926	Some would say yes; others would argue exactly the opposite. One thing is for sure, though: the claim that this World Cup-winning team is African is factually incorrect.
+item2927	Portugal's Cristiano Ronaldo scores his side's opening goal during the group B match between Portugal and Morocco in the Luzhniki Stadium in Moscow, Russia.
+item2928	There is nothing wrong with Noah, or umpteen other people all over the world, supporting France because the team is African, black or simply not-very-white. 
+item2929	But this does not reflect the life stories of the players or their own relationship to their country.
+item2930	Some of the teams most iconic stars like Paul , Kant and Mayor are pure products of contemporary France. 
+item2931	They grew up in depressed neighbourhoods on the outskirts of Paris; 
+item2932	They went to French schools; and their only footballing dream was to emulate the great French team of nineteen ninety eight.
+item2933	They will know the difficult stories of their immigrant parents and they will have suffered intense racism while growing up,
+item2934	But they almost certainly feel more comfortable in Paris or Lyon than Bamako or Casablanca.
+item2935	Perhaps most importantly, we need to remember that they are only young footballers.
+item2936	Rather than force on them an African identity they may or may not choose to inhabit, 
+item2937	We should leave them to enjoy their spectacular victory and their understandable pride at having represented a country they know does not always live up to its own ideals.
+item2938	As a law that empowers the citizen, the Right to Information Act, two thousand five quickly struck root in a country saddled with the colonial legacy of secretive government. 
+item2939	The move by the NDA government to amend the far-sighted law aims at eroding the independence of the Information Commissions at the national level and in the States. 
+item2940	Jeffreys conducted himself, as was his wont, insolently and unjustly. 
+item2941	He had indeed an old grudge to stimulate his zeal.
+item2942	 He had been Chief Justice of Chester when Delamere, then Mr. Booth, represented that county in Parliament. 
+item2943	Booth had bitterly complained to the Commons that the dearest interests of his constituents were intrusted to a drunken jackpudding.
+item2944	The revengeful judge was now not ashamed to resort to artifices which even in an advocate would have been culpable. 
+item2945	He reminded the Lords Triers, in very significant language, that Del had, in Parliament,
+item2946	Objected to the bill for attainting Monmouth, a fact which was not, and could not be, in evidence. 
+item2947	But it was not in the power of Jeffreys to overawe a synod of peers as he had been in the habit of overawing common juries. 
+item2948	The evidence for the crown would probably have been thought amply sufficient on the Western Circuit or at the City Sessions, 
+item2949	But could not for a moment impose on such men as Rochester, Godolphin, and Churchill; 
+item2950	Nor were they, with all their faults, depraved enough to condemn a fellow creature to death against the plainest rules of justice. 
+item2951	Grey, Wade, and Goodenough were produced, but could only repeat what they had heard said by Monmouth and by Wildman's emissaries. 
+item2952	The principal witness for the prosecution, a miscreant named Saxton, who had been concerned in the rebellion, 
+item2953	And was now labouring to earn his pardon by swearing against all who were obnoxious to the government, who proved by overwhelming evidence to have told a series of falsehoods.
+item2954	All the Triers, from Churchill who, as junior baron, spoke first, up to the Treasurer, pronounced, on their honour, that Delamere was not guilty. 

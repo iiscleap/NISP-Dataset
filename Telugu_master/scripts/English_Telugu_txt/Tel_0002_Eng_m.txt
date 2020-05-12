@@ -1,0 +1,50 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0047	Here are price trends on the world's major stock markets as calculated by morgan stanley capital international perspective geneva 
+item0048	The hospital industry is government funded 
+item0049	"double-quote it was meaningless straw polls four years ago ,comma "double-quote says richard moe ,comma a senior adviser to democratic representative richard gephardt of missouri .Period 
+item0050	But U.S. gasoline stocks are close to an eight year low while demand has outstripped the industry's physical ability to manufacture unleaded fuel he says 
+item0051	The fund uses an unusual strategy of investing in convertible bonds .Period 
+item0052	"double-quote it's a fashionable number ,comma "double-quote said Mr. chandross of lloyd's bank ,comma New York .Period 
+item0053	The company previously traded over the counter .Period 
+item0054	"double-quote we love these horses ,comma "double-quote he says .Period 
+item0055	Ads for breast implants sometimes make the procedure look like something fun to do on lunch break 
+item0056	But the seriousness with which serious europeans discuss the prospect vividly underscores the impact on western europe of Mr. gorbachev and his reform policies .Period 
+item0057	The novel ends with a big surprise .Period 
+item0058	When possible they try to reduce their U.S. currency portfolios by selling dollars back into calmer markets 
+item0059	Anyone who accepts the job of investigating the speaker should be prepared to take some heat .Period 
+item0060	And at a time when deteriorating service is a national malady this company claims to deliver more than ninety nine percent of its letters and packages on time 
+item0061	A spokesman for the U.S. olympic committee said most such words and symbols are similarly protected in the U.S. 
+item0062	But pennzoil offered to pay the getty museum more for its shares ,comma sooner than it would pay other shareholders ,comma even if the merger failed .Period 
+item0063	Drexel's Mr. joseph calls staley's allegations outrageous 
+item0064	Coniston among other things is calling for a new vote 
+item0065	To make them directly comparable each index is based on the close of nineteen sixty nine equaling one hundred 
+item0066	But economist alan greenspan remains a favorite .Period 
+item0067	The rally fueled by a stronger dollar and bond market snapped a five day decline in which the industrials lost over one hundred twenty points 
+item0068	Bancroft convertible fund incorporated had a net asset value of twenty five dollars and eighty eight cents and a closing price of twenty seven and one quarter as of friday 
+item0069	But in nineteen eighty six ,comma the supreme court told the appeals court to reconsider its decision in light of another high court ruling .Period 
+item0070	The stock price sank 
+item0071	But the system united unveiled this month had I.B.M. personal computers doing some tasks originally earmarked for the nine thousand ,comma three hundred seventy .Period 
+item0072	At first we may be disposed to say that livingness consists in the power of motion and deadness in its absence; 
+item0073	But a little enquiry into the most recent researches of science will soon show us that this distinction does not go deep enough. 
+item0074	It is now one of the fully-established facts of physical science that no atom of what we call "dead matter" is without motion. 
+item0075	On the table before me lies a solid lump of steel, but in the light of up-to-date science I know that the atoms of that seemingly inert mass are vibrating with the most intense energy, 
+item0076	Continually dashing hither and thither, impinging upon and rebounding from one another, or circling round like miniature solar systems, 
+item0077	With a ceaseless rapidity whose complex activity is enough to bewilder the imagination. 
+item0078	The mass, as a mass, may lie inert upon the table; 
+item0079	But so far from being destitute of the element of motion it is the abode of the never-tiring energy moving the particles with a swiftness to which the speed of an express train is as nothing. 
+item0080	It is, therefore, not the mere fact of motion that is at the root of the distinction which we draw instinctively between spirit and matter; we must go deeper than that. 
+item0081	The solution of the problem will never be found by comparing Life with what we call deadness, and the reason for this will become apparent later on; 
+item0082	But the true key is to be found by comparing one degree of livingness with another. 
+item0083	There is, of course, one sense in which the quality of livingness does not admit of degrees; 
+item0084	But there is another sense in which it is entirely a question of degree. 
+item0085	We have no doubt as to the livingness of a plant, but we realize that it is something very different from the livingness of an animal. 
+item0086	Again, what average boy would not prefer a fox-terrier to a goldfish for a pet? 
+item0087	Or, again, why is it that the boy himself is an advance upon the dog? 
+item0088	The plant, the fish, the dog, and the boy are all equally _alive_; 
+item0089	But there is a difference in the quality of their livingness about which no one can have any doubt, 
+item0090	And no one would hesitate to say that this difference is in the degree of intelligence.

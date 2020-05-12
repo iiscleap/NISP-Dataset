@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0085	Analysts haven't focused on what happened to them 
+item0086	Analysts said gillette remains vulnerable to a hostile bid .Period 
+item0087	Analysts too generally played down the effect on banks 
+item0088	Analysts value united cable at between thirty seven dollars and forty five dollars a share .Period 
+item0089	And after a temporary downturn in the next couple of years the numbers probably will go back up 
+item0090	And a Merrill Lynch spokesman said all of his firm's program trading simply reflects requests from customers for such trading 
+item0091	And both mortgaged their homes to secure the loans they needed to start the business 
+item0092	And higher interest rates attract foreign investors pushing up the dollar 
+item0093	And I.G.I incorporated ,comma another biotechnology issue ,comma climbed one half to nine and seven eighths .Period 
+item0094	And I have dollars with me already which didn't come from South Africa or America ...ellipsis .Period 
+item0095	And I'm sure you have your own list 
+item0096	And it said traders should be able to deliver actual stocks to settle futures contract obligations stock index futures currently are settled in cash upon expiration 
+item0097	And many companies are improving equipment 
+item0098	And more than that he is a central figure in the securities industry's insider trading scandal 
+item0099	And pennzoil company's net income tumbled seventy one percent largely from a one time charge 
+item0100	And pennzoil company's net income tumbled twenty one percent ,comma largely from a one -hyphen time charge .Period 
+item0101	And the idea of letting employers pre fund post retirement medical expenses is surely better than having government do it 
+item0102	And then there's the explanation of why teradyne's growth in Japan is slow despite fifteen years of effort 
+item0103	And we can't tell you when they're going to be there 
+item0104	An F.B.I report concluded that the number of violent crimes reported in the U.S. last year increased five point five percent from nineteen eighty seven 
+item0105	An issue of ten million common shares of bethlehem steel was priced at nineteen dollars a share through salomon brothers incorporated 
+item0106	Another factor boosting Japanese stocks ,comma said analysts ,comma was low oil prices .Period 
+item0107	Another restructuring plan failed to win approval last year .Period 
+item0108	A number of major U.S. companies ,comma including general motors and international business machines corporation ,comma have pulled out of South Africa in recent months .Period 
+item0109	A P.B.G.C. spokeswoman declined comment 
+item0110	It was at the gravel-pits. 
+item0111	Father had to go away suddenly on business, and mother had gone away to stay with Granny, who was not very well. 
+item0112	They both went in a great hurry, and when they were gone the house seemed dreadfully quiet and empty, 
+item0113	And the children wandered from one room to another 
+item0114	And looked at the bits of paper
+item0115	And string on the floors left over from the packing, 
+item0116	And not yet cleared up, and wished they had something to do. 
+item0117	It was Cyril who said:
+item0118	'I say, let's take our Margate spades and go and dig in the gravel-pits. 
+item0119	We can pretend it's seaside.'
+item0120	'Father said it was once,' Anthea said; 'he says there are shells there thousands of years old.'
+item0121	So they went. 
+item0122	Of course they had been to the edge of the gravel-pit and looked over, 
+item0123	But they had not gone down into it for fear father should say they mustn't play there, and the same with the chalk-quarry. 
+item0124	The gravel-pit is not really dangerous if you don't try to climb down the edges, but go the slow safe way round by the road, as if you were a cart.

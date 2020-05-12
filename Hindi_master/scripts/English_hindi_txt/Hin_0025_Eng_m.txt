@@ -1,0 +1,36 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item5605	Societies are problem-solving collectives that grow in complexity in order to overcome new issues.
+item5606	 It landed at a spot on the moon's far side, the Von Kármán crater, which is untouched by earlier missions from earth. 
+item5607	One recent survey of U. S. manufacturers shows that about tweleve percent have started using additive manufacturing for their products and expectations are that this will result in about twenty five percent of products in the next three-five years. 
+item5608	If that is correct and the interpretation has been questioned, people were making cheese in southern Europe seven thousand two hundred years ago.
+item5609	 The train was stuck near Tundla for about one to two hours, after which it moved at a slow speed of up to forty kmph.
+item5610	 In many instances, the CBI has also been resorting to pressure tactics while questioning individuals, even when they are not accused persons, setting aside legal niceties and requirements.
+item5611	Everything short of that, including advocacy? of any kind, is protected by the Constitution.
+item5612	 Look at what it has done to football and kabaddi.
+item5613	 China is another major concern as the People's Bank of China's earlier moves to rein in a massive credit-fuelled bubble have been dampening momentum with a lagged effect. 
+item5614	The consultations will last twelve weeks, and the government will later announce its final policy  decades after deposit return schemes were introduced in other countries.
+item5615	Andrew Opie, of the British Retail Consortium, said the best approach is to focus on cans and bottles drunk outside the home.
+item5616	The concentration of humans and cattle in walled settlements with poor hygiene made disease outbreaks unavoidable and catastrophic.
+item5617	The policy proposals are there.
+item5618	Obviously, the problem of a majority of votes being lost is bigger under the U.K.-style winner-takes-all prime ministerial system, but the U.S.-style presidential system does not resolve the issue.
+item5619	The project remains stalled amid protests against land acquisition, but it shows Saudi Arabia's interest to make long-term investments in India's energy sector.
+item5620	This fall was balanced by growing demand in developing countries, especially in Asia ninetysix something the IFCN has also noted.
+item5621	Unstable genes in humans are what make us vulnerable to aged-related diseases such as cancer.
+item5622	Such steps will lessen the chance of a future collapse becoming irreversible.
+item5623	Take someone like me.
+item5624	 Based on a true story, the trial and news of which still make headlines in France, the film deals with a theme similar to the Oscar winning Spotlight (two thousand fifteen).
+item5625	After an extravagant life that spanned almost six to seven years, Raj was neither able to manage all the household expenses, nor pay for the children's education and other basic necessities.
+item5626	It so happened that Raj's father fell sick, and as a result, could not continue his work in the welding shop.
+item5627	 He requested Raj to give some money for his treatment and other household expenses.
+item5628	Raj, who was already suffering from financial crisis, shouted at his parents and told them that he had no money to provide.
+item5629	 He complained to his parents, You never sent me to a big school.
+item5630	 I was not provided with expensive clothes. You rarely fed me with my favourite food.
+item5631	 I was not able to taste different varieties of food. 
+item5632	 When I got low marks you didn't have enough money to provide me with private tuition, and it took me more than ten years to get settled.
+item5633	 Now, while I am again struggling for money, you are not doing anything to help me, but instead are a burden to me! So, please don't come to me again.?
+item5634	His parents were left shattered.

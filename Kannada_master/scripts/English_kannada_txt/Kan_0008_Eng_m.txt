@@ -1,0 +1,48 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2631	Likewise, the number of people affected by the rejection of panchayat residency certificates is more than fourty five lakh a little more than the number of people who have been left out of the final list.
+item2632	The rejection of the panchayat certificates has a judicial angle to it as well. 
+item2633	In February Two thousands and seventeen, in Manowara Bewa versus Union of India, the Gauhati High Court declared that certificates issued by gram panchayats could not be relied.
+item2634	This had the effect of putting the citizenship of a large number of women who relied on this document to establish marital relationships in doubt. 
+item2635	The Supreme Court didnt immediately set it aside, as the Assam government did not file an appeal against it. 
+item2636	Rather, it was only in December that the Supreme Court clarified that the panchayat certificates could be relied upon, 
+item2637	Provided the documents themselves had been appropriately proved in court. 
+item2638	However, it did not finally settle the matter it remanded the matter back to the Gauhati High Court for fresh examination. 
+item2639	The fate of lakhs of people relying on these documents remains uncertain as each person will now have to prove not only his or her linkages afresh, but also the documents.
+item2640	Yet, none of this entered the courts calculus. 
+item2641	Why preparing the NRC within a deadline was more important than ensuring that there was legal clarity over the manner.
+item2642	In which the claims of citizenship could be decided is not something that the Supreme Court thought it fit to clarify or go into at any stage in its hearing of the case.
+item2643	A much larger question also remains unanswered and one which the court has not deigned to ask itself in the nine years it has been seized of this matter: to what end this exercise? 
+item2644	Even if the objections and corrections are properly dealt with, there are likely to be many individuals who will be unable to prove Indian citizenship. 
+item2645	The immediate consequence is that they will lose their right to vote (which temporarily ends the public interest litigation). 
+item2646	But that only results in the beginning of a new problem: what will be the status of the several lakh individuals who would have suddenly lost Indian citizenship with no recourse in sight?
+item2647	Even at the latest hearing which took place on July thirty one, the Supreme Court seemed unperturbed by the consequences of its actions,
+item2648	All the while making the right noises about there being no immediate consequences for those who have not found their names on the list and there being more opportunities to question the absence of names on the NRC. 
+item2649	At some point, the Supreme Court will be confronted with the undeniable question, 
+item2650	What action can it allow the government to take against those who are unable to prove that they are Indian citizens?
+item2651	Will it allow the government to adopt the crude, communal rhetoric doing the rounds on social media and push them out? 
+item2652	Will it take responsibility for the protection of the basic rights of those who have been rendered stateless and defenceless? 
+item2653	Or will it take the Pontius Pilate option and wash its hands of the whole matter?
+item2654	During the Constituent Assembly debates, B.R. Ambedkar remarked that the provision relating to citizenship in the Constitution caused the Drafting Committee 
+item2655	The most headache (save for one other clause) as multiple drafts were worked on and rejected over the years before the present Article five was settled upon. For good reason too. 
+item2656	The House then resolved itself into a committee, for the purpose of considering the amount of supply to be granted. 
+item2657	The King wanted fourteen hundred thousand pounds: but the ministers saw that it would be vain to ask for so large a sum. 
+item2658	The Chancellor of the Exchequer mentioned twelve hundred thousand pounds. 
+item2659	The chiefs of the opposition replied that to vote for such a grant would be to vote for the permanence of the present military establishment
+item2660	They were disposed to give only so much as might suffice to keep the regular troops on foot till the militia could be remodelled and they therefore proposed four hundred thousand pounds. 
+item2661	The courtiers exclaimed against this motion as unworthy of the House and disrespectful to the King: but they were manfully encountered. 
+item2662	One of the western members, John Windham, who sate for Salisbury, especially distinguished himself. 
+item2663	He had always, he said, looked with dread and aversion on standing armies; and recent experience had strengthened those feelings. 
+item2664	He then ventured to touch on a theme which had hitherto been studiously avoided. 
+item2665	He described the desolation of the western counties. 
+item2666	The people, he said, were weary of the oppression of the troops, weary of free quarters, of depredations, of still fouler crimes which the law called felonies, 
+item2667	But for which, when perpetrated by this class of felons, no redress could be obtained. 
+item2668	The King's servants had indeed told the House that excellent rules had been laid down for the government of the army; 
+item2669	But none could venture to say that these rules had been observed.What, then, was the inevitable inference? 
+item2670	Did not the contrast between the paternal injunctions issued from the throne and the insupportable tyranny of the soldiers prove that the army was even now too strong for the prince as well as for the people? 
+item2671	The Commons might surely, with perfect consistency, while they reposed entire confidence in the intentions of His Majesty, 
+item2672	Refuse to make any addition to a force which it was clear that His Majesty could not manage.

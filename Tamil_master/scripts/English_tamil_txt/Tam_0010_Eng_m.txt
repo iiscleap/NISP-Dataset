@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8398	The other separate invitation to Prime Minister Pravind Jugnauth of Mauritius, who visited India in January this year as chief guest at the Pravasi Bharatiya conference, is an affirmation of the close affinity between the two countries.
+item8399	It would be unwise, however, to read meanings into Mr.Modi’s choice of international dignitaries beyond this symbolism.
+item8400	India’s engagement with both BIMSTEC and the SCO, which India joined as an observer in two thousand five, is at a promising but incipient stage.
+item8401	After its formation in nineteen ninety seven, BIMSTEC made very little progress and didn’t even have a fully working secretariat until recently.
+item8402	Its deliberations on subregional connectivity have been delayed owing to concerns in Bhutan, while Nepal and Thailand sent only observers to the military exercises last year due to other misgivings.
+item8403	Even so, India sees BIMSTEC as a possible alternative to SAARC, which has failed to meet for five years.
+item8404	The SCO, which inducted India and Pakistan as full members last year, is yet to demonstrate its utility for India, but is seen as a possible balancer at a time when the U.S.is taking a more aggressive position on trade, sanctions against Iran, Venezuela and Russia, all of which are sources of concern for India.
+item8405	As a result, the attendance at Mr.Modi’s swearing-in ceremony on Thursday, and the bilateral meetings that will follow on Friday, may represent little by way of actual outcomes.
+item8406	Rather, it is a statement of intent on new avenues of India’s multilateral engagements.
+item8407	Prime Minister Narendra Modi’s declaration that the trust of all — sabka vishwas — will be a dimension of governance in his second term is reassuring, coming as it does after the highly divisive and fact-free campaign he led for the seventeen th general election.
+item8408	In a Twitter post as the results were being announced on May twenty three, Mr.Modi spruced up a mantra that he has uttered for long — sabka saath, sabka vikas, translated as ‘collective efforts, inclusive growth’ on his website — with this third tenet.
+item8409	Mr.Modi later elaborated on the theme and said the BJP needed to win the trust particularly of the minorities.
+item8410	The very admission by the Prime Minister of the need to gain the trust of all sections of the people allows high hopes for those who agonise over the prospects of a majoritarian slide in Indian democracy.
+item8411	While he rightly identified the trust deficit the BJP faces among religious and linguistic minorities and stressed the need to overcome it, there was not enough introspection, let alone remorse.
+item8412	He appeared to overlook the reasons for the mistrust in the BJP and put the blame on his political opponents who, he alleged, had created an ‘imaginary fear’ among the minorities.
+item8413	There exists an easy channel of political mobilisation where the fear about the BJP among minorities is amplified, but it is undeniably based on its rhetoric and track record.
+item8414	The Gujarat riots of two thousand two, when Mr.Modi was Chief Minister, remain a haunting memory.
+item8415	Recurring incidents of mob violence against the minorities by BJP supporters go unpunished, as party leaders including Mr.Modi maintain a condoning silence.
+item8416	Therefore, the Prime Minister’s statement about winning the trust of the minorities and accommodating regional aspirations while pursuing national aspirations must be backed with action.
+item8417	Mr.Modi is projected as a man of action, but politics is driven also by rhetoric.
+item8418	He must sustain and embellish his new slogan with his characteristic tenacity, without slackening on the question of communal harmony, going by experience.
+item8419	In twenty eleven, he held a series of Sadbhavna fasts in Gujarat to spread the message that he did not discriminate between the majority and the minority — but did not follow up to deepen the message.
+item8420	It is possible that the wider Sangh Parivar will not take kindly to suggestions of parity between Hindus and non-Hindus, an axiomatic constitutional truth.
+item8421	Gautam Gambhir, former cricketer and now BJP MP, had to cite Mr.Modi’s new creed in his defence after being cornered online by BJP sympathisers for rightly condemning a mob attack on a Muslim in Gurugram.
+item8422	Mr.Modi has continuously claimed that his governance is decisive and strong, which will be meaningless if it fails in the face of divisiveness.
+item8423	A slave, ill-treated by his master, runs away to the forest. 
+item8424	There he comes across a lion in pain because of a thorn in his paw. 
+item8425	The slave bravely goes forward and removes the thorn gently.
+item8426	The lion without hurting him goes away.
+item8427	Some days later, the slave’s master comes hunting to the forest and catches many animals and cages them. 
+item8428	The slave is spotted by the masters’ men who catch him and bring him to the cruel master.
+item8429	The master asks for the slave to be thrown into the lion’s cage.
+item8430	The slave is awaiting his death in the cage when he realizes that it is the same lion that he had helped. 
+item8431	The slave rescued the lion and all other caged animals.
+item8432	Moral of the story: One should help others in need, we get the rewards of our helpful acts in return.

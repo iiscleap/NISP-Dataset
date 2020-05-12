@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8727	Preliminary steps were taken towards forging a new Constitution, but the process seems to be at a standstill.
+item8728	There is no sense of closure for families affected by the disappearance of thousands over the years.
+item8729	The creation of an 'Office on Missing Persons' has not inspired enough confidence.
+item8730	There is no mechanism to secure justice for those massacred in the closing stages of the war.
+item8731	What continues is the fractious politics of leaders of the national parties.
+item8732	Jockeying for power has overshadowed the promise of good governance, economic growth and a push towards a constitutional settlement.
+item8733	Half the period since the end of the war was marked by triumphalism and also warding off international pressure for an inquiry into possible war crimes.
+item8734	The year twenty fifteen brought to power a new regime, a fresh promise of democratic governance, and the infusion of a spirit of political and constitutional reform.
+item8735	Any reckoning at the end of ten years would possibly have been marked by a tabulation of peace-time gains and failures.
+item8736	However, a month ago everything changed.
+item8737	The Easter Sunday bombings have taken the country back to the time when terrorism was the dominant theme.
+item8738	This time, there is no real 'underlying cause' to address; no group or organisation to talk to; and no tangible political grievances to redress.
+item8739	The serial blasts, executed by fanatical elements apparently inspired by the Islamic State, may be a flashpoint for a fresh round of inter-ethnic and inter-religious tension.
+item8740	Already there was some indication last week when Sinhala mobs attacked predominantly Muslim villages in waves, destroying property and threatening the people.
+item8741	Anti-terrorism laws and emergency regulations are back in full measure.
+item8742	The biggest adverse fallout is that a new dimension has been given to inter-ethnic suspicions that may deepen distrust among communities.
+item8743	As prospects of accountability for past crimes and constitutional reform recede, some sections, including the incumbent regime, may believe economic development may be enough to propel the country forward.
+item8744	But when tensions persist among communities, nothing can make up for the absence of reconciliation and trust among all sections.
+item8745	Never has Sri Lanka needed a shared sense of nationhood among all its peoples more than it does now.
+item8746	The estimates for foreign trade showing a sharp slowdown in merchandise export growth in April, to point six four percent from a year earlier, ought to add to concerns about the economy.
+item8747	If one were to strip away the thirty one percent surge in shipments of petroleum products to overseas markets, India's export of goods actually contracted by over three percent in dollar terms last month.
+item8748	In contrast, overall merchandise exports had expanded eleven percent year-on-year in March, with the growth in shipments excluding petroleum products exceeding that pace by about fifty basis points.
+item8749	The slump in exports was fairly widespread, with sixteen of the thirty major product groups listed by the Commerce Ministry reflecting contractions, compared with the ten categories that had shrunk in March.
+item8750	Worryingly, shipments of engineering goods declined by over seven percent after having expanded by sixteen percent in March, while the traditionally strong export sectors — gem and jewellery, leather and leather products, textiles and garments and drugs and pharmaceuticals — all weakened.
+item8751	These are all key providers of jobs and any protracted pain across these industries will impact jobs, wages and consumption demand in the domestic market.
+item8752	Completely opposite to you thinking that it's too late to be able to start working on your dreams, some people think it's too early.
+item8753	Do they do this out of fear? Maybe.
+item8754	Although sometimes people just think that they're not ready to something, and that it's just not the right time for them to start. 
+item8755	It's mostly psychological, and not their actual circumstances that limit their ability to do so.
+item8756	There's never a perfect time to do something. 
+item8757	You just need to work with what you have in the current situation.
+item8758	Getting towards the end of this list on reasons why people never take action now; another ridiculous reason is simply because they follow the normal thing to do.
+item8759	Everything they do is considered as a normal thing to do, and therefore thy can never take action on their dreams, because dreams are not normal. Dreams should not be normal.
+item8760	They're our highest ambitions.
+item8761	You were born unique. There is no-one else out there exactly like you. Don't die a copy.

@@ -1,0 +1,51 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8322	The Law Commission, in its working paper on the subject, has mooted the idea of a constructive vote of confidence.
+item8323	That is, while expressing loss of trust in one government, members should repose confidence in an alternative regime.
+item8324	Another idea is that whenever mid-term polls are held due to loss of majority, the subsequent legislature should serve out only the remainder of the term.
+item8325	These measures would involve far-reaching changes to the law, including amendments to the Constitution to alter the tenure of legislatures and the provision for disqualification of members for supporting an alternative regime.
+item8326	In terms of principle, the main issue is whether getting all elections to coincide undermines representative democracy and federalism.
+item8327	In a parliamentary democracy, the executive is responsible to the legislature; and its legitimacy would be undermined by taking away the legislatures power to bring down a minority regime by mandating a fixed tenure just to have simultaneous elections.
+item8328	The interests of regional parties may take a beating, as regional issues may be subsumed by national themes in a common election.
+item8329	Given these challenges, there is simply no case for hastening the introduction of simultaneous elections.
+item8330	The government must accord priority to other electoral reforMs.For instance, it should seek ways to curb spending by candidates and parties, which has reached alarmingly high levels and poses a threat to free and fair elections.
+item8331	Non-banking financial companies, already reeling under a painful liquidity crisis, are up against a fresh challenge in the form of new regulatory norms set by the Reserve Bank of India.
+item8332	The central bank has released draft norms on liquidity risk management for deposit taking and non-deposit taking NBFCs.
+item8333	According to these proposed rules, NBFCs would have to comply with a higher liquidity coverage ratio (LCR), which is the proportion of assets that an NBFC needs to hold in the form of high-quality liquid assets that can be quickly and easily converted into cash.
+item8334	The new norms, which are expected to be implemented by the RBI over four years starting from April twenty twenty, would likely put significant pressure on the margins of NBFCs.
+item8335	Under these norms, NBFCs would have to maintain their LCR at sixty percent of net cash outflows initially, and improve it to one hundred percent by April twenty twentyfour.
+item8336	If the norms are implemented, NBFCs may be forced to park a significant share of their money in low-risk liquid assets, such as government bonds, which yield much lower returns than high-risk illiquid assets.
+item8337	The strict norms have to be seen in the context of the present crisis where even prominent NBFCs are struggling to meet their obligations to various lenders.
+item8338	While the profit outlook and other short-term financial metrics of NBFCs may be affected by the norms, there are good reasons to be optimistic about their long-term impact on the health of NBFCs and the wider financial sector.
+item8339	NBFCs, which are in the business of borrowing short term to lend long term, typically run the risk of being unable to pay back their borrowers on time due to a mismatch in the duration of their assets and liabilities.
+item8340	This is particularly so in instances where panic sets in among short-term lenders, as happened last year when lenders, worried about the safety of their capital, demanded to be paid back in full.
+item8341	In other words, NBFCs rely heavily on short-term lenders rolling over their loans without fail in order to avoid any kind of liquidity crisis.
+item8342	The new norms would discourage NBFCs from borrowing over short term to extend long-term loans without the necessary buffer capital in place.
+item8343	This could compel NBFCs to shrink the scope of their lending from what it is today, but it would save them from larger crises and significantly reduce the need for the government or the RBI to step in as the lender of last resort.
+item8344	Undeniably, NBFCs have done a tremendous job in recent years in widening and deepening access to credit by taking a share from the public sector banks, which have been severely affected by the bad loans crisis.
+item8345	However, the latest liquidity norms for NBFCs are still necessary to ward off systemic crises.
+item8346	The ICC World Cup remains the last word on crickets hierarchy.
+item8347	Once upon a time a daughter complained to her father that her life was miserable and that she didnt know how she was going to make it.
+item8348	She was tired of fighting and struggling all the time. It seemed just as one problem was solved, another one soon followed.
+item8349	Her father, a chef, took her to the kitchen. He filled three pots with water and placed each on a high fire.
+item8350	Once the three pots began to boil, he placed potatoes in one pot, eggs in the second pot and ground coffee beans in the third pot. He then let them sit and boil, without saying a word to his daughter.
+item8351	The daughter, moaned and impatiently waited, wondering what he was doing. After twenty minutes he turned off the burners.
+item8352	He took the potatoes out of the pot and placed them in a bowl. He pulled the eggs out and placed them in a bowl. 
+item8353	He then ladled the coffee out and placed it in a cup.
+item8354	Turning to her, he asked. Daughter, what do you see??
+item8355	Potatoes, eggs and coffee,? she hastily replied.
+item8356	Look closer? he said, and touch the potatoes.? She did and noted that they were soft.
+item8357	He then asked her to take an egg and break it. After pulling off the shell, she observed the hard-boiled egg.
+item8358	Finally, he asked her to sip the coffee. Its rich aroma brought a smile to her face.
+item8359	Father, what does this mean?? she asked.
+item8360	He then explained that the potatoes, the eggs and coffee beans had each faced the same adversity-the boiling water. However, each one reacted differently. The potato went in strong, hard and unrelenting, but in boiling water, it became soft and weak.
+item8361	The egg was fragile, with the thin outer shell protecting its liquid interior until it was put in the boiling water. Then the inside of the egg became hard.
+item8362	However, the ground coffee beans were unique. After they were exposed to the boiling water, they changed the water and created something new.
+item8363	Which one are you?? he asked his daughter.
+item8364	When adversity knocks on your door, how do you respond? Are you a potato, an egg, or a coffee bean??
+item8365	Moral of the story: In life, things happen around us, things happen to us, but the only thing that truly matters is how you choose to react to it and what you make out of it. 
+item8366	Life is all about leaning, adopting and converting all the struggles that we experience into something positive.

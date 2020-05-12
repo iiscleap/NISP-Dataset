@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3764	The expected growth rate of Seven percent to Eight percent may be reassuring. 
+item3765	It may even be the highest in the world economy. Nevertheless, it falls short of our potential. 
+item3766	It is below of what is needed to raise job opportunities and reduce poverty. It is true that the external environment is not helpful. 
+item3767	All the same, a stronger push towards a much higher growth is very much the need of the hour.
+item3768	C. Rangarajan is former Chairman, Economic Advisory Council to the Prime Minister and former Governor, Reserve Bank of India. He is also Chairman, Madras School of Economics, Chennai.
+item3769	Indias stock markets are booming, with the BSE Sensex touching new highs. 
+item3770	The regulation of securities markets has evolved over the last two and a half decades since the setting up of the Securities and Exchange Board of India, but it is still a work in progress.
+item3771	 Front-running, insider trading, shady accounting practices that are tantamount to window-dressing firms performance, and other shenanigans to manipulate share prices continue. 
+item3772	A panel headed by T.K. Viswanathan, a former Lok Sabha Secretary General, has now submitted recommendations to curb illegal practices in the markets and ensure fair conduct among investors. 
+item3773	A key recommendation is that the stock market watchdog be granted the power to act directly against perpetrators of financial statements fraud. 
+item3774	In essence, this means SEBI can act not only against listed entities under its extant powers but also against those who aid or abet financial fraud including accountants and auditors.
+item3775	The panel has suggested that SEBI, rather than the Central government, be given the power to grant immunity to whistle-blowers who help uncover illegal activities. 
+item3776	It has mooted new ideas to address market manipulation, from better scrutiny of price-sensitive information to the creation of processes to expedite investigation into cases. 
+item3777	It goes to the extent of recommending that SEBI be given powers to tap phone calls.
+item3778	Greater executive powers, it is being suggested, can help the regulator take swifter action against offenders instead of relying on government bodies such as the Ministry of Corporate Affairs. 
+item3779	Ostensibly, this could also free SEBI from various manifestations of political influence. 
+item3780	Since SEBI is better placed to understand the complex nuances that financial market fraud entails, compared to other investigative agencies.
+item3781	Or even those in charge of implementing the Companies Act, it may also be better placed to enforce the law. 
+item3782	A strong regulator serves as a good deterrent to truants in the market, but banking on fear too much could also scare away genuine investors. 
+item3783	SEBI is widely considered to be one of the more efficient regulators, but it is not faultless.
+item3784	Last year, its order to impose restrictions on the trading of shares of three hundred and thirty one companies suspected of laundering money 
+item3785	It was seen as a hasty move taken under pressure from the government without a formal investigation. 
+item3786	Given that SEBI is now considering a cap on trading by retail investors based on their assessed net worth.
+item3787	The committees suggestion that it may consider any trading by players beyond their known financial resources as fraud could lead to undue harassment of investors. 
+item3788	Granting more teeth to enable the market regulator to fulfil its primary role of protecting investors is fine. 
+item3789	That joyful day was followed by a not less joyful night. The Bishops, and some of their most respectable friends, in vain exerted themselves to prevent tumultuous demonstrations of joy. 
+item3790	Never within the memory of the oldest, not even on that evening on which it was known through London that the army of Scotland had declared for a free Parliament, had the streets been in such a glare with bonfires. 
+item3791	Round every bonfire crowds were drinking good health to the Bishops and confusion to the Papists. 
+item3792	The windows were lighted with rows of candles. Each row consisted of seven; and the taper in the centre, which was taller than the rest, represented the Primate. 
+item3793	The noise of rockets, squibs, and firearms, was incessant. One huge pile of faggots blazed right in front of the great gate of Whitehall. 
+item3794	Others were lighted before the doors of Roman Catholic Peers. Lord Arundell of Wardour wisely quieted the mob with a little money: 
+item3795	But at Salisbury House in the Strand an attempt at resistance was made. 
+item3796	Lord Salisbury's servants sallied out and fired: but they killed only the unfortunate beadle of the parish, who had come thither to put out the fire;and they were soon routed and driven back into the house. 
+item3797	None of the spectacles of that night interested the common people so much as one with which they had, a few years before, been familiar, and which they now, after a long interval, enjoyed once more, the burning of the Pope. 
+item3798	This once familiar pageant is known to our generation only by descriptions and engravings.
+item3799	A figure, by no means resembling those rude representations of Guy Faux which are still paraded on the fifth of November, but made of wax with some skill, 
+item3800	And adorned at no small expense with robes and a tiara, was mounted on a chair resembling that in which the Bishops of Rome are still, on some great festivals, borne through Saint Peter's Church to the high altar. 
+item3801	His Holiness was generally accompanied by a train of Cardinals and Jesuits. At his ear stood a buffoon disguised as a devil with horns and tail. 
+item3802	No rich and zealous Protestant grudged his guinea on such an occasion, and, if rumour could be trusted, the cost of the procession was sometimes not less than a thousand pounds. 
+item3803	After the Pope had been borne some time in state over the heads of the multitude, he was committed to the flames with loud acclamations.

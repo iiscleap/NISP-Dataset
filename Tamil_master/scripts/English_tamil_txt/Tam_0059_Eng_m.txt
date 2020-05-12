@@ -1,0 +1,42 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10088	What is beyond doubt is that governments are not doing their duty by India’s children.
+item10089	India won global acclaim for its “Beat Plastic Pollution�? resolve declared on World Environment Day last year, under which it pledged to eliminate single-use plastic by twenty twentytwo.
+item10090	So far, twenty two States and Union Territories have joined the fight, announcing a ban on single-use plastics such as carry bags, cups, plates, cutlery, straws and thermocol products.
+item10091	Puducherry will implement a ban from March one .
+item10092	Where firm action has been taken, positive results have followed.
+item10093	A Bengaluru waste collective estimates that the volume of plastic waste that they collect dropped from about two tonnes a day to less than one hundred kg.
+item10094	Voluntary initiatives are having an impact in many States, as citizens reduce, reuse and sort their waste.
+item10095	Yet, this is only a small start.
+item10096	Waste plastic from packaging of everything from food, cosmetics and groceries to goods delivered by online platforms remains unaddressed.
+item10097	It will take a paradigm shift in the manner in which waste is collected and handled by municipal authorities to change this.
+item10098	Governments must start charging the producers for their waste, and collect it diligently, which will lead to recovery and recycling.
+item10099	But the depressing reality is that State and local governments are unwilling to upgrade their waste management systems, which is necessary to even measure the true scale of packaging waste.
+item10100	The Plastic Waste Management Rules, twenty sixteen are clear that producers, importers and brand owners must adopt a collect-back system for the plastic they introduce into the environment.
+item10101	Although the rules were notified in the same year, amended later and given high visibility by the Ministry of Environment, Forest and Climate Change, not much has been done to take the process forward.
+item10102	At the very least, local bodies should consult manufacturers or importers to assess the problem.
+item10103	Delaying such a measure has created the anomalous situation of small producers of plastics facing the ban, while more organised entities covered by the Extended Producer Responsibility clause continue with business as usual.
+item10104	Such enforcement failure is not an argument in favour of relaxing the prohibition on flimsy plastics that are typically used for under fifteen minutes, but to recover thousands of tonnes of waste that end up in dumping sites.
+item10105	Cities and towns need competent municipal systems to achieve this.
+item10106	Again, there is little doubt that plastics play a major role in several industries, notably in the automotive, pharmaceutical, health care and construction sectors.
+item10107	But it is the fast moving consumer goods sector that uses large volumes of packaging, posing a higher order challenge.
+item10108	This calls for urgent action.
+item10109	Governments should show the same resolve here, as they have done in imposing the ban.
+item10110	The slapping of sedition charges against noted Assamese scholar Hiren Gohain and two others for remarks made against the proposed citizenship law is a textbook case of misuse of the law relating to sedition.
+item10111	The FIR against Mr.Gohain, peasant rights activist Akhil Gogoi and journalist Manjit Mahanta relates to speeches at a recent rally that alluded to the possibility of a demand for independence and sovereignty if the Citizenship (Amendment) Bill was pushed through Parliament.
+item10112	Mr.Gohain and others have obtained interim bail from the Gauhati High Court.
+item10113	The first step to building any kind of connection with someone is by having something to offer. 
+item10114	That’s the only reason why people naturally become friends with each other.
+item10115	It doesn’t always have to be about influence. 
+item10116	A lot of people think that because they don’t yet have a successful business, money or powerful connections, they can’t connect with those that do.
+item10117	This isn’t true…
+item10118	Value comes in many different forms.
+item10119	Your personality, your knowledge, your loyalty, are all forms of value. 
+item10120	When people choose others to be around, they psychologically bond with someone based on certain attributes. 
+item10121	Maybe you’re funny, trustworthy, positive and supportive, read a lot of books… who knows.
+item10122	The point being that if you are to connect with influential people, you first need to find some sort of common ground. 
+item10123	Once you’re able to do that, you’ll know how to give value to people, and, get it back in return.

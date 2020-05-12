@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3117	Since we have the NCVT as a legacy, it should be used as a kernel to constitute the board. We should also have a mandatory rating system for the ITIs that is published periodically. 
+item3118	A ranking of the ITIs on several parameters such as the one done by the National Assessment and Accreditation Council in tertiary education can be replicated.
+item3119	There should be one system, with one law and one national vocational education and training system. 
+item3120	The silos in which vocational training happens in India is unfortunate. 
+item3121	We need to create a unified national vocational system where the ITIs, NSDC private vocational trainers and vocational education in schools, 
+item3122	The other Central ministries conducting training gel seamlessly and can learn from, and work with each other. 
+item3123	A unified legal framework can facilitate such a unification. 
+item3124	The absence of a law has only weakened regulation and monitoring. 
+item3125	What we need is a national vocational act that replaces all scattered regulations-recommended in the twelveth Five Year Plan.
+item3126	The ITIs have many internal issues such as staffing and salaries that need attention, as the NILERD nationwide survey in two thousand eleven had found. 
+item3127	There is also a critical need to reskill ITI teachers and maintain the student-teacher ratio.
+item3128	 Since technology obsolescence is a continuous challenge, financial support envisaged through the NSDC should be extended to the ITIs.
+item3129	The primary reason for hiring the QCI and the mess that followed was this: huge workload of affiliation and shortage of staff. 
+item3130	This is true even today. It is unlikely that without fixing this, the QCI mistake will not be repeated. 
+item3131	There has been a tremendous push by the government for private sector talent in government; 
+item3132	Perhaps it is worth considering talent from the open market to fill up higher posts in skill development.
+item3133	Institutional reforms such as moving the office of the Directorate General of Employment (the arm that has all data on employment) from the Ministry of Labour to the MSDE would help. 
+item3134	It would also complement the Directorate General of Training already under MSDE.
+item3135	This is the last but perennial challenge. Given the scale of our demographic challenge, a belief that financing from corporate social responsibility.
+item3136	Multilateral organisations such as the World Bank, and the government will meet the financial needs for skill development is wishful thinking.
+item3137	The only way to mobilise adequate resources the right way is to do skills training, and have equipment and tools 
+item3138	That keep pace with changing needs and ensure that employers have skin in the game. This is possible through a reimbursable industry contribution.
+item3139	 A One to two percent payroll tax that will be reimbursed when employers train using public -private infrastructure and provide data. 
+item3140	RIC, which is implemented in sixty two other countries, was recommended in the twelveth Plan and is an idea whose time has come. 
+item3141	Finally, while there is so much talk of skills for the future and the impact of artificial intelligence and automation, 
+item3142	At the moment of the King's accession a sense of the new responsibility which lay on him made his mind for a time peculiarly open to religious impressions. 
+item3143	He formed and announced many good resolutions, spoke in public with great severity of the impious and licentious manners of the age, 
+item3144	And in private assured his Queen and his confessor that he would see Catharine Sedley no more. 
+item3145	He wrote to his mistress entreating her to quit the apartments which she occupied at Whitehall, 
+item3146	And to go to avhouse in Saint James's Square which had been splendidly furnished for her at his expense. 
+item3147	He at the same time promised to allow her a large pension from his privy purse. 
+item3148	Catharine, clever, strongminded, intrepid, and conscious of her power, refused to stir. 
+item3149	In a few months it began to be whispered that the services of Chiffinch were again employed, 
+item3150	And that the mistress frequently passed and repassed through that private door through which Father Huddleston had borne the host to the bedside of Charles. 
+item3151	The King's Protestant ministers had, it seems, conceived a hope that their master's infatuation for this woman 
+item3152	Might cure him of the more pernicious infatuation which impelled him to attack their religion. 
+item3153	She had all the talents which could qualify her to play on his feelings, to make game of his scruples, 
+item3154	To set before him in a strong light the difficulties and dangers into which he was running headlong. 
+item3155	Rochester, the champion of the Church, exerted himself to strengthen her influence.
+item3156	Ormond, who is popularly regarded as the personification of all that is pure and highminded in the English Cavalier, encouraged the design. 
+item3157	Even Lady Rochester was not ashamed to cooperate, and that in the very worst way. 

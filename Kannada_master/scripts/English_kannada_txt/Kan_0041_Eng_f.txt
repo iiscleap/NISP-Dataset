@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4005	But without a coherent political proposition, there is nothing to distinguish it from mere opportunism. 
+item4006	And so far, the Congress has failed to offer anything more than opportunistic attacks on Prime Minister Narendra Modis various blunders.
+item4007	From demonetisation to the implementation of the Goods and Services Tax, and the Rafale deal. 
+item4008	The idea seems to be to hammer away at his failures and hope that anti-incumbency does the rest.
+item4009	Mere anti-BJP-ism or anti-Modi-ism is just not good enough either to hold the Opposition together, or to defeat the BJP in two thousand nineteen. 
+item4010	To stand a fighting chance of achieving either, the alliance must address a genuine political need gap, and in the current juncture.
+item4011	The most obvious one is the absence of a platform at the national level for constituencies whose interests cannot be seriously represented by the BJP.
+item4012	Given the constraints of the politics it espouses. 
+item4013	These constituencies are the social and geographical inverse of the BJPs core electoral base.
+item4014	Which consists of the savarnas (forward castes) and the urban middle and upper classes, primarily from the Hindi-speaking belt.
+item4015	Assuming that the base of material interests and social stratification determine the superstructure of democratic politics.
+item4016	Traditionally, Indias Hindi-speaking savarna elite have either directed or demarcated the politics of the national parties, including the Left Front. 
+item4017	But its hegemonic relationship with non-savarna and regional interests has so far been tempered by the Constitution.
+item4018	The very document that is now in danger of being undermined. 
+item4019	The Constitution offers two principles for navigating this hegemony democratically social justice and federalism.
+item4020	Both of which the Modi government has observed more in the breach, as evidenced by the disaffection among its allies.
+item4021	While the Lok Janshakti Party had threatened to join the anti-government Dalit protests scheduled for August 9.
+item4022	The Telugu Desam Party and the Peoples Democratic Party are already out of the NDA.
+item4023	Another regional ally, the Shiv Sena, has threatened to go it alone in two thousand nineteen. 
+item4024	Clearly, there are limits to how much the BJP can accommodate non-savarna and regional interests at the national level.
+item4025	The Congress, too, suffers from the same limitation, and this is one of the factors behind its interminable decline. 
+item4026	The savarnas have historically had the biggest stakes in the national project and the Indian state, and have also been its biggest beneficiaries. 
+item4027	It is thus no coincidence that not a single one of the non-savarna parties including those that have a national status, such as the Bahujan Samaj Party have a national footprint. 
+item4028	Nor is it accidental that only the regionalist parties could resist the BJP juggernaut in two thousand fourteen.
+item4029	And again, it is not surprising that four years of Mr. Modis rule have seen a steady shift in the balance of power between the Centre and the States in favour of the former. 
+item4030	The neighbouring counties were violently agitated. It had been arranged that Danby should seize York, and that Devonshire should appear at Nottingham. 
+item4031	At Nottingham no resistance was anticipated. But at York there was a small garrison under the command of Sir John Robert. 
+item4032	Danby acted with rare dexterity. A meeting of the gentry and freeholders of Yorkshire had been summoned for the twenty-second of November to address the King on the state of affairs. 
+item4033	All the Deputy Lieutenants of the three Ridings, several noblemen, and a multitude of opulent esquires and substantial men had been attracted to the provincial capital. 
+item4034	Four troops of militia had been drawn out under arms to preserve the public peace. 
+item4035	The Common Hall was crowded with freeholders, and the discussion had begun, when a cry was suddenly raised that the Papists were up, and were slaying the Protestants. 
+item4036	The Papists of York were much more likely to be employed in seeking for hiding places than in attacking enemies who outnumbered them in the proportion of a hundred to one. 
+item4037	But at that time no story of Popish atrocity could be so wild and marvellous as not to find ready belief. The meeting separated in dismay. 
+item4038	The whole city was in confusion. At this moment Danby at the head of about a hundred
+item4039	horsemen rode up to the militia, and raised the cry "No Popery! A free Parliament! The Protestant religion!" 
+item4040	The militia echoed the shout. The garrison was instantly surprised and disarmed. The governor was placed under arrest. 
+item4041	The gates were closed. Sentinels were posted everywhere. The populace was suffered to pull down a Roman Catholic chapel;
+item4042	But no other harm appears to have been done. On the following morning the Hall was crowded with the first gentlemen of the shire, and with the principal magistrates of the city.
+item4043	The Lord Mayor was placed in the chair. Danby proposed a Declaration setting forth the reasons which had induced the friends of the constitution and of the Protestant religion to rise in arms. 
+item4044	This Declaration was eagerly adopted, and received in a few hours the signatures of six peers, of five baronets, of six knights, and of many gentlemen of high consideration.

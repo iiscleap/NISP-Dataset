@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9876	However, the liberation of Baghouz or the destruction of the territorial caliphate does not necessarily mean that the IS has been defeated.
+item9877	It is basically an insurgent-jihadist group.
+item9878	It has established cells, especially in Syria and Iraq, which have continued to carry out terror attacks even as IS territories kept shrinking.
+item9879	The group has a presence in Syria’s vast deserts, a tactic its predecessor, al-Qaeda in Iraq, successfully used when it was in decline during two thousand six-twenty eleven after its leader Abu Musab al-Zarqawi was killed by the U.S.When the Syrian civil war broke, the remnants of AQI found an opportunity for revival and rebranded themselves as the Jabhat al-Nusra, al-Qaeda’s branch in Syria.
+item9880	The IS was born when al-Nusra split.
+item9881	The U.S., the Kurdish rebels, the Syrian government and other stakeholders in the region should be mindful of the geopolitical and sectarian minefields that groups such as the IS could exploit for their re-emergence.
+item9882	Mr.Trump has already announced the withdrawal of U.S.troops from Syria.
+item9883	The Turkish government of President Recep Tayyip Erdoğan is wary of the rapid rise of the Syrian Kurds, who are organisationally and ideologically aligned with Kurdish rebels on the Turkish side.
+item9884	The Syrian regime, on its part, has vowed to re-establish its authority over the Kurdish autonomous region in the northeast.
+item9885	If Turkey and Syria attack Kurdish rebels, who were vital in the battle against the IS, that would throw northeastern Syria into chaos again, which would suit the jihadists.
+item9886	To avoid this, there must be an orderly U.S.withdrawal and a political solution to the Syrian civil war.
+item9887	Italy’s plan to endorse the Belt and Road Initiative, the first such move by a G seven member, will boost China’s global ambitions.
+item9888	In turn, this highlights the difficulties facing the EU and the U.S.in formulating a concerted response to counter China’s growing might.
+item9889	On its inception in twenty thirteen, the BRI envisaged linking about sixty five countries along a modern Silk Road, the transformation of China into a high-income economy and the renminbi’s elevation into a global currency.
+item9890	Today, it has expanded to over eighty countries, mostly least developed and developing economies, as Beijing seeks to bolster its Made in China twenty twentyfive industrial policy.
+item9891	The lure of the BRI is attributed largely to the informal nature of the deals Beijing negotiates with partner-states, with attractive loan terms and sans political strings.
+item9892	Their opaque nature has spurred criticism that recipients risk being pushed into a debt trap.
+item9893	But the glitches facing some of the BRI infrastructure projects have merely led to calls for renegotiation rather than their roll-back.
+item9894	The BRI has moved forward, along with Beijing’s other venture, the Asian Infrastructure Investment Bank.
+item9895	Many Central and Eastern European countries, EU members and aspirants alike, are part of the “sixteen+ one �? group, which includes China, collaborating in infrastructure ventures.
+item9896	However, Italy, an EU founder-member, will be the first major developed economy to participate in the BRI.
+item9897	Rome’s ruling eurosceptic and anti-establishment coalition has been enthusiastic in signing on.
+item9898	Its timing is seen to have something to do with the difficulties the government has faced in balancing its growth targets with the EU’s stringent fiscal norMs.These tensions surfaced in recent negotiations with Brussels that led to a revised Italian budget.
+item9899	Italy is counting on its BRI endorsement to boost investment in it, given recent reductions in Chinese outflows into the EU.
+item9900	Rome is expected to sign an MoU to participate in the mammoth endeavour during a visit this month of President Xi Jinping.
+item9901	When it comes to your emotions and moods, the influence of your friends is unparalleled.
+item9902	If you’re spending a great time with your friends, your mood is bound to improve. 
+item9903	If their remarks make you feel bad, your mood will inevitably decline.
+item9904	A research study published in twenty fourteen demonstrated that friends tend to bond when providing one another with moral support intended to resist a temptation. 
+item9905	Still, sometimes friends would become partners in crime when it came to indulging together.
+item9906	Friends help bring out the best in you, there’s no doubt about it. 
+item9907	But they can easily influence you in a way that might pose a problem to other areas of your life.
+item9908	That’s why it should be your objective to find people that make you feel good. 
+item9909	If you surround yourself with negative people, you stand no chance at being happy thanks to these relationships. 
+item9910	Cut out the negative friends from your life and you’ll instantly feel better.

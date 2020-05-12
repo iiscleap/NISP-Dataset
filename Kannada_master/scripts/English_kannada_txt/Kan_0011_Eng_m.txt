@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2753	Mr. Khan may well find that this time around, he is captain but only in name.
+item2754	Last year, during a visit to Myanmar, Britains then Foreign Secretary, Boris Johnson, visited the Shwedagon Paya, 
+item2755	One of Buddhisms most sacred sites, adopting the usual freestyle, somewhat awkward, bumbling tone he had become known for. 
+item2756	The invocation of the colonial-era poem clearly caught the British Ambassador off guard: he was captured on camera 
+item2757	Firmly stopping Mr. Johnson from proceeding further with the recital, saying it was not a good idea and not appropriate. 
+item2758	While the remark did indeed provoke criticism at home and beyond, it was dismissed by many as yet another Boris gaffe, one of many that he has clocked up over his political career.
+item2759	Mr. Johnsons time as Foreign Secretary was peppered with controversial moments, including his remarks on boosting the whisky trade between India and the U.K. during a visit to a British gurdwara. 
+item2760	There was a joke about boosting British investment into Libya. 
+item2761	They have got a brilliant vision to turn Sirte, with the help of the municipality of Sirte, into the next Dubai the only thing theyve got to do is clear the dead bodies, he said in two thousand seventeen. 
+item2762	And there was a moment during a visit to New Zealand where he compared the traditional Maori greeting to a head butt that could be misinterpreted in a pub in Glasgow.
+item2763	It might be easy to dismiss some of these but there were others that had to be seen in a more serious light, such as his mis-characterisation of Nazanin.
+item2764	His comments provoked an outcry at the time, going against her insistence she had simply been on holiday, and were seen as worsening her already abysmal plight in the country. 
+item2765	Mr. Johnsons typical response to these controversies has been to offer a non-apology.
+item2766	His early blunders, during his time as Mayor of London served to strengthen his image, particularly beyond Britains shores, 
+item2767	His later ones were the subject of more serious scrutiny, including questions around his appropriateness as the head of Britains Foreign Office .
+item2768	At a time when its relations with the world outside Europe matter more than ever, but they have been by and large treated as blunders. 
+item2769	Even at the time this was a rather naive assumption given Mr. Johnsons background: Oxford-educated, he once edited the conservative magazine, The Spectator, 
+item2770	And savvily sensed the direction of British politics by finally leaping into the Brexit camp after he had drafted two columns, each taking a different position on Brexit.
+item2771	Mr. Johnsons latest comments on the burka challenge suggest a much more methodological, deliberate approach. 
+item2772	In the face of a public outcry including criticism from Prime Minister Theresa May and calls for the party whip to be taken from him he has stood firmly by his comments in The Daily Telegraph earlier this week. 
+item2773	He described the burka as oppressive and ridiculous and compared women who wore them to letter boxes. 
+item2774	Subsequently, he has let it be known that he viewed the calls for an apology as ridiculous, citing it as part of his effort to speak up for liberal values. 
+item2775	It is not the only time he has caused such offence: before he became London Mayor, he once used a racist slur to refer to the people the Queen would meet on her trips across the Commonwealth.
+item2776	The latest comments come at a particularly difficult time for the ruling Conservative Party, already suffering from great ideological differences within its ranks particularly on Brexit and the immigration policy. 
+item2777	While the Labour Party has faced criticism over its treatment of anti-Semitism within its ranks, the Conservatives have been accused of tolerating Islamophobia within theirs. 
+item2778	It was not the intention of the government to put either Gerard or Hampden to death. 
+item2779	Grey had stipulated for their lives before he consented to become a witness against them.
+item2780	But there was a still stronger reason for sparing them. 
+item2781	They were heirs to large property: but their fathers were still living. 
+item2782	The court could therefore get little in the way of forfeiture, and might get much in the way of ransom. 
+item2783	Gerard was tried, and, from the very scanty accounts which have come down to us, seems to have defended himself with great spirit and force. 
+item2784	He boasted of the exertions and sacrifices made by his family in the cause of Charles the First, and proved Rumsey, 
+item2785	The witness who had murdered Russell by telling one story and Cornish by telling another, to be utterly undeserving of credit. 
+item2786	The jury, with some hesitation, found a verdict of Guilty. 
+item2787	After long imprisonment Gerard was suffered to redeem himself. 
+item2788	Hampden had inherited the political opinions and a large share of the abilities of his grandfather, 
+item2789	But had degenerated from the uprightness and the courage by which his grandfather had been distinguished. 
+item2790	It appears that the prisoner was, with cruel cunning, long kept in an agony of suspense,
+item2791	In order that his family might be induced to pay largely for mercy. 
+item2792	His spirit sank under the terrors of death. 
+item2793	When brought to the bar of the Old Bailey he not only pleaded guilty,

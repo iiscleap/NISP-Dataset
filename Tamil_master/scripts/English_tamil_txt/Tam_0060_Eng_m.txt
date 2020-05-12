@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10124	The registration of the case has caused much public outrage in Assam.
+item10125	In addition to Section one twenty four A (sedition), they have been accused of entering into a criminal conspiracy to wage war against the government of India (Section one twenty one) and concealing a design to facilitate such a war (Section one twenty three ).
+item10126	The action of the police in charging them with offences against the state under the Indian Penal Code is quite reprehensible.
+item10127	It is possible that speeches at the rally organised by the Forum Against the Citizenship Amendment Bill contained strident opposition to the legislative changes that would allow persecuted non-Muslims from three neighbouring countries to obtain Indian citizenship.
+item10128	The thrust of the protest, therefore, would be squarely covered by the exception to the sedition clause, which says comments expressing disapprobation of government measures with a view to obtaining their alteration do not constitute an offence, as long as there is no incitement to violence or disaffection.
+item10129	Mr.Gohain, a Sahitya Akademi awardee, and one of Assam's best known public intellectuals, has explained that he had intervened more than once to silence some youth who had talked about invoking their sovereignty if the Centre continued to ignore their demand.
+item10130	In recent years, there have been many instances of State governments seeking to silence political dissent by accusing dissenters of promoting disaffection.
+item10131	It is precisely to prevent such a heavy-handed response to strident political criticism that courts have often pointed out that the essential ingredient of any offence of sedition is an imminent threat to public order.
+item10132	Unless there is actual incitement to take up arms or resort to violence, even demands that go against the legal or constitutional scheme of things would not amount to sedition.
+item10133	Mere expression of critical views, howsoever scathing, cannot be an excuse for accusing someone of planning to wage war or promote disaffection against the government.
+item10134	It is against such a backdrop that the Law Commission, in a consultation paper released last year, had called for a reconsideration of the sedition section in the IPC.
+item10135	While the provision, which is couched in broad terms, needs a much narrower definition, the right course is to scrap Section one twenty four A, a relic of the colonial era, altogether.
+item10136	After last month's general election, the Democratic Republic of Congo (DR Congo) is anxiously awaiting the first ever transfer of power via the ballot since gaining independence in nineteen sixty.
+item10137	President Joseph Kabila, who had already deferred the polls by two years, postponed them again by a week days before it was scheduled in December.
+item10138	He cited the Ebola outbreak in some provinces and the destruction of electronic voting machines in a fire in the capital Kinshasa as reasons for the latest delay.
+item10139	But Mr.Kabila's critics dismissed these excuses as coming from a President in denial of his impending defeat after seventeen years in power.
+item10140	Their suspicions appeared to be justified, as prominent opposition leaders were barred from the contest by partisan courts and the election commission.
+item10141	Meanwhile, the UN has voiced concerns over the quality of voting machines and the deployment of the state machinery to obstruct opposition campaigns, adding to the sense of uncertainty.
+item10142	Soon after polling closed on December thirty , rival camps began to pronounce victory for their own sides.
+item10143	When the election commission last week announced Felix Tshisekedi, leader of the Union for Democracy and Social Progress as the winner, it predictably created a controversy.
+item10144	Mr.Kabila's candidate, former Interior Minister Emmanuel Shadary, was expected to romp home.
+item10145	In the event, Mr.Shadary, who faces accusations of human rights abuses, was ranked third.
+item10146	The outcome triggered intense speculation that Mr.Kabila had cut a deal to back Mr.Tshisekedi, son of a deceased opposition leader.
+item10147	The candidate who came in second, Martin Fayulu, a political outsider, has challenged the results.
+item10148	Dr. Congo's Catholic church, which runs an independent poll observation mission, has questioned the official result and has even threatened to legally challenge it.
+item10149	Once you've figured out how you can offer value, it's time to find others who are interested in that value, and might just be able to send some your way in return.
+item10150	Depending on where you grow up, there might not be people within your area who share similar interests and ambitions as you. 
+item10151	This is one of the biggest things I learnt growing up in the rural countryside.
+item10152	Twenty years ago or so; if this was the case, then you'd have to move to find people you click with. 
+item10153	You could have always written to them but we're a little more fortunate these days.
+item10154	Now, we can harness the power of social media.
+item10155	Here's a few places to get started:
+item10156	Facebook used to just be a place where I could keep in touch with my friends. 
+item10157	A couple of years ago, I expanded to connecting with like-minded people on the platform.
+item10158	Nowadays, all I have to do is login and I'm faced with amazing videos and insights by other professionals. 
+item10159	I also started to notice the different circles people ran in, and I did my best to comment and join in on the conversation.
+item10160	It's so easy to make connections on Facebook.

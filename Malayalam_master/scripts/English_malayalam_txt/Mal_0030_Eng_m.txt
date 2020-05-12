@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item1165	Consumers have made businessmen more aware of this growing potential at -hyphen home demand by becoming bigger buyers of travel and other services .period
+item1166	Consumer spending surged zero point seven percent in June ,comma led by a jump in auto sales .period
+item1167	Consumer spending surged zero point seven percent in June led by a jump in auto sales
+item1168	Continental started the appeal process but recently settled the case
+item1169	Cooper is one of only two publicly owned U. S. tire companies left .period
+item1170	Corporate and municipal bond prices also slumped
+item1171	Critics say the federal approach was wrong from the start
+item1172	Dayton Hudson said Mr. sells would have an important equity position in the company he is joining
+item1173	Dean witter Reynolds incorporated Goldman Sachs and company and Morgan Stanley and company are handling the sale
+item1174	Despite the July decline durable goods orders remained seven point seven percent above the year earlier level
+item1175	Despite the unexpected strength ,comma economists say spending will slow soon due to sluggish income growth ,comma rising prices and high consumer debt .period
+item1176	Despite the unexpected strength economists say spending will slow soon due to sluggish income growth rising prices and high consumer debt
+item1177	Dofasco Hamilton Ontario said about three point three million convertible preferred shares about eighty six percent of the total outstanding were tendered
+item1178	Domestic cars accounted for seventy three point five percent of April auto sales while the import share grew one point five percent to twenty six point five percent
+item1179	Don't worry ,comma we have enough money to buy the things we need .period "double-quote
+item1180	Do they want higher prices ?question-mark
+item1181	Do they want lower prices ?question-mark "double-quote said one analyst .period
+item1182	"Double-quote anybody who's ever been elected to the city council thinks about being President .period "double-quote
+item1183	"Double-quote as a result ,comma "double-quote they say ,comma "double-quote retail margins are being squeezed .period "double-quote
+item1184	"Double-quote but over time it gives managers the opportunity to shift assets .period
+item1185	"double-quote but working together ,comma we have made an important start ,comma "double-quote he said .period
+item1186	"double-quote his information amazes me ,comma "double-quote Mr. Edelman says through a spokesman .period
+item1187	"double-quote i don't know how he gets it .period "double-quote
+item1188	"Double-quote if you get the wrong answer ,comma don't stop .period
+item1189	"Double-quote i know how to buy guns all over the world .period
+item1190	In the Castle Gardens the millionaires finished the buns, 
+item1191	And though the curranty softness of these were delicious, and acted like a charm in raising the spirits of the party, 
+item1192	Yet even the stoutest heart quailed at the thought of venturing to sound Mister Billy Peasemarsh at the Saracen's Head on the subject of a horse and carriage. 
+item1193	The boys would have given up the idea, but Jane was always a hopeful child, 
+item1194	And Anthea generally an obstinate one, and their earnestness prevailed.
+item1195	The whole party, by this time indescribably dirty, therefore betook itself to the Saracen's Head. 
+item1196	The yard method of attack having been successful at The Chequers was tried again here. 
+item1197	Mister Peasemarsh was in the yard, and Robert opened the business in these terms 
+item1198	'They tell me you have a lot of horses and carriages to sell.' 
+item1199	It had been agreed that Robert should be spokesman, 
+item1200	Because in books it is always the gentlemen who buy horses, and not ladies, and Cyril had his go at the Blue Boar.
+item1201	'They tell you true, young man,' said Mister Peasemarsh. 
+item1202	He was a long lean man, with very blue eyes and a tight mouth and narrow lips.
+item1203	'We should like to buy some, please,' said Robert politely.
+item1204	'I daresay you would.'

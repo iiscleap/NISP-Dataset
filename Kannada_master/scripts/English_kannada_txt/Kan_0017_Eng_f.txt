@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2995	Mr. Trump had objected, arguing that the law took away his powers to decide on such matters. 
+item2996	Indian delegations led by the Foreign Secretary had made a three-fold case for the waiver: that no weapons India bought would be used against the U.S.; 
+item2997	That the U.S., which wants to partner with India in the Indo-Pacific, would hamper Indias military abilities by applying the sanctions or denying the country crucial technology; 
+item2998	And that India has significantly reduced its dependence on Russian military hardware while increasing defence purchases from the U.S., 
+item2999	And it would be unfair if the U.S. rewarded the effort with punitive measures. 
+item3000	After months of testimony, including a final push for waiver for countries like India, Indonesia and Vietnam by U.S. Defence Secretary James Mattis a few days ago, 
+item3001	The Congressional committee has relented. The Joint Explanatory Statement of the Committee of Conference, which reconciles House and Senate versions, has accepted the need for waivers. 
+item3002	The modified waiver authority, or amendment to Section two hundred and thirty one of C-A-A-T-S-A proposed by Congress, allows the President to waive sanctions in certain circumstances, 
+item3003	For six months at a time, as long as he certifies that it is in the U.S.s national security interests and does not endanger ongoing operations.
+item3004	While the resolution of sanctions is welcome, it isnt the only irritant in the U.S.-India relationship 
+item3005	That needs the attention of the External Affairs and Defence Ministers at the Two plus Two dialogue with their American counterparts scheduled for September. 
+item3006	The sanctions proposed by the Trump administration for energy trade with Iran still loom,
+item3007	As do possible punitive measures at the World Trade Organisation over tariffs and counter-tariffs the two countries have imposed on each other. 
+item3008	New Delhi will also be aware that the waivers are contingent on Mr. Trumps continued support to Indian defence requirements. 
+item3009	Given the capricious and unpredictable policy swings Mr. Trump has shown, it will be prudent for New Delhi not to presume that the problems over C-A-A-T-S-A have fully blown over.
+item3010	The Union Health Ministrys ban on the retail sale and private manufacture of oxytocin, expected to kick off on September one, is an extremely ill-thought-out one. 
+item3011	The drug, a synthetic version of a human hormone, is a life-saver for women. 
+item3012	Doctors use it to induce labour in pregnant women and to stem postpartum bleeding. 
+item3013	So critical is its role in maternal health that the World Health Organization recommends it as the drug of choice in postpartum haemorrhage. 
+item3014	The governments ban ignores this, and is motivated instead by the misuse of the hormone in the dairy industry. 
+item3015	Because oxytocin stimulates lactation in cattle, dairy farmers inject the drug indiscriminately to increase milk production. 
+item3016	This has spawned several unlicensed facilities that manufacture the drug for veterinary use. It is a problem that needs solving. 
+item3017	But the right approach would have been to strengthen regulation, and crack down on illegal production. 
+item3018	Much is unknown about the ill-effects of oxytocin on cattle. 
+item3019	One of the concerns was that oxytocin leads to infertility in dairy animals, and some studies show this to be true. 
+item3020	James now took a step which greatly disconcerted the whole Anglican party. 
+item3021	Two papers, in which were set forth very concisely the arguments ordinarily used by Roman Catholics in controversy with Protestants,
+item3022	Had been found in Charles's strong box, and appeared to be in his handwriting. 
+item3023	These papers James showed triumphantly to several Protestants, and declared that, to his knowledge, his brother had lived and died a Roman Catholic. 
+item3024	One of the persons to whom the manuscripts were exhibited was Archbishop Sancroft. 
+item3025	He read them with much emotion, and remained silent. 
+item3026	Such silence was only the natural effect of a struggle between respect and vexation. 
+item3027	But James supposed that the Primate was struck dumb by the irresistible force of reason, and eagerly challenged his Grace to produce, with the help of the whole episcopal bench, a satisfactory reply. 
+item3028	"Let me have a solid answer, and in a gentlemanlike style; and it may have the effect which you so much desire of bringing me over to your Church." 
+item3029	The Archbishop mildly said that, in his opinion, such an answer might, without much difficulty, be written, 
+item3030	But declined the controversy on the plea of reverence for the memory of his deceased master. 
+item3031	This plea the King considered as the subterfuge of a vanquished disputant.
+item3032	Had he been well acquainted with the polemical literature of the preceding century and a half, 
+item3033	He would have known that the documents to which he attached so much value might have been composed by any lad of fifteen in the college of London, 
+item3034	And contained nothing which had not, in the opinion of all Protestant divines, been ten thousand times refuted.
+item3035	In his ignorant exultation he ordered these tracts to be printed with the utmost pomp of typography, and appended to them a declaration attested by his sign manual,

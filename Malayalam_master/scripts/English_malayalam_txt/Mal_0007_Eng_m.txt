@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0245	Chrysler reduced some prices on friday .Period 
+item0246	Citicorp had twenty one point five billion dollars in capital at the end of last year 
+item0247	Citicorp said an accord hasn't at this moment been signed 
+item0248	Citicorp said an accord hasn't "double-quote at this moment "double-quote been signed .Period 
+item0249	Citicorp scheduled another fifty million dollar sale next tuesday .Period 
+item0250	Citicorp slated another fifty million dollar sale next tuesday .Period 
+item0251	Claim losses increased eleven percent to thirty five point one one billion dollars .Period 
+item0252	Closed end funds are traded on exchanges like stocks but invest in a wide portfolio of other securities 
+item0253	Closely held times publishing also owns two Washington based publications congressional quarterly which covers capitol hill and governing which covers state and local governments 
+item0254	Commerce department officials noted however that auto imports usually rise in october as dealers fill their inventories with new models 
+item0255	Common shares that aren't purchased will be exchanged for the combination of new preferred and cash 
+item0256	Companies listed below reported quarterly profit substantially different from the average of analysts' estimates 
+item0257	Congress and the administration have begun to take the right steps to improve the credit budget 
+item0258	Coniston partners of New York said it has a six point eight percent stake in gillette and may seek to acquire the company or gain seats on its board 
+item0259	Consumer -hyphen oriented companies are usually expected to out -hyphen perform other corporations in a slowdown or a recession ,comma but that may not be the case this year .Period 
+item0260	Consumer prices rose one point six percent in february the highest monthly increase since mid nineteen eighty one 
+item0261	Consumers have made businessmen more aware of this growing potential at -hyphen home demand by becoming bigger buyers of travel and other services .Period 
+item0262	Consumer spending surged zero point seven percent in june ,comma led by a jump in auto sales .Period 
+item0263	Consumer spending surged zero point seven percent in june led by a jump in auto sales 
+item0264	Continental started the appeal process but recently settled the case 
+item0265	Cooper is one of only two publicly owned U.S. tire companies left .Period 
+item0266	Corporate and municipal bond prices also slumped 
+item0267	Critics say the federal approach was wrong from the start 
+item0268	Critics say the federal approach was wrong from the start .Period 
+item0269	Dayton hudson said Mr. sells would have an important equity position in the company he is joining 
+item0270	It is wonderful how quickly you get used to things, even the most astonishing. 
+item0271	Five minutes before, the children had had no more idea than you that there was such a thing as a sand-fairy in the world, 
+item0272	And now they were talking to it as though they had known it all their lives. 
+item0273	It drew its eyes in and said:
+item0274	'How very sunny it is - quite like old times. 
+item0275	Where do you get your Megatheriums from now?'
+item0276	'What?' said the children all at once. 
+item0277	It is very difficult always to remember that 'what' is not polite, especially in moments of surprise or agitation.
+item0278	'Are Pterodactyls plentiful now?' the Sand-fairy went on.
+item0279	The children were unable to reply.
+item0280	'What do you have for breakfast?' the Fairy said impatiently, 'and who gives it you?'
+item0281	'Eggs and bacon, and bread-and-milk, and porridge and things. 
+item0282	Mother gives it us. 
+item0283	What are Mega-what's-its-names and Ptero-what-do-you-call-thems? 
+item0284	And does anyone have them for breakfast?'

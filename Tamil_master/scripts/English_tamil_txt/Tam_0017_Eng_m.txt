@@ -1,0 +1,42 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8626	Microwave radiation can thus easily pass through the cloud cover, haze and dust, and image the ground.
+item8627	Hence, RISAT- two B satellite will be able to image under almost all weather and environmental conditions.
+item8628	Since it does not rely on visible light for imaging, it will be able to image the ground during both day and night.
+item8629	The satellite does not have passive microwave sensors that detect the radiation naturally emitted by the atmosphere or reflected by objects on the ground.
+item8630	Instead, RISAT- two B will be transmitting hundreds of microwave pulses each second towards the ground and receiving the signals reflected by the objects using radar.
+item8631	The moisture and texture of the object will determine the strength of the microwave signal that gets reflected.
+item8632	While the strength of the reflected signal will help determine different targets, the time between the transmitted and reflected signals will help determine the distance to the object.
+item8633	The RISAT- two B satellite uses X-band synthetic aperture radar for the first time; the synthetic aperture radar was developed indigenously.
+item8634	Unlike the C-band that was used by RISAT-one , the shorter wavelength of the X-band allows for higher resolution imagery for target identification and discrimination.
+item8635	Since it has high resolution, the satellite will be able to detect objects with dimensions of as little as a metre.
+item8636	This capacity to study small objects and also movement could be useful for surveillance.
+item8637	As K.Sivan, ISRO Chairman and Secretary, Department of Space, had said last month, the satellite could be used for civil and strategic purposes.
+item8638	RISAT- two B will have an inclined orbit of thirty seven degrees, which will allow more frequent observations over the Indian subcontinent.
+item8639	With ISRO planning to launch four more such radar imaging satellites in a year, its ability to monitor crops and floods as well as engage in military surveillance will be greatly enhanced.
+item8640	The withdrawal of Houthi rebels from three of Yemen's ports as part of the December twenty eighteen ceasefire agreement should have been the basis for further talks to expand the truce to other parts of the country.
+item8641	But while the withdrawal was under way last week, Houthis, who are reportedly getting support from Iran, carried out a drone attack on a Saudi pipeline, and in retaliation Riyadh launched airstrikes on Sanaa, the capital city controlled by the rebels, killing at least six civilians, including children.
+item8642	Yemen now risks falling back to the pre-ceasefire days of conflict with fighting having broken out in parts of the government-controlled south.
+item8643	What makes the resumption of hostilities more dangerous is the regional angle.
+item8644	Tensions are on the rise in West Asia over the U.S.-Iran standoff.
+item8645	The U.S.had earlier warned against possible attacks by either Iran or Iran-backed militias against American interests or its allies in the region, and has deployed an aircraft carrier and a bomber squad to the Gulf.
+item8646	Immediately after the pipeline was attacked, the Saudis blamed Iran for ordering it, an allegation which both Tehran and the Houthis have refuted.
+item8647	Whether Iran was actually behind the attack or not, the incident and the subsequent Saudi airstrikes show how the Yemeni conflict is entangled with the regional rivalry between Iran and Saudi Arabia.
+item8648	Saudi Arabia started its Yemen military campaign in March twenty fifteen with the goal of driving Houthis out of territories they captured.
+item8649	Four years of war have devastated the country.
+item8650	According to the UN, at least seven thousand civilians have been killed.
+item8651	Maybe you've lived a significantly large portion of your life, and you think it's too late to start acting on your dreams. Maybe you've started a family, or have other responsibilities that are holding you back.
+item8652	It's not too late.
+item8653	It may seem like it now with the current situation you're in, but you still have a chance to take action! 
+item8654	You may have to wait a little while before you can do so, or have to make some changes to your daily routine, but it's never too late.
+item8655	Go out there and make things happen!
+item8656	Ah, ridiculous reason number 8; a classic am I right?
+item8657	You've often get people say to others that every good idea's already been done and therefore therefor it's impossible to take action on your life.
+item8658	The problem isn't that everything has already been done. 
+item8659	The problem lies within their creativity and being able to unlock the full power of their imagination.
+item8660	The people that struggle a little bit with creativity often think there's not much more than can be done; until they see someone else introduce a new invention and kick themselves for not thinking of that idea. 
+item8661	Then they repeat the same cycle of thinking.

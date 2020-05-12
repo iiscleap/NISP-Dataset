@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9395	Handing over the fine amounts paid by the accused as part of their sentence is one aspect of such justice; another aspect is for the court to ask the government to compensate the victim from its own coffers.
+item9396	A group of rioters had raped her as well as two other women, and killed seven members of her family at Randhikpur village on March three , two thousand two.
+item9397	The court noted that she had the misfortune of witnessing her daughter being smashed against a wall, as well as the devastation suffered by her family.
+item9398	She was also pregnant at the time of the incident.
+item9399	Further, the court was told that she was leading an itinerant, hand-to-mouth existence.
+item9400	It is in these circumstances that the Bench headed by Chief Justice of India Ranjan Gogoi awarded her rupees fifty lakh, besides asking the State government to provide her with a government job and a house.
+item9401	Ms.Bano’s case is indeed a rare one: criminal prosecution resulted in conviction and life sentences to eleven persons.
+item9402	The sentences were upheld by the Bombay High Court.
+item9403	Further, the court found deliberate inaction on the part of some police officers and that the autopsies were perfunctory and manipulated.
+item9404	The Supreme Court has asked for the pension benefits of three police officers to be withdrawn.
+item9405	In short, this is a concrete instance of state inaction and negligence that would normally justify the payment of a hefty compensation.
+item9406	Not every crime would have a similar set of circumstances.
+item9407	While convictions are not easy to come by in cases of mob violence, victim compensation may often be the only way to ensure some justice.
+item9408	The Code of Criminal Procedure was amended in two thousand eight to insert Section three fifty seven A under which every State government has to prepare a scheme to set up a fund from which compensation can be paid to victims of crime and their dependants who have suffered loss and injury and who may require rehabilitation.
+item9409	The Centre has a Central Victim Compensation Fund.
+item9410	On Supreme Court directions, the National Legal Services Authority has prepared a compensation scheme for women victims and survivors of sexual assault and other crimes.
+item9411	Many States have notified schemes on these lines.
+item9412	While on paper there is a mechanism to assess rehabilitation needs and pay compensation, there is a need to streamline the schemes and ensure that the compensation process is not done in an ad hoc manner, but is based on sound principles.
+item9413	What is extraordinary about Sunday’s Ukrainian presidential runoff is that it turned out to be so predictable.
+item9414	The comedian Volodymyr Zelensky, a rank political outsider until he announced his candidacy over New Year’s Eve, recorded the expected landslide victory.
+item9415	He had consistently led in the opinion polls, way ahead of incumbent President Petro Poroshenko and a former Prime Minister.
+item9416	The political neophyte’s prospects were enhanced by a sequence of events.
+item9417	In February, Ukraine’s top court struck down an anti-corruption law in a setback for several prosecutions and jeopardising aid flows to Kiev.
+item9418	Soon, Mr.Poroshenko was forced to ease out an ally in an arms trade scandal.
+item9419	The developments dented the government’s image ahead of the elections in a country where the drive against graft has been a live issue for years.
+item9420	The average person requires seven to nine hours of good quality sleep per night, period. Do not kid yourself that you will need less.
+item9421	During sleep, your body recharges, regenerates and repairs.
+item9422	Lack of sleep leads to decreased productivity, fatigue and lack of motivation. Over time, sleep deprivation contributes to the development of chronic disease.
+item9423	I know you have heard the saying, “You are what you eat.�?
+item9424	This is so very true.
+item9425	If you consume unhealthy food, you will look, feel and be unhealthy. The better you eat, the more energy you will have. This will head to increased productivity and motivation, which will ultimately lead to success. 
+item9426	I can relate to this personally.
+item9427	When I changed my dietary habits, I felt incredibly better, had more energy and motivation, which allowed me to help more patients.

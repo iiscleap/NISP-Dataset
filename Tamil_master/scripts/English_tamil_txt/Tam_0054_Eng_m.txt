@@ -1,0 +1,44 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9911	Italy’s move comes at a moment of increasing concern in European capitals, especially Paris and Berlin, to counter Chinese mergers and acquisitions of European firms to protect the bloc’s strategic economic sectors.
+item9912	The Trump administration has, in keeping with its America First policy, invoked national security provisions rarely deployed in international trade and targeted Beijing with punitive import tariffs, ostensibly to protect domestic industries.
+item9913	China’s phenomenal economic expansion since joining the WTO in two thousand one has almost altered the global landscape.
+item9914	But attempts to block Chinese businesses may prove short-sighted.
+item9915	Instead, Western democracies should strive to live up to their repeated pledges, since the two thousand seven-eight global financial crisis, to eschew protectionism and promote rules-based open and free global competition.
+item9916	An assessment of the quality of air across countries and in cities has come as a fresh warning to India on the levels of deadly pollutants its citizens are breathing.
+item9917	The IQ AirVisual twenty eighteen World Air Quality Report published in collaboration with Greenpeace underscores that Delhi remains an extremely hazardous city to live in.
+item9918	The national capital exposes people to air containing annual average fine particulate matter (PM two point five) of one hundred and thirteen micrograms per cubic metre, when it should be no more than ten micrograms as per WHO guidelines.
+item9919	In fact, Gurugram, which borders Delhi, fares even worse with a PM two point five level of one thirty five micrograms, while fifteen of the twenty cities worldwide ranked the worst on air pollution metrics are in India.
+item9920	Delhi’s air quality has been making headlines for years now.
+item9921	Yet, measures to mitigate emissions have not moved into crisis mode: the launch this year of the National Clean Air Programme for one hundred and two cities and towns, including the capital, talks only of long-term benefits of mitigation programmes beyond twenty twentyfour, and not a dramatic reduction in near-term pollution.
+item9922	This has to change, and an annual target for reduction be set to make governments accountable.
+item9923	Achieving a reduction within a short window is not impossible if there is the political will to reform key sectors: transport, biomass and construction.
+item9924	The monitoring of air quality in real time across cities and towns in India is far from adequate or uniform.
+item9925	The evidence from Delhi, which is relatively more robust, has clear pointers to what needs to be done.
+item9926	The Ministry of Heavy Industries and Public Enterprises learnt from a commissioned study last year that dusty sources such as roads, construction sites and bare soil added about fourty two percent of the coarse particulate matter (PM ten ) in summer, while in winter it was a significant thirty one percent.
+item9927	Similarly, PMten from transport varied between fifteen percent and eighteen percent across seasons.
+item9928	Yet, it is the even more unhealthy PM two point five penetrating the lungs that causes greater worry.
+item9929	Vehicles contributed eighteen-twenty three percent of these particulates, while biomass burning was estimated to make up fifteen -twenty two percent, and dusty sources thirty four percent during summer.
+item9930	These insights provide a road map for action.
+item9931	The Delhi government, which has done well to decide on inducting one thousand electric buses, should speed up the plan and turn its entire fleet green.
+item9932	A transition to electric vehicles for all commercial applications, with funding from the Centre’s programme for adoption of EVs, should be a priority in cities.
+item9933	Cutting nitrogen and sulphur emissions from industrial processes needs a time-bound programme supervised by the Environment Ministry.
+item9934	These are priority measures to get urban India out of the red zone.
+item9935	The Bharatiya Janata Party-led government in Itanagar has decided not to act on the recommendations of a Joint High Power Committee granting permanent resident certificates (PRCs) to non-Arunachal Pradesh Scheduled Tribes of Namsai and Changlang districts.
+item9936	I see laziness featured a lot in success and self-development blogs, why wouldn’t it be? Laziness allows ideas to remain ideas and never turn into actions. 
+item9937	Being lazy takes no effort; literally none at all. 
+item9938	That’s why it’s easy to be lazy and why so many people naturally are.
+item9939	Although, if you ever want to get anywhere near what you’d call success in life, then laziness is the first negative attitude to sort out, above all others. 
+item9940	Success takes hard work and you’re probably not that hard working if you think you’re lazy.
+item9941	Why do you think twenty pecent of all the self-development and success articles you read address laziness?
+item9942	Because it’s something you probably need to address too!
+item9943	If you surround yourself with people who are very self-disciplined, you’re bound to become more immune to the various temptations that prevent you from staying on track.
+item9944	Research shows that when people can’t quite manage to control their schedules, they often look for help among the self-disciplined people in their lives. 
+item9945	Nothing gives a boost to your willpower like a strong-willed friend.
+item9946	You need self-control in order to reach your long-term goals. 
+item9947	That’s why you should avoid befriending people who aren’t strong willed and instead choose those who have a lot of willpower. 
+item9948	That’s the secret to maintaining healthy habits and paving the road to success.

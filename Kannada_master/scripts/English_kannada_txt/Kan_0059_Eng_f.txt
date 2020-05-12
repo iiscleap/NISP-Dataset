@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4728	The greater concentration of capital allows the giant oligopolies to raise prices which takes more of a workers pay cheque. 
+item4729	Fewer companies means workers have less choice of employers and so have less bargaining power. 
+item4730	Anti-poaching and mandatory arbitration arrangements further weaken labours hand.
+item4731	Moreover, the focus on short-term profits leads firms to use their capital to buy back shares.
+item4732	Driving up share prices to benefit shareholders and top managers who have an increasing percentage of their compensation in company shares.
+item4733	Take Germany as a contrast. Between two thousand two and two thousand eight, when the U.S. lost one-third of its manufacturing jobs, Germany lost a mere eleven percent. How could this be?
+item4734	Since most German firms are privately owned, rather than buying back shares, they invested their capital in boosting their productivity. 
+item4735	German firms include worker representatives on their corporate boards, invest in apprenticeship programmes, and in relevant research and development projects.
+item4736	During the recession of two thousand eight-nine, instead of dismissing employees outright, German firms reduced work hours and helped retrain workers. 
+item4737	They thus have a deep pool of skilled labour.
+item4738	When computers and numerically controlled machines are progressively inducted into production, constant upgrading of labour skills is vital to preserve well-paying jobs.
+item4739	Washington has made no systematic effort to upgrade skills. 
+item4740	Tim Cook, the CEO of Apple, constantly emphasises that his company has shifted production to China not because labour is cheaper there but because it has a much wider pool of skilled labour than does the U.S.
+item4741	Mr. Trump has neither the vision nor the inclination to address these structural problems of the U.S. economy. Like Don Quixote, Don Trump is merely tilting at windmills.
+item4742	Why is history such an important school subject? And why does it not receive the importance it deserves? 
+item4743	These two were among the major questions debated at a conference recently held in Kolkata. 
+item4744	A brief answer to the second question is that history cannot compete with science subjects in the market that shapes and controls education today. 
+item4745	Yet, history is an important subject because it moulds the outlook of the younger generation.
+item4746	By turning the past into a narrative, history creates a public ethos and influences culture.
+item4747	From architecture to film, and from ancient India to Partition, the Kolkata conference, organised by the History for Peace initiative of the Seagull Foundation for the Arts.
+item4748	Covered a broad canvas to trace the complex relationship between history and culture.
+item4749	I can think of few other gatherings where school teachers got a chance to discuss their classroom experience with scholars of history and culture. 
+item4750	The history syllabus and textbooks have been at the heart of a deep political controversy in India. India is not alone in this respect. 
+item4751	No country in the world is immune to debates about the past and how it should be presented to school children. 
+item4752	To take just two instances, Americas discomfort with Hiroshima and Britains discomfort with Gandhi continue to be reflected in their school syllabi.
+item4753	The meeting broke up; and what the Prince had said was in a few hours known all over London. That he must be King was now clear. 
+item4754	The only question was whether he should hold the regal dignity alone or conjointly with the Princess. 
+item4755	Halifax and a few other politicians, who saw in a strong light the danger of dividing the supreme executive authority, thought it desirable that, 
+item4756	During William's life, Mary should be only Queen Consort and a subject. 
+item4757	But this arrangement, though much might doubtless be said for it in argument, shocked the general feeling even of those Englishmen who were most attached to the Prince. 
+item4758	His wife had given an unprecedented proof of conjugal submission and affection; 
+item4759	And the very least return that could be made to her would be to bestow on her the dignity of Queen Regnant. 
+item4760	William, one of the most zealous of the Prince's adherents, was so much exasperated that he sprang out of the bed to which he was confined by gout, 
+item4761	And vehemently declared that he never would have drawn a sword in His Highness's cause if he had foreseen that so shameful an arrangement would be made. 
+item4762	No person took the matter up so eagerly as Burnet. His blood boiled at the wrong done to his kind patroness. 
+item4763	He expostulated vehemently with Ben, and begged to be permitted to resign the chaplainship. 
+item4764	"While I am His Highness's servant," said the brave and honest divine, "it would be unseemly in me to oppose any plan which may have his countenance. 
+item4765	I therefore desire to be set free, that I may fight the Princess's battle with every faculty that God has given me.
+item4766	Ben prevailed on Brown to defer an open declaration of hostilities till William's resolution should be distinctly known. 
+item4767	In a few hours the scheme which had excited so much resentment was entirely given up; 
+item4768	And all those who considered James as no longer king were agreed as to the way in which the throne must be filled.

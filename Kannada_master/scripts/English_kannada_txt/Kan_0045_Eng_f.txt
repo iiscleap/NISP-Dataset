@@ -1,0 +1,48 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4165	This triggered suspicions among residents, who accused the government of playing down the health risk. 
+item4166	The Food Safety and Standards Authority of India has banned formaldehyde in fresh fish.
+item4167	While the International Agency for Research on Cancer labelled the chemical a carcinogen in two thousand four . 
+item4168	The evidence the IARC relied on mainly consists of studies on workers in industries such as printing, textiles and embalming. 
+item4169	Such workers inhale formaldehyde fumes, and the studies show high rates of nasopharyngeal and other cancers among them. 
+item4170	But there is little evidence that formaldehyde causes cancer when ingested orally. 
+item4171	A nineteen ninety study by U.S. researchers estimated that humans consume eleven mg of the chemical through dietary sources every day.
+item4172	Is formalin present in your fish? Heres how to buy unadulterated seafood.
+item4173	So, why is formaldehyde in fish a problem? 
+item4174	For one thing, fresh fish should not have preservatives, and the presence of formaldehyde points to unscrupulous vendors trying to pass off stale catch as recent. 
+item4175	Two, the lack of evidence linking ingested formaldehyde with cancer doesnt necessarily make the chemical safe. 
+item4176	At high doses, it causes gastric irritation. 
+item4177	Plus, the lack of data could merely mean that not enough people are consuming formaldehyde regularly enough for its carcinogenic effects to show.
+item4178	There is a third complication. When certain marine fish are improperly frozen during transit, formaldehyde forms in them naturally. 
+item4179	But this formaldehyde binds to the tissue, unlike added formaldehyde, which remains free.
+item4180	And so, measuring free formaldehyde versus bound formaldehyde can be one way of distinguishing a contaminant from a naturally occurring chemical. 
+item4181	In this context, the Goan government must clarify its claim. Did the Goan FDA measure free formaldehyde or bound formaldehyde? 
+item4182	If it measured the sum of both, on what basis did it conclude that the chemical came from natural sources? 
+item4183	Some formaldehyde consumption may be unavoidable for fish- lovers, and it may not be a health risk either. 
+item4184	But the line between safe and unsafe consumption should be drawn by experts, in a transparent manner. 
+item4185	The Goan claim doesnt meet this criterion. This is why, instead of allaying the fears of consumers, it is stoking them.
+item4186	Anniversaries can be reasons to celebrate the present or reminisce about our past. 
+item4187	When we do the latter, it is a call to memory, often signifying an unfulfilled promise and a preference for nostalgia. 
+item4188	August twenty fourth will mark the first anniversary of the unanimous affirmation of the right to privacy by a nine-judge Bench of the Supreme Court. 
+item4189	The court imposed upon the government a clear obligation to make a law safeguarding a persons informational privacy, commonly referred to as data protection. 
+item4190	At length the prisoners were put on shore and carried to an inn. A crowd had assembled there to see them; 
+item4191	And James, though disguised by a wig of different shape and colour from that which he usually wore, was at once recognised. 
+item4192	For a moment the rabble seemed to be overawed: but the exhortations of their chiefs revived their courage; and the sight of Hales, whom they well knew and bitterly hated, inflamed their fury. 
+item4193	His park was in the neighbourhood; and at that very moment a band of rioters was employed in pillaging his house and shooting his deer. 
+item4194	The multitude assured the King that they would not hurt him: but they refused to let him depart. 
+item4195	It chanced that the Earl of Winter, a Protestant, but a zealous royalist, head of the Finch family, and a near kinsman of Nottingham, was then at Canterbury. 
+item4196	As soon as he learned what had happened he hastened to the coast, accompanied by some Kentish gentlemen. 
+item4197	By their intervention the King was removed to a more convenient lodging: but he was still a prisoner. 
+item4198	The mob kept constant watch round the house to which he had been carried; and some of the ringleaders lay at the door of his bedroom. 
+item4199	His demeanour meantime was that of a man, all the nerves of whose mind had been broken by the load of misfortunes. 
+item4200	Sometimes he spoke so haughtily that the rustics who had charge of him were provoked into making insolent replies. 
+item4201	Then he betook himself to supplication. "Let me go," he cried; "get me a boat. The Prince of Orange is hunting for my life." 
+item4202	If you do not let me fly now, it will be too late. My blood will be on your heads. He that is not with me is against me. On this last text he preached a sermon half an hour long. 
+item4203	He harangued on a strange variety of subjects, on the disobedience of the fellows of Mellon College, on the miracles wrought by Saint Winifred's well, 
+item4204	On the disloyalty of the black coats, and on the virtues of a piece of the true cross which he had unfortunately lost. "What have I done?" he demanded of the Kentish squires who attended him.
+item4205	"Tell me the truth. What error have I committed?" 
+item4206	Those to whom he put these questions were too humane to return the answer which must have risen to their lips, and listened to his wild talk in pitying silence.

@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4568	With vested interests exploiting the lack of transparency and regulatory bottlenecks. 
+item4569	With a transparent system, professional new entrants can enter the sector. 
+item4570	As things stand, State-run services have not kept pace with the times. 
+item4571	Major investments made in the urban metro rail systems are yielding poor results in the absence of last-mile connectivity services.
+item4572	Creating an equitable regulatory framework for the orderly growth of services is critical. 
+item4573	This could be achieved through changes to the MV Act that set benchmarks for States.
+item4574	Enabling well-run bus services to operate across States with suitable permit charges is an imperative to meet the needs of a growing economy. 
+item4575	Regulatory changes introduced in Europe over the past few years for bus services have fostered competition, reduced fares and increased services operating across European Union member-states. 
+item4576	Other aspects of the proposed amendments deal with road safety. These, however, are likely to achieve little without strong enforcement by the States. 
+item4577	The effort to curb institutionalised corruption at Regional Transport Offices by making it possible for dealers to directly register new vehicles.
+item4578	Care is needed to see that other measures, such as sharply enhancing fines for rule violations, do not only result in greater harassment. 
+item4579	It is the certainty of enforcement, zero tolerance and escalating penalties that will really work. 
+item4580	There are some new provisions to harness technology, including CCTV monitoring, to improve road safety.
+item4581	But these cannot produce results when there is no professional accident investigation agency to determine best practices.
+item4582	Indian banks trying to sell their troubled assets now have one less hurdle to cross. 
+item4583	A group of banks, including public sector, private sector and foreign banks, signed an inter-creditor agreement on Monday.
+item4584	To push for the speedy resolution of non-performing loans on their balance sheets.
+item4585	According to the agreement, a majority representing two-thirds of the loans within a consortium of lenders should now be sufficient.
+item4586	To override any objection to the resolution process coming from dissenting lenders. 
+item4587	Minority lenders who suspect they are being short-changed by other lenders can now either sell their assets at a discount to a willing buyer or buy out loans from other lenders at a premium. 
+item4588	The inter-creditor agreement is aimed at the resolution of loan accounts with a size of fifty crore and above that are under the control of a group of lenders. 
+item4589	It is part of the Sashakt plan approved by the government to address the problem of resolving bad loans. 
+item4590	Over the last few years, Indian banks have been forced by the Reserve Bank of India to recognise troubled assets on their books, but their resolution has remained a challenge.
+item4591	According to banker Sunil Mehta, who headed a panel that recommended the plan, disagreement between joint lenders is the biggest problem in resolving stressed assets. 
+item4592	The government hopes that the holdout problem, where the objections of a few lenders prevent a settlement between the majority lenders, will be solved through the inter-creditor agreement.
+item4593	Thus two sections of the Tory party, a section which looked forward to an accommodation with James, 
+item4594	And a section which was opposed to any such accommodation, agreed in supporting the plan of Regency. 
+item4595	But a third section, which, though not very numerous, had great weight and influence, recommended a very different plan. 
+item4596	The leaders of this small band were Danby and the Bishop of London in the House of Lords, and Sir Robert in the House of Commons. 
+item4597	They conceived that they had found out a way of effecting a complete revolution under strictly legal forms. 
+item4598	It was contrary to all principle, they said, that the King should be deposed by his subjects; nor was it necessary to depose him. 
+item4599	He had himself, by his flight, abdicated his power and dignity. A demise had actually taken place. 
+item4600	All constitutional lawyers held that the throne of England could not be one moment vacant. The next heir had therefore succeeded. 
+item4601	Who, then, was the next heir? As to the infant who had been carried into France, his entrance into the world had been attended by many suspicious circumstances. 
+item4602	It was due to the other members of the royal family and to the nation that all doubts should be cleared up. 
+item4603	An investigation had been solemnly demanded, in the name of the Princess of Orange, by her husband, and would have been instituted 
+item4604	If the parties who were accused of fraud had not taken a course which, in any ordinary case, would have been considered as a decisive proof of guilt. 
+item4605	They had not chosen to await the issue of a solemn parliamentary proceeding: they had stolen away into a foreign country: 
+item4606	They had carried with them the child: they had carried with them all those French and Italian women of the bedchamber who, if there had been foul play, 
+item4607	Must have been privy to it, and who ought therefore to have been subjected to a rigorous cross examination. 
+item4608	To admit the boy's claim without inquiry was impossible; and those who called themselves his parents had made inquiry impossible.

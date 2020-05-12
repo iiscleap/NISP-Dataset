@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0325	"double-quote that's the wrong answer ,comma "double-quote Mr.Smith conceded .Period 
+item0326	"double-quote the big question mark is :colon what exactly are the saudi goals ?question-mark 
+item0327	"double-quote the hospital industry is government -hyphen funded .Period 
+item0328	"double-quote the logic apparently is that we'll have to raise our rates to defend the dollar ,comma "double-quote said peter canelo ,comma a portfolio strategist at bear stearns .Period 
+item0329	"double-quote this sort of fund doesn't provide the highest short -hyphen term return in bull markets ,comma "double-quote he says .Period 
+item0330	"double-quote we had fifty years of precedent that a flat tax was legal .Period 
+item0331	"double-quote we'll let the courts determine the fair value of our shares ,comma "double-quote said Mr. klein .Period 
+item0332	"double-quote you don't have the building of renewed interest in the market ,comma "double-quote she said .Period 
+item0333	Drexel Burnham Lambert incorporated was lead underwriter 
+item0334	Earnings were helped by lower tax rates and by engineering and construction contracts for roads and environmental contracts sparked by regulatory requirements .Period 
+item0335	Economists at Merrill Lynch note that wholesale prices have risen about two percentage points more than retail prices in the past year .Period 
+item0336	Economists were encouraged by a one point six percent increase in new orders for non defense capital goods an important indicator of future business investment 
+item0337	Elders brewing will be based outside Australia because seventy percent of its assets are in Britain and Canada 
+item0338	Elders finance and elders agribusiness will remain based in Australia 
+item0339	Energy futures prices rose following an explosion at a major U.S. refining plant 
+item0340	Envirodyne said it expects sales to be the highest for any third quarter in the company's history 
+item0341	Estimated and actual results involving losses are omitted 
+item0342	Estimates on the yield range from six and one half percent to six and five eighths percent .Period 
+item0343	Even some bigger companies caution that they are leery of paying too big a premium 
+item0344	Everyone there is watching television .Period 
+item0345	Everything is done Mr. levy said yesterday 
+item0346	Excluding autos sales increased zero point three percent 
+item0347	Expenses from the delayed nine mile point two nuclear plant accounted for two hundred sixty nine million dollars of the write off 
+item0348	Exxon corporation said earlier this week that it replaced one hundred fourteen percent of its oil and gas production in nineteen eighty seven 
+item0349	F.C.A. confirmed that it has reached a tentative settlement of class action shareholder litigation stemming from the company's financial problems since nineteen eighty three .Period 
+item0350	The Sand-fairy shuddered. 
+item0351	'Only once,' it said; 'the end of the twelfth hair of my top left whisker - 
+item0352	I feel the place still in damp weather. 
+item0353	It was only once, but it was quite enough for me. 
+item0354	I went away as soon as the sun had dried my poor dear whisker. I
+item0355	Scurried away to the back of the beach, and dug myself a house deep in warm dry sand, and there I've been ever since. 
+item0356	And the sea changed its lodgings afterwards. 
+item0357	And now I'm not going to tell you another thing.'
+item0358	'Just one more, please,' said the children. 
+item0359	'Can you give wishes now?'
+item0360	'Of course,' said it; 'didn't I give you yours a few minutes ago?
+item0361	You said, "I wish you'd come out," and I did.'
+item0362	'Oh, please, mayn't we have another?'
+item0363	'Yes, but be quick about it. I'm tired of you.'
+item0364	I daresay you have often thought what you would do if you had three wishes given you,

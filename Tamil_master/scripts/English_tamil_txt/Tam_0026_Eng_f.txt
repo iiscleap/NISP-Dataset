@@ -1,0 +1,44 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8927	Car sales shrank almost twenty percent amid a protracted slump that shows no signs of a reversal.
+item8928	The latest industrial output figures from the government serve to underscore the widespread nature of the demand drought.
+item8929	The Index of Industrial Production (IIP) for March shows output fell one percent from a year earlier to a twenty one-month low, with the use-based classification revealing a weakening that spared none of the six segments.
+item8930	The capital goods sector shrank by eight percent on the back of an nine percent contraction in the preceding month.
+item8931	Output of consumer durables fell five percent from a year earlier, and growth in consumer non-durables production slid to point three percent from the fourteen percent pace in March twenty eighteen.
+item8932	Manufacturing, which has a weight of almost seventy eight percent in the index, continues to be the biggest drag, with output contracting by point four percent after shrinking by a similar extent in February.
+item8933	Overall, the sector's growth slowed to three percent in the last fiscal, from four percent in twenty seventeen-eighteen.
+item8934	The composite picture that emerges from all these numbers belies the CSO's implicit fourth-quarter GDP growth assumption of six percent, and paints it as overly optimistic.
+item8935	With global headwinds strengthening in the backdrop of an escalating trade war between the two largest economies, the U.S.and China, and rising tensions in West Asia beginning to push up energy costs from the top oil-exporting region, Indian policymakers have to contend with an external sector that would likely only add to the domestic pressures, most certainly in the near term if not in the longer.
+item8936	The distress in the farm sector may just ease marginally if the monsoon does turn out to be â€œnear normalâ€? as forecast last month, and could help spur a demand revival in the rural hinterland.
+item8937	Still, the new government that emerges after May twenty three must spare little time in drawing up appropriate policy measures that not only help reinvigorate demand but also ensure that such a revival is robust, across-the-board and enduring.
+item8938	Cyril Ramaphosa, victor in South Africa's recent presidential election and head of the African National Congress, is celebrating his win and the peaceful transition of power from his predecessor Jacob Zuma.
+item8939	But he must equally be aware that there is a daunting challenge that awaits him in the realm of economic reform, institutional reinvigoration and breaking from a past of political corruption that has hobbled the country's prospects for much-needed growth.
+item8940	To begin with, the ANC won just under fifty eighty percent of the vote, while the main opposition Democratic Alliance won about twenty one percent, the Economic Freedom Fighters eleven percent, and the fourty five smaller parties together won almost eleven percent.
+item8941	That is a considerable proportion of overall votes for the ANC, but nevertheless marks a disconcerting secular decline in its tally, which was as high as sixty nine percent in the two thousand four national elections but slid steadily downward to almost sixty six percent in two thousand nine and to sixty two percent in twenty fourteen.
+item8942	The dwindling popularity of the party that swept gloriously to power in nineteen ninety four following the defeat of apartheid, has been coterminous with the rise of a corrupt political elite that indulged in what is now widely recognised as â€œstate captureâ€? â€” rent-seeking built on the marketisation of the South African state.
+item8943	Given that Mr.Zuma, who stepped down in twenty eighteen in the wake of corruption scandals, allowed this culture of venality to flourish, Mr.Ramaphosa will have to apply a scalpel to the ANC itself: trim the Cabinet and oust those associated with illicit dealings.
+item8944	The President will also have to be deft in terms of steering the economy through choppy waters.
+item8945	The rate of unemployment is now at twenty seven percent.
+item8946	This raises the already high levels of stress on tottering public finances and social welfare programmes, which must cater to at least seventeen million people.
+item8947	A positive step forward here would be for Mr.Ramaphosa to deliver on his promise to tackle the â€œpublic patronageâ€? system, at the heart of which are the inefficiency ridden state-owned enterprises.
+item8948	In his victory speech he vowed to end corruption â€œwhether some people like it or notâ€?.
+item8949	Indeed, no task is more urgent than this, for it is only by stemming the leaks in public finances that the government can hope to pump funds back into the public services for education, health, and social security.
+item8950	This in turn could directly improve the welfare of the poorest South Africans, mostly youth, who have relatively few marketable vocational skills and opportunities, and are left to fend for themselves in the private sector.
+item8951	While Mr.Ramaphosa has made a decent start by changing the leadership of the tax authority and the national prosecutor's office, the danger for the administration lies in the realm of politics.
+item8952	Money seems to be one of the biggest reasons why people never begin to go after their dreams. 
+item8953	In some aspects it's understandable, but in others it's just an excuse. 
+item8954	There's always ways around not having enough money to start something.
+item8955	Many times, the initial cost that you think something will be, can often be halved. 
+item8956	You're just looking at the picture of exactly how you want it to be right from the off. 
+item8957	And that's why you think you can't afford it.
+item8958	You have time to build up to that picture. You don't have to start there.
+item8959	For example, if you're starting a business, and you want to have a certain amount of space, a very specific property, or equipment, which we'll get onto in a minute. 
+item8960	All that may not be affordable, but a lot of what you want won't be necessary.
+item8961	So start smaller, and give things time. If business does well then later on you can upgrade.
+item8962	Looking at it from a different aspect, many people don't take action on getting into shape and they can't afford a gym membership. 
+item8963	Hell, do bodyweight exercises in your garage or garden. It's exactly the same and even better for your body than using weights.
+item8964	For at least fifty percent of the people who think they can't afford to start working towards their dreams, costs can be cut down to an affordable level.

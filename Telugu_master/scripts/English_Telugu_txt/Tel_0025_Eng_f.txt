@@ -1,0 +1,54 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item1078	The U.S. ,comma however ,comma is less dependent on that oil than Japan and west germany are .Period 
+item1079	We just seem to be drifting to lower levels .Period "double-quote 
+item1080	But those farmers that aren't getting the yields because of the drought lose out twice he says because the high prices are cutting down on government support payments 
+item1081	The notes bear interest at a rate of seven point three percent per year .Period 
+item1082	The new company ashland coal incorporated is listed on the New York stock exchange 
+item1083	"double-quote I'm waiting to see what the conditions are ,comma "double-quote he said .Period 
+item1084	They sent a lot of people to the U.S. to learn what U.S. consumers really wanted .Period 
+item1085	But he said no final decisions had been made .Period 
+item1086	Two other issues began trading recently on the big board 
+item1087	Coca -hyphen cola said its pro forma debt would be reduced to about nine percent of total capital .Period 
+item1088	Clearly ,comma something is changing in europe .Period 
+item1089	The jury awarded Mr. scharenberg one hundred five million dollars a figure based on ten years of profits had his project been completed 
+item1090	Alas they probably should have devoted a little more thought to winnebago's past 
+item1091	A lawyer for national union said the settlement talks are continuing and declined to comment further 
+item1092	"double-quote we've had a major run -hyphen up last week ,comma particularly friday ,comma "double-quote noted Mr. polce .Period 
+item1093	As previously reported ,comma first chicago is reconsidering the investment because of losses wood gundy is expected to incur from the recent british petroleum limited share issue .Period 
+item1094	A possible backlash by english speaking canadians could be the biggest obstacle 
+item1095	Those options include taking on another partner ,comma trimming some segment of the business ,comma or cutting costs .Period 
+item1096	Carving up the boesky fund would effectively end Mr. boesky's involvement in the securities business .Period 
+item1097	By shedding the health -hyphen club line ,comma bally could focus on its remaining operations -dash gambling machines ,comma state lotteries and amusement centers .Period 
+item1098	Western union said it may again extend its deadline 
+item1099	The one hundred share index was off five point two points at one thousand seven hundred eighty nine point five 
+item1100	The low was one thousand two hundred seventy point one nine and the high was one thousand two hundred seventy three point eight eight 
+item1101	A gillette victory almost certainly would send the company's stock plunging ,comma possibly to as low as thirty dollars ,comma analysts predicted .Period 
+item1102	The one hundred share index was up ten point oh points at one thousand seven hundred forty three point four at the close 
+item1103	Before Paul arrived she had, as it were, been tuned up into his key. 
+item1104	The energy of the Wilcoxes had fascinated her, had created new images of beauty in her responsive mind. 
+item1105	To be all day with them in the open air, to sleep at night under their roof, had seemed the supreme joy of life, 
+item1106	And had led to that abandonment of personality that is a possible prelude to love. 
+item1107	She had liked giving in to Mr. Wilcox, or Evie, or Charles; she had liked being told that her notions of life were sheltered or academic; 
+item1108	That Equality was nonsense, Votes for Women nonsense, Socialism nonsense, Art and Literature, except when conducive to strengthening the character, nonsense. 
+item1109	One by one the Smith fetiches had been overthrown, and, though professing to defend them, she had rejoiced. 
+item1110	When Mr. Wilcox said that one sound man of business did more good to the world than a dozen of your social reformers, 
+item1111	She had swallowed the curious assertion without a gasp, and had leant back luxuriously among the cushions of his motor-car.
+item1112	When Charles said, "Why be so polite to servants? they don't understand it," 
+item1113	She had not given the Smith retort of, "If they don't understand it, I do." 
+item1114	No; she had vowed to be less polite to servants in the future. 
+item1115	"I am swathed in cant," she thought, "and it is good for me to be stripped of it." 
+item1116	And all that she thought or did or breathed was a quiet preparation for Paul. 
+item1117	Paul was inevitable. 
+item1118	Charles was taken up with another girl, Mr. Wilcox was so old, Evie so young, Mrs. Wilcox so different.
+item1119	Round the absent brother she began to throw the halo of Romance, to irradiate him with all the splendour of those happy days, 
+item1120	To feel that in him she should draw nearest to the robust ideal. 
+item1121	He and she were about the same age, Evie said. 
+item1122	Most people thought Paul handsomer than his brother. 
+item1123	He was certainly a better shot, though not so good at golf. 
+item1124	And when Paul appeared, flushed with the triumph of getting through an examination, 
+item1125	And ready to flirt with any pretty girl, Helen met him halfway, or more than halfway, and turned towards him on the Sunday evening.

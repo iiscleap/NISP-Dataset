@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10965	Her tweet comes a day after Uttar Pradesh Chief Minister Yogi Adityanath asked for an inquiry report on the alleged audio clip of state minister Swati Singh.
+item10966	"A report in this connection has been sought from the SSP, Lucknow, and will be submitted to the chief minister at the earliest," police chief OP Singh said yesterday.
+item10967	In the audio clip that surfaced on social media, the minister is allegedly heard directly questioning Circle Officer, Lucknow Cant., Binu Singh about an FIR filed against Ansal Developers and expressing displeasure over it.
+item10968	Human-caused climate change is on track to make the Arctic Ocean functionally ice-free for part of each year starting sometime between two thousand fourty four and two thousand and sixty seven, according to a study.
+item10969	Researchers at the University of California, Los Angeles (UCLA) in the US noted that as long as humans have been on Earth, the planet has had a large cap of sea ice at the Arctic Circle that expands each winter and contracts each summer.
+item10970	Satellite observations show that since nineteen seventy nine, the amount of sea ice in the Arctic in September - the month when there is the least sea ice, before water starts freezing again - has declined by thirteen per cent per decade, the researchers said.
+item10971	Scientists have been attempting to predict the future of Arctic sea ice for several decades, relying on an array of global climate models that simulate how the climate system will react to all of the carbon dioxide entering the atmosphere.
+item10972	However, the models’ predictions have disagreed widely, according to the study published in the journal Nature Climate Change.
+item10973	Among the current generation of models, some show ice-free Septembers as early as twenty twenty six, while others suggest the phenomenon will begin as late as two thousand one hundred and thirty two.
+item10974	The study’s lead author, Chad Thackeray, an assistant researcher at UCLA, said one reason predictions about sea ice loss diverge so much is that they differ in how they consider a process called sea ice albedo feedback.
+item10975	The process occurs when a patch of sea ice completely melts, uncovering a seawater surface that is darker and absorbs more sunlight than ice would have.
+item10976	That change in the surface’s reflectivity of sunlight, or albedo, causes greater local warming, which in turn leads to further ice melt, the researchers said.
+item10977	The cycle exacerbates warming - one reason the Arctic is heating up twice as fast as the rest of the globe, they said.
+item10978	Thackeray and co-author Alex Hall, a UCLA professor, noted that sea ice albedo feedback not only happens over long periods of time due to climate change, but also happens every summer when sea ice melts for the season.
+item10979	Satellite observations over the past few decades have tracked that seasonal melt and resulting albedo feedback, they said.
+item10980	Thackeray and Hall assessed twenty three models’ depiction of seasonal ice melt between nineteen eighties and twenty fifteen and compared them with the satellite observations.
+item10981	They retained the six models that best captured the actual historical results and discarded the ones that had proven to be off base, enabling them to narrow the range of predictions for ice-free Septembers in the Arctic.
+item10982	“Arctic sea ice is a key component of the earth system because of its highly reflective nature, which keeps the global climate relatively cool,�? Thackeray said.
+item10983	There are other environmental and economic implications to ice loss as well, the researchers said.
+item10984	Sea ice is critical to the Arctic ecosystem, and to the fishing industry and indigenous peoples who depend on that ecosystem, they said.
+item10985	Gorelal was a famous sculptor. His sculptures looked real ones. One day he saw a dream that after fifteen days, the demon of Death would come to take him. 
+item10986	Gorelal prepared nine statues of himself and when on the 15th day he heard the Demon of Death coming, he took his place between the statues. 
+item10987	The Demon could not recognise him and was astonished to see ten Gorelals instead of one.
+item10988	 He rushed back to the God of death and told the matter. The God of death got annoyed and set out to take Gorelal himself. Gorelal was alert and stood motionless. 
+item10989	The God of Death initially got perplexed. But he thought for a moment. He said, “Gorelal, these sculptures would have been perfect but for one mistake." 
+item10990	Gorelal was unable to suffer the least blemish in his work. He came out and asked, "Where is the fault?" God of Death caught him and said, “HERE". 
+item10991	The statues were faultless but Gorelal was caught because of his pride. MORAL : Pride has A Fall.
+item10992	There lived a little girl Mariam who was very silly and lazy. Often she used to wander hither and thither with no purpose. Once, as she went wandering she felt very thirsty. She went to a pond nearby and quenched her thirst. She felt very tired and drowsy. She slept right there on the banks of the pond.
+item10993	When she woke up it was night already. She peeped into the pond but could not see her reflection. She got a big doubt, “Am I really here or not? Well! Let me ask at my home".
+item10994	She went home and found the door closed. She called out "Is Mariam in there?" A sleepy voice replied, “Oh! She must be in bed". 
+item10995	Mariam thought, “If Mariam is at home, I am not Mariam". Saying this, she went away. 
+item10996	MORAL : Shadows are not realities.

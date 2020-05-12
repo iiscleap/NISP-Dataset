@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3682	This is to be expected, as this happens to be the year before the elections. 
+item3683	As for the industrial sector, we have data for the Index of Industrial Production for the first quarter. 
+item3684	They show substantial improvement over the corresponding period of the previous year. 
+item3685	It is important to remember that the correlation between the IIP and national income data on manufacturing is poor. 
+item3686	Some sectors (automobiles and railway freight traffic) in the first quarter have done well. 
+item3687	The combined revenues and profit of three hundred and seventy large companies have shown better performance in the first quarter, even though they are on a weak base. 
+item3688	The problems of the goods and services tax may have been largely overcome, but it is still a work in progress. A pick-up in the growth rate in the manufacturing sector is likely.
+item3689	Looking at the overall GDP, after several quarters of low growth, there was a strong pick-up in the last quarter of two thousand seventeen-eighteen. 
+item3690	If this momentum is maintained, the growth rate will certainly be above Seven percent.
+item3691	How much higher above Seven percent will depend on a number of factors. International financial institutions have forecast a growth rate of Seven point three percent. 
+item3692	The Reserve Bank of India expects it to be Seven point four percent.
+item3693	However, we need to take note of certain concerns that can come in the way of faster growth.
+item3694	The external environment is far from reassuring. Trade wars have already started and can get worse. 
+item3695	The U.S. has raised duties on several products such as steel and aluminium, and on certain products imported from China. 
+item3696	In turn, China has retaliated. India has also been caught in this exchange. It is difficult to forecast how much worse this will become. 
+item3697	Besides these, there are country-specific sanctions such as those against Iran, which have a direct impact on crude oil output and prices. 
+item3698	India benefited from the fall in crude prices earlier but this position has reversed. There has been some lull in crude prices. 
+item3699	As a net importer, Indias balance of payments can take a beating if crude prices rise again.
+item3700	In this context, we need to ensure that the rupee does not appreciate in real terms. 
+item3701	Despite a current account deficit, Indias rupee had remained strong because of capital flows.
+item3702	With a rising trade deficit and some outflow of capital, the rupee has depreciated. This is not unnatural. 
+item3703	The RBI should act only to ensure that the adjustment is smooth and there are no violent fluctuations. 
+item3704	But what is really important is to make our exports competitive. The exchange rate is only one element. 
+item3705	Improved efficiency in production and better infrastructure are equally important.
+item3706	Maintenance of domestic stability also plays a key role. Over the medium term, we need to search for an alternative fuel.The banking system continues to be a source of concern. 
+item3707	It was known all over London that the Bishops were before the Council. 
+item3708	The public anxiety was intense. A great multitude filled the courts of Whitehall and all the neighbouring streets. 
+item3709	Many people were in the habit of refreshing themselves at the close of a summer day with the cool air of the Thames.But on this evening the whole river was alive with wherries. 
+item3710	When the Seven came forth under a guard, the emotions of the people broke through all restraint. 
+item3711	Thousands fell on their knees and prayed aloud for the men who had, with the Christian, courage of Ridley and Latimer, confronted a tyrant inflamed by all the bigotry of Mary. 
+item3712	Many dashed into the stream, and, up to their waists in ooze and water, cried to the holy fathers to bless them. 
+item3713	All down the river, from Whitehall to London Bridge, the royal barge passed between lines of boats, from which arose a shout of "God bless your Lordships." 
+item3714	The King, in great alarm, gave orders that the garrison of the Tower should be doubled, that the Guards should be held ready for action, 
+item3715	And that two companies should be detached from every regiment in the kingdom, and sent up instantly to London. 
+item3716	But the force on which he relied as the means of coercing the people shared all the feelings of the people. 
+item3717	The very sentinels who were under arms at the Traitors' Gate reverently asked for a blessing from the martyrs whom they were to guard. 
+item3718	Sir Edward Hales was Lieutenant of the Tower. He was little inclined to treat his prisoners with kindness. 
+item3719	For he was an apostate from that Church for which they suffered;and he held several lucrative posts by virtue of that dispensing power against which they had protested. 
+item3720	He learned with indignation that his soldiers were drinking the health of the Bishops.He ordered his officers to see that it was done no more. 
+item3721	But the officers came back with a report that the thing could not be prevented, and that no other health was drunk in the garrison. 
+item3722	Nor was it only by carousing that the troops showed their reverence for the fathers of the Church.

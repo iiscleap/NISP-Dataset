@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item1005	And I'm sure you have your own list
+item1006	And it said traders should be able to deliver actual stocks to settle futures contract obligations stock index futures currently are settled in cash upon expiration
+item1007	And many companies are improving equipment
+item1008	And more than that he is a central figure in the securities industry's insider trading scandal
+item1009	And new hardware ,comma such as the set of personal computers I. B. M. introduced last week ,comma can lead to unexpected changes in the software business .period
+item1010	And Pennzoil Company's net income tumbled seventy one percent largely from a one time charge
+item1011	And the idea of letting employers pre fund post retirement medical expenses is surely better than having government do it
+item1012	And then there's the explanation of why Teradyne’s growth in japan is slow despite fifteen years of effort
+item1013	And we can't tell you when they're going to be there
+item1014	An F. B. I. report concluded that the number of violent crimes reported in the U. S. last year increased five point five percent from nineteen eighty seven
+item1015	An issue of ten million common shares of Bethlehem Steel was priced at nineteen dollars a share through Salomon Brothers incorporated
+item1016	Another factor boosting Japanese stocks ,comma said analysts ,comma was low oil prices .period
+item1017	Another restructuring plan failed to win approval last year .period
+item1018	A number of major U. S. companies ,comma including general motors and international business machines corporation ,comma have pulled out of South Africa in recent months .period
+item1019	A P. B. G. C. spokeswoman declined comment
+item1020	A pilot loan sale program approved last year would provide a virtually risk free test of this approach
+item1021	Arnold c. Greenberg ,comma who resigned as chairman and chief executive ,comma and his brother Leonard together own twenty four point five percent of the company's stock .period
+item1022	A sale of the company as a whole isn't likely for now ,comma analysts said .period
+item1023	A short sale is a sale of borrowed stock by investors expecting its price to drop
+item1024	As of June thirtieth sears had three hundred forty five point eight million shares outstanding
+item1025	As one of the most acquisition hungry of major banks Citicorp is often required by regulators to raise additional capital as a condition of making acquisitions
+item1026	A spokesman for pan American world airways said it was "double-quote premature "double-quote to comment on the crash .period
+item1027	A spokesman for the Washington publishing concern said the twenty two percent increase reflects earnings growth .period
+item1028	A spokesman said the authorization is an update of a continuing stock buy -hyphen back program .period
+item1029	A spokesman said the company expects to more than double its shares outstanding to about nineteen point two million from eight point two million as a result of the offering
+item1030	Before they reached the village, more than one stump in the hedge concealed its little hoard of hidden treasure. 
+item1031	Yet they reached the village with about twelve hundred guineas in their pockets. 
+item1032	But in spite of this inside wealth they looked quite ordinary outside, 
+item1033	And no one would have thought they could have more than a half-crown each at the outside. 
+item1034	The haze of heat, the blue of the wood smoke, made a sort of dim misty cloud over the red roofs of the village. 
+item1035	The four sat down heavily on the first bench they came to- It happened to be outside the Blue Boar Inn.
+item1036	It was decided that Cyril should go into the Blue Boar and ask for ginger-beer, because, as Anthea said,
+item1037	'It is not wrong for men to go into public houses, only for children. 
+item1038	And Cyril is nearer to being a man than us, because he is the eldest.' 
+item1039	So he went. The others sat in the sun and waited.
+item1040	'Oh, hats, how hot it is!' said Robert. 
+item1041	'Dogs put their tongues out when they are hot; 
+item1042	I wonder if it would cool us at all to put out ours?'
+item1043	'We might try,'Jane said; and they all put their tongues out as far as ever they could go,
+item1044	So that it quite stretched their throats, but it only seemed to make them thirstier than ever, besides annoying everyone who went by.

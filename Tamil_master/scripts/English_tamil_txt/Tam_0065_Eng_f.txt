@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9571	About a hundred years after the black hole made its way into physics through Albert Einstein’s general theory of relativity, soon after the LIGO collaboration first directly observed the gravitational waves made by the merging of two black holes, the ‘dark star’ had finally been imaged.
+item9572	The Higgs boson was detected fifty years after it had been postulated, and gravitational waves were observed a century after Einstein predicted them.
+item9573	Visual proof of the existence of black holes comes a century after they appeared in scientific literature.
+item9574	In a collaborative effort, eight telescopes around the world were used for the experiment.
+item9575	The challenges included making each observe the same broad range of wavelengths around one mm and having precise atomic clocks at each location, so the data could be combined.
+item9576	A black hole marks the end of spacetime as commonly understood, and nothing that enters it can escape from the tremendous gravitational attraction.
+item9577	However, this is no real danger, as black holes are located at distances that humans do not have the power to scale.
+item9578	The EHT set out to image two candidate supermassive black holes — Sagittarius A*, which is twenty six thousand light years from the earth, at the centre of the Milky Way, and another which is fifty five million light years away at the centre of the Messier eighty seven galaxy in the Virgo galaxy cluster.
+item9579	But the first image was of the more distant one.
+item9580	The very long baseline interferometry technique linked radio dishes of telescopes across the world to produce a virtual telescope the size of the earth.
+item9581	This was needed to obtain the high resolution required for this measurement.
+item9582	Combining data from telescopes, each with different characteristics, was a separate challenge.
+item9583	Cutting-edge developments from computer science related to image recognition were used.
+item9584	As Katie Bouman, Assistant Professor at the California Institute of Technology, who led the efforts to develop an algorithm to put the data together and create the image, said in a TEDx talk, projects such as the EHT succeed owing to interdisciplinary expertise that people bring to the table.
+item9585	This experiment endorses the diversity of collaboration just as much as it does unrelenting patience and good faith in the power of science and reason.
+item9586	A forecast of a below average monsoon in twenty nineteen, after last year’s erratic rainfall that flooded Kerala and crippled agriculture in eastern and western States, is a cause for worry.
+item9587	If the assessment from one agency, Skymet, is any indication, there is a prospect of an El Niño, often associated with drought conditions, taking hold.
+item9588	This must, of course, be considered along with other factors that seem to weaken the El Niño link, such as a dipole weather phenomenon in the Indian Ocean.
+item9589	Should the monsoon, which normally sets in between June one and July fifteen across the country, turn out to be deficient, it will add to the pressures on rural employment and the economy as a whole.
+item9590	Things may become clearer when the India Meteorological Department also issues its forecast, although error margins and the erratic nature of rainfall in different regions render the exercise fraught with uncertainty.
+item9591	Last year, for instance, the realisation of rainfall was ninety one percent of the long-term average, while the prediction was for ninety seven percent.
+item9592	More immediately, India will go to the polls in the peak of summer after an intensive campaign.
+item9593	It is the responsibility of State administrations to prepare for the likelihood of a heat spike, particularly during April and May, to prevent loss of life and extreme distress to communities.
+item9594	Official agencies and NGOs should start adopting the drill on this, using the template drawn up by the National Disaster Management Authority.
+item9595	The key elements of protection in a heat wave are avoiding exposure during the hottest part of the day around noon, especially in the case of senior citizens, staying adequately hydrated, wearing suitable clothing including headgear, and creating shade in public places.
+item9596	Stay Away from Toxic People
+item9597	Steer clear of toxic people and nay-sayers. Identify the ones who are toxic and un-supportive. 
+item9598	Avoid them like the plaque. They suck all the life and goodness out of you slowing productivity and self worth. 
+item9599	Nothing is more demotivating.
+item9600	Be Realistic
+item9601	Success takes time! It is a marathon, not a sprint. Set small achievable goals leading to a long-term goal. 
+item9602	Do not overestimate time. It will take longer than you expect and the road will be bumpy.
+item9603	Stop Dwelling on the Past
+item9604	We all make mistakes and what we “should’ve done…�?
+item9605	Do not focus on that, but focus on how you have learned from past experiences. 
+item9606	I always say never make the same mistake twice. 
+item9607	Learning from your mistakes and failures makes for a strong businessperson.

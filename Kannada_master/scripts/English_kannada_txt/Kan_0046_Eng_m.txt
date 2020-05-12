@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4207	The right to privacy judgment, which had six separate opinions that converge into a unanimous decision, noted in the words of Justice Chandrachud and Justice Kaul.
+item4208	That the Union government had tasked a committee headed by Justice B.N. Srikrishna to formulate such a law in July last year. 
+item4209	This committee has produced a set of recommendations that run into two hundred and thirteen pages, and a draft law titled the The Personal Data Protection Bill, two thousand eighteen running into one hundred and twelve sections. 
+item4210	Despite being formed within the ambit of, and even being bound by, the Right to Privacy judgment.
+item4211	The recommendations do not only undermine the legal principles within it but also re-interpret them.
+item4212	While this claim may seem provocative, it is based on a reading of the privacy judgment.
+item4213	First, it expressly stated the primacy of the individual as the beneficiary of fundamental rights. 
+item4214	Second, it rejected the argument that the right to privacy dissolves in the face of amorphous collective notions of economic development. 
+item4215	The priorities of the Srikrishna committee stray from these two basic points. 
+item4216	Its report, titled A Free and Fair Digital Economy: Protecting Privacy, Empowering Indians, keeps to the apparent pecking order that its title signals.
+item4217	The common good and the economy come first and individuals second. 
+item4218	In justifying this framework, the report runs into tremendous difficulties as it attempts to put together a regulatory agenda.
+item4219	That reconciles the expansion of the digital economy and state control with the principles of the right to privacy judgment.
+item4220	These difficulties reveal themselves in a misunderstanding of the fundamentals of constitutional law. 
+item4221	These are made all the more difficult to follow by the heavy use of jargon and a reliance on foreign and academic authorities, which are often cited without proper context. 
+item4222	The trouble begins with the reports conception of the state. The states purpose under the Constitution, says the report, is based on two planks. 
+item4223	First and foremost, the state is a facilitator of human progress and is commanded by the Directive Principles of State Policy to serve the common good. 
+item4224	Here, Fundamental Rights, which help protect against a state prone to excess, come second. 
+item4225	This ignores the very structure of the Constitution in which the chapter guaranteeing enforceable Fundamental Rights stands on its own.
+item4226	Preceding the one setting out unenforceable Directive Principles of State Policy.
+item4227	In doing the so, the report attempts to open the right to privacy to allow the state the most convenient means by which to realise its regulatory agenda. 
+item4228	Enabling the governments convenience is not an objective laid out by the right to privacy judgment. 
+item4229	Constitutional guarantees of rights do not automatically bend even to the pursuit of constitutionally legitimate aims. 
+item4230	Instead, a rigorous three-part test set out in the right to privacy judgment makes clear that it is for the government.
+item4231	To measure and justify its actions at every point that it seeks to make inroads into our privacy.T
+item4232	But it was too late. James was already in London. He had hesitated about the journey, and had, at one time, determined to make another attempt to reach the Continent. 
+item4233	But at length he yielded to the urgency of friends who were wiser than himself, and set out for Whitehall. 
+item4234	He arrived there on the afternoon of Sunday, the sixteenth of December. 
+item4235	He had been apprehensive that the common people, who, during his absence, had given so many proofs of their aversion to Popery, would offer him some affront. 
+item4236	But the very violence of the recent outbreak had produced a remission. The storm had spent itself. Good humour and pity had succeeded to fury. 
+item4237	In no quarter was any disposition shown to insult the King. Some cheers were raised as his coach passed through the City. 
+item4238	The bells of some churches were rung; and a few bonfires were lighted in honour of his return. 
+item4239	His feeble mind, which had just before been sunk in despondency, was extravagantly elated by these unexpected signs of popular goodwill and compassion. 
+item4240	He entered his dwelling in high spirits. It speedily resumed its old aspect. Roman Catholic priests, who had, during the preceding week, 
+item4241	Been glad to hide themselves from the rage of the multitude in vaults and cocklofts, now came forth from their lurking places, and demanded possession of their old apartments in the palace. 
+item4242	Grace was said at the royal table by a Jesuit. The Irish brogue, then the most hateful of all sounds to English ears, was heard everywhere in the courts and galleries. 
+item4243	The King himself had resumed all his old haughtiness. He held a Council, his last Council, and, even in that extremity, summoned to the board persons not legally qualified to sit there. 
+item4244	He expressed high displeasure at the conduct of those Lords who, during his absence, had dared to take the administration on themselves. 
+item4245	It was their duty, he conceived, to let society be dissolved, to let the houses of Ambassadors be pulled down, to let London be set on fire, rather than assume the functions which he had thought fit to abandon. 
+item4246	Among those whom he thus censured were some nobles and prelates who, in spite of all his errors, had been constantly true to him, 
+item4247	And who, even after this provocation, never could be induced by hope or fear to transfer their allegiance from him to any other sovereign.

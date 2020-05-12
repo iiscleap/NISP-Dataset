@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4125	For more than one hundred million eligible voters in Pakistan, the responsibility of upholding democracy hangs heavy. 
+item4126	They have braved election rallies as terror groups killed dozens of leaders and supporters indiscriminately. 
+item4127	Even as the month-long campaign came to a close, a candidate of the Pakistan Tehreek-e-Insaf was killed in Dera Ismail Khan in a suicide bombing.
+item4128	Earlier this month, over one hundred and fourty fivepeople were killed at a rally in one single attack in Balochistan.
+item4129	While a suicide bomb attack in Peshawar killed the popular leader of the Awami National Party, Haroon Bilour. 
+item4130	The choice before voters has also narrowed: former Prime Minister Nawaz Sharif and several others have been disqualified from the election process on corruption charges.
+item4131	A move that is seen not so much as the outcome of the natural process of justice but of the growing civil-military divide. 
+item4132	Polls put PTI chief and former cricketer Imran Khan slightly ahead of Mr. Sharifs successor at the helm of the Pakistan Muslim League.
+item4133	His brother Shahbaz Sharif but Mr. Khan also faces an embarrassing controversy on account of his former wifes tell-all book that portrays him as unstable and dissolute. 
+item4134	There were some worries that even the third contender, Pakistan Peoples Party co-chairman Bilawal Bhutto and his father.
+item4135	Former President Asif Ali Zardari, could be disqualified over electoral misdemeanours. 
+item4136	The mood ahead of the elections has been further vitiated by the rise of extremist and sectarian parties, including one led by twenty six by eleven Mumbai attacks mastermind Hafiz Saeed. 
+item4137	These groups may ultimately not fare well in terms of seats, but they have spread pro-jihadi, anti-minority poison through Pakistans polity that no political party has dared to contest.
+item4138	The daunting task for the voter is to elect federal and provincial governments that will deal with the big challenges ahead.
+item4139	To steady an economy being crushed by debt to China and by UN financial strictures, to battle growing divides in society and the overwhelming influence of terror groups. 
+item4140	To re-establish disrupted ties with neighbours, and to stave off the increasing military influence in the small space that the civilian leadership had been able to establish for itself.
+item4141	It is doubtful that Pakistan has a candidate or party that can hope to do any, let alone all of the above. 
+item4142	The voter must also make her choice under unusual restrictions on the media. 
+item4143	Yet, the one reason to celebrate these elections is that they are happening at all.
+item4144	Marking only the second civilian-to-civilian electoral transfer in Pakistans history.
+item4145	Reports of traces of the chemical formaldehyde in fish in several States highlight both the uncertainties of science, and the importance of clear risk-communication. 
+item4146	In June, the Kerala government found formaldehyde-laced fish being transported into the State. 
+item4147	Soon after, The Hindu carried out a joint investigation with the Tamil Nadu Dr. J. Jayalalithaa Fisheries University to look for formaldehyde in Chennai. 
+item4148	The study revealed around five to twenty ppm of the chemical in freshwater and marine fish in two of the citys markets. Next, Goa reported similar findings. 
+item4149	But its Food and Drugs Administration later said the levels in Goan samples were on a par with naturally occurring formaldehyde in marine fish. 
+item4150	At London William was impatiently expected: for it was not doubted that his vigour and ability would speedily restore order and security. 
+item4151	There was however some delay for which the Prince cannot justly be blamed. 
+item4152	His original intention had been to proceed from Hungerford to Oxford, where he was assured of an honourable and affectionate reception: 
+item4153	But the arrival of the deputation from Guildhall induced him to change his intention and to hasten directly towards the capital. 
+item4154	On the way he learned that Feversham, in pursuance of the King's orders, had dismissed the royal army, and that thousands of soldiers, 
+item4155	Freed from restraint and destitute of necessaries, were scattered over the counties through which the road to London lay. 
+item4156	It was therefore impossible for William to proceed slenderly attended without great danger, not only to his own person, about which he was not much in the habit of being solicitous,
+item4157	But also to the great interests which were under his care. 
+item4158	It was necessary that he should regulate his own movements by the movements of his troops; 
+item4159	And troops could then move but slowly over the highways of England in midwinter. 
+item4160	He was, on this occasion, a little moved from his ordinary composure. "I am not to be thus dealt with," he exclaimed with bitterness; "
+item4161	And that my Lord Feversham shall find." Prompt and judicious measures were taken to remedy the evils which James had caused. 
+item4162	Churchill and Grafton were entrusted with the task of reassembling the dispersed army and bringing it into order. 
+item4163	The English soldiers were invited to resume their military character. 
+item4164	The Irish were commanded to deliver up their arms on pain of being treated as banditti, but were assured that, if they would submit quietly, they should be supplied with necessaries.

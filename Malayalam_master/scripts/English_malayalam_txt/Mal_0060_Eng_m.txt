@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item11031	Getting a good night's sleep has big health benefits.
+item11032	But it may not be easy for many, and to help them, the bedding industry has come up with many products, from feather pillows to memory foam mattresses to help people along. 
+item11033	Added recently to this list is the weighted blanket.
+item11034	While it may look like a normal quilt, it is filled with glass beads or plastic pellets instead of light-weight feathers or the slightly heavier cotton. 
+item11035	The weight from the blanket creates an even pressure on the body. 
+item11036	"The blanket is soft and gives the user a snug feeling. The weight of the blanket is decided according to the weight and comfort of the user. 
+item11037	Typically, a person weighing sixty kilograms can use a five-kilogram blanket," says Dr MS Kanwar, Senior Consultant, Respiratory and Critical Care, and Founder, Apollo Sleep Disorder Institute, Indraprastha Apollo Hospital, New Delhi.
+item11038	"Positive Effects of a Weighted Blanket on Insomnia", a study published in the Journal of Sleep Medicine and Disorders done on thrity one people found that, "When the participants used the weighted blanket, they had a calmer night's sleep, with a decrease in movements. 
+item11039	Subjectively, they believed that using the blanket provided them with a more comfortable, better quality, and more secure, sleep."
+item11040	Another study, "Exploring the Safety and Therapeutic Effects of Deep Pressure Stimulation Using a Weighted Blanket" published in Occupational Therapy in Mental Health done on thrity two people shows a drop in anxiety for sixty three pecent of them, and seventy eight pecent preferred the weighted blanket as a calming modality.
+item11041	While anyone can use them, it is especially useful for those who suffer from anxiety. 
+item11042	"I have tried it on my patients with insomnia and got mixed results. 
+item11043	While some were comfortable and got better sleep using it, others found it inconvenient due to the restriction in movement caused due to the weight. 
+item11044	But my patients who suffered from anxiety showed a positive response to it. 
+item11045	Even then, it is not clear if it is the effect of the blanket, as these patients were also on medication," says Dr Kanwar.
+item11046	In India, "It is catching on, but I don't think it will ever become a standardised treatment." 
+item11047	The most important thing is still sticking to a sleep routine. 
+item11048	"Try to sleep and wake up at a particular time every day. 
+item11049	Have a light dinner at least two hours before you sleep. Avoid electronic screens half an hour before sleep and remember to exercise for at least fourty five minutes every day. 
+item11050	A glass of warm milk can also induce sleep," he says. In addition, if a weighted blanket helps, there's no evidence to say you should avoid it.
+item11051	A cat and a fox were once discussing about hounds.
+item11052	The cat said, "I hate hounds. They are very nasty animals. They hunt and kill us".
+item11053	The fox said, "I hate hounds more than you"... The cat asked, "How do you save yourself from hounds?"
+item11054	The fox replied, "There are many tricks to get away from hounds".
+item11055	The cat asked "Can you say what your tricks are?"
+item11056	"They are very simple", said the fox. He added, "I can hide behind thick bushes. I can run along thorny hedges. I can hide in burrows. There are many more such tricks".
+item11057	Now it was the turn of the fox to ask the cat about her tricks.
+item11058	The fox asked, "How many tricks do you know?" The cat replied, "I know just one trick".
+item11059	The Fox sneered, "Oh! How sad! You know only one trick? What is your trick?"
+item11060	The cat was about to answer. But, she found a flock of hounds fast approach. She said, "I am going to do it now. Because the hounds are coming".
+item11061	Saying these words, the cat ran up a nearby tree safe from the hounds. The fox tried all his tricks but the hounds out beat him. "My one trick is better than all his tricks", said the cat to herself.
+item11062	MORAL : It is better to be a master of one art than to be a jack of many arts.

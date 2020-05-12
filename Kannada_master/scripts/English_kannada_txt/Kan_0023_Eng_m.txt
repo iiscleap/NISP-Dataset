@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3238	By Global Communication Holdings Service, a Mauritius-based subsidiary of Maxis, a Malaysian conglomerate, in violation of norms.
+item3239	Mr. Chidambaram is accused of cheating and bribery, and having exceeded his authority by clearing investments amounting to three thousand two hundred crore, whereas any investment above six hundred crore needed the clearance of the Cabinet Committee on Economic Affairs. 
+item3240	For a case that essentially turns on documentary evidence, the CBI has taken unusually long to come to this conclusion.
+item3241	Mr. Chidambarams statement on the FIPB approval was recorded in December two thousand fourteen, and since then his son has been under the scanner. 
+item3242	The filing of a charge sheet against Mr. Chidambaram ends the uncertainty about the agencys intentions. 
+item3243	The Congress leader had said he was the real target though it was his son and those associated with him who were subjected to repeated searches and questioning.
+item3244	The two cases are vastly different, but given that the main case against former Union Communications Minister Dayanidhi Maran relating to the Aircel-Maxis investment 
+item3245	Was thrown out at the pre-trial stage by the Special Court, the CBI has a greater burden of proof to discharge. 
+item3246	Mr. Chidambaram has maintained there was nothing amiss about the FIPB approval, which was given only after being processed at various levels. 
+item3247	It may not be enough for the agency to prove that the Aircel-Maxis investment supposedly worth Rupees Two Hundreds crore 
+item3248	Actually had a value of Rupees Three thousands crore if the premium attached to it was taken into account. 
+item3249	It also has to establish a clear link between the FIPB approval and some payments received by companies said to be controlled by Mr. Karti. 
+item3250	Special Judge O.P. Saini, before whom the charge sheet has been filed, has a record of not accepting theories of quid pro quo behind government decisions without sufficient evidence. 
+item3251	Both in the main two G spectrum case, in which former Minister A. Raja and others were acquitted, and in the Aircel-Maxis case related to Mr. Maran, 
+item3252	The judge had rejected prosecution claims seeking to link some transactions with the decisions of the ministers concerned. 
+item3253	The case against Mr. Chidambaram will be a test for the CBI not only on merits, but also in disproving the allegations of political vendetta.
+item3254	The ground has shifted since they agreed to merge, and Vodafone Idea has its task cut out.
+item3255	A week is a long time in politics. In business, especially one as rapidly evolving as mobile telecommunications, a year can be an eternity. 
+item3256	So for the Vodafone Groups Indian unit and Idea Cellular Ltd., which had in March two thousand seventeen announced an agreement to merge, 
+item3257	Last weeks approval of the proposed union by the Department of Telecommunications came not a day too soon. 
+item3258	The changes in the industry landscape over the intervening sixteen months have been dramatic.
+item3259	The market has contracted marginally in terms of overall subscriber numbers from one point one seven billion on March thirty one, two thousand seventeen, to one point one three billion at the end of May this year. 
+item3260	But the number of competing service providers is set to shrink from double digits to just three privately run large rivals plus state-owned BSNL and MTNL. 
+item3261	This consolidation, from the wave of mergers and acquisitions over the last couple of years, was the gain the companies left standing were hoping for. 
+item3262	From more wholesome slices of the customer pie to more bang for the buck in a highly capital-intensive business, the merged entities including Vodafone Idea Ltd. 
+item3263	It was his duty to do so; and his duty was not the less strenuously performed because it coincided with his interest. 
+item3264	The King went on for a time sinning and repenting. In his hours of remorse his penances were severe. 
+item3265	Mary treasured up to the end of her life, and at her death bequeathed to the convent of Chaillot, 
+item3266	The scourge with which he had vigorously avenged her wrongs upon his own shoulders. 
+item3267	Nothing but Catharine's absence could put an end to this struggle between an ignoble love and an ignoble superstition. 
+item3268	James wrote, imploring and commanding her to depart. 
+item3269	He owned that he had promised to bid her farewell in person. 
+item3270	"But I know too well," he added, "the power which you have over me. I have not strength of mind enough to keep my resolution if I see you." 
+item3271	He offered her a yacht to convey her with all dignity and comfort to Flanders, and threatened that if she did not go quietly she should be sent away by force. 
+item3272	She at one time worked on his feelings by pretending to be ill. 
+item3273	Then she assumed the airs of a martyr, and impudently proclaimed herself a sufferer for the Protestant religion. 
+item3274	Then again she adopted the style of John Hampden. She defied the King to remove her. 
+item3275	She would try the right with him. While the Great Charter and the Habeas Corpus Act were the law of the land, she would live where she pleased. 
+item3276	"And Flanders," she cried; "never, I have learned one thing from my friend the Duchess of Mazarin; and that is never to trust myself in a country where there are convents." 
+item3277	At length she selected Ireland as the place of her exile, probably because the brother of her patron Rochester was viceroy there. 
+item3278	After many delays she departed, leaving the victory to the Queen.

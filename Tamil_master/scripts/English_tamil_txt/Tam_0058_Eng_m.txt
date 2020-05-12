@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item10055	Whether she will take her mother’s place in Rae Bareli is not clear as yet, but this is a suggestion that there could be a long-term role.
+item10056	In many ways, the nomination is an admission of the party’s over-reliance on the family, but to the credit of Mr.Gandhi, he has been engaging in wider consultations within the party on important decisions.
+item10057	The Congress is still a centralised party, and Mr.Gandhi is routinely authorised to take the final call on all matters big and small; but, equally, he has also shown the ability to step back in a spirit of accommodation in dealings with allied parties.
+item10058	That he did not declare himself as a prime ministerial candidate of the Opposition was born of tactical necessity; even so, he has shown a fair amount of maturity in dealing with a wide array of allies.
+item10059	During the Manmohan Singh years, the Congress was able to counter, to an extent at least, the perception that it revolved around the dynasty.
+item10060	And the BJP may not find much political purchase in linking Ms.Vadra’s appointment to dynastic politics; there will be no surprise, however, if it starts harping on her husband’s allegedly murky land dealings, which had cropped up during the twenty fourteen election campaign.
+item10061	What should engage the Congress is not what the BJP may say about Ms.Vadra, but what she can say and do for it.
+item10062	The party needs much more than a star campaigner; it needs leaders that can revitalise the organisation by presenting it as an alternative to the BJP.
+item10063	For that, it will have to come up with a truly inclusive, egalitarian vision that privileges all-round development above all else.
+item10064	The latest assessment of how children are faring in schools in rural areas indicates there has been no dramatic improvement in learning outcomes.
+item10065	The picture that emerges from the Annual Status of Education Report, Rural (twenty eighteen) is one of a moribund system of early schooling in many States, with no remarkable progress from the base year of two thousand eight.
+item10066	Except for a small section at the top of the class, the majority of students have obviously been let down.
+item10067	The survey for twenty eighteen had a reach of five lakh students in five ninety six rural districts.
+item10068	It should put administrators on alert that while fifty three percent of students in Class five in rural government schools could in two thousand eight read a text meant for Class two , the corresponding figure for twenty eighteen stood at fourty four percent; for comparison, private schools scored sixty seven percent and sixty five percent for the same test in those years.
+item10069	Arithmetic ability showed a similar trend of under-performance, although there has been a slight uptick since twenty sixteen: an improvement of about one percentage points in government schools and two percentage points in private institutions, among Class five students.
+item10070	Himachal Pradesh, Punjab, Kerala and Haryana did better on the arithmetic question with over fifty percent students clearing it, compared to Uttar Pradesh, Madhya Pradesh, Rajasthan and even Karnataka, which scored below twenty percent.
+item10071	A significant percentage of students were not even able to recognise letters appropriate for their class, highlighting a severe barrier to learning.
+item10072	Now that the ASER measure is available for ten years, the Centre should institute a review mechanism involving all States for both government and private institutions, covering elementary education and middle school.
+item10073	A public consultation on activity-based learning outcomes, deficits in early childhood education, and innovations in better performing States can help.
+item10074	At present, children start learning in a variety of environments: from poorly equipped anganwadi centres to private nurseries.
+item10075	The enactment of the Right to Education Act was followed by a welcome rise in enrolment, which now touches ninety six percent as per ASER data.
+item10076	Empowering as it is, the law needs a supportive framework to cater to learners from different backgrounds who often cannot rely on parental support or coaching.
+item10077	There is concern that curricular expectations on literacy and numeracy have become too ambitious, requiring reform.
+item10078	It is worth looking at innovation in schools and incentivising good outcomes; one study in Andhra Pradesh indicated that bonus pay offered to teachers led to better student scores in an independently administered test in mathematics and language.
+item10079	The solutions may lie in multiple approaches.
+item10080	Friends can inspire you
+item10081	Having someone around who is genuinely interested in what you’re doing is quite amazing.
+item10082	Your friends should cheer for you and be invested in your life (naturally, this type of engagement goes both ways). 
+item10083	It’s important that they’re like this, because the opinion of your friends will matter to you.
+item10084	Every time they make an effort to take an interest in your life, it gives you an extra boost of support. 
+item10085	Friends can inspire you to work harder towards achieving your goal, or make sure that you’re sticking to your resolutions.
+item10086	If your friends aren’t doing any of that, they’re not real friends. 
+item10087	They simply don’t care about your path and don’t want to be part of your journey towards success.

@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3965	Detaining already disadvantaged children can only break it further, and render the RTE Act a dead letter.
+item3966	The case to replace the no-detention provision with one that reintroduces examinations in grades third, fifth and eighth was made by a sub-committee of the Central Advisory Board of Education.
+item3967	For one, it concluded that the crucial guarantee could be implemented only under ideal conditions, 
+item3968	And these were not available, while the pioneering RTE Act wanted to extend it to all grades within its purview. 
+item3969	Yet, the provision is central to the objects of the law, since it seeks to check dropouts and enable all children to attend school in order to derive benefits that go beyond rote-learning.
+item3970	In fact, in two thousand sixteen the NITI Aayog found, based on a study in Punjab, that bringing back detention in elementary schooling would increase the dropout rate.
+item3971	Impacting the poor and Dalits the most as they depended on government institutions. 
+item3972	Besides, the proposed cure may make another problem worse: when parents are unable to ensure regular attendance of children due to social circumstances, 
+item3973	It is inconceivable that detaining them for non-performance will act as an incentive to attend school regularly. 
+item3974	The move to introduce examinations as filters has not been fully thought through.
+item3975	And may be a hasty response to demands from State governments which want to be seen as acting firmly in favour of quality. 
+item3976	Tinkering with the RTE Act without sufficient thought will erode a major constitutional achievement.
+item3977	When the Congresss newly reconstituted Working Committee, which met for the first time on July twenty second.
+item3978	They announced its intent to pitch Rahul Gandhi as the Oppositions prime ministerial face.
+item3979	It got a reality check from one of its most steadfast allies, the Rashtriya Janata Dal . 
+item3980	The RJD scion, Tejashwi Yadav, declared that Opposition parties will decide on this collectively.
+item3981	Shortly after Mr. Yadavs statement, the Congress too clarified that it was not averse to anyone else becoming Prime Minister.
+item3982	This marks a significant shift, with implications for Opposition unity.
+item3983	There are two streams of opinion on Opposition unity: the optimists and the sceptics. 
+item3984	The optimists believe that given the imminent danger of India becoming a Hindu Rashtra where the space for democratic politics would be all but extinguished.
+item3985	Opposition unity is inevitable because it is a matter of political survival for every party that is not the BJP.
+item3986	The sceptics, however, are convinced that attempts at Opposition unity are doomed to collapse under the weight of political contradictions and colliding ambitions. 
+item3987	Whats more, the weakest link of any such anti-BJP front, they point out, would be the Congress itself.
+item3988	Which has so far failed to offer a meaningful alternative to the ideological challenge posed by the BJP.
+item3989	The sceptics have a point. Opposition unity as an electoral tactic may work up to a point. 
+item3990	The navy and army were therefore far more than sufficient to repel a Dutch invasion. 
+item3991	But could the navy, could the army, be trusted? Would not the trainbands flock by thousands to the standard of the deliverer? 
+item3992	The party which had, a few years before, drawn the sword for Monmouth would undoubtedly be eager to welcome the Prince of Orange. 
+item3993	And what had become of the party which had, during seven and forty years, been the bulwark of monarchy? 
+item3994	Where were now those gallant gentlemen who had ever been ready to shed their blood for the crown? 
+item3995	Outraged and insulted, driven from the bench of justice and deprived of all military command, they saw the peril of their ungrateful Sovereign with undisguised delight. 
+item3996	Where were those priests and prelates who had, from ten thousand pulpits, proclaimed the duty of obeying the anointed delegate of God? 
+item3997	Some of them had been imprisoned: some had been plundered: all had been placed under the iron rule of the High Commission, 
+item3998	And had been in hourly fear lest some new freak of tyranny should deprive them of their freeholds and leave them without a morsel of bread. 
+item3999	That Churchmen would even now so completely forget the doctrine which had been their peculiar boast as to join in active resistance seemed incredible. 
+item4000	But could their oppressor expect to find among them the spirit which in the preceding generation had triumphed over the armies of Essex and Waller, 
+item4001	And had yielded only after a desperate struggle to the genius and vigour of Cromwell? 
+item4002	The tyrant was overcome by fear. He ceased to repeat that concession had always ruined princes, and sullenly owned that he must stoop to court the Tories once more. 
+item4003	There is reason to believe that Halifax was, at this time, invited to return to office, and that he was not unwilling to do so. 
+item4004	The part of mediator between the throne and the nation was, of all parts, that for which he was best qualified, and of which he was most ambitious.

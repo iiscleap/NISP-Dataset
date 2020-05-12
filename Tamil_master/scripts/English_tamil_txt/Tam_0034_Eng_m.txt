@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9211	The April GST numbers have come as a surprise to many experts, given the lacklustre economic activity witnessed across many sectors in recent months, which should normally have impacted tax collections adversely.
+item9212	This perplexing trend may be attributed to increasing compliance among businesses amidst the aggressive push by the tax authorities to widen the tax base.
+item9213	GST filings, for instance, were the highest in March this year.
+item9214	However, the April surge has occurred despite a decrease in the total number of GSTR- three B returns filed by businesses, from seventy five lakh in March to seventy two lakh in April.
+item9215	In the absence of more disaggregated data, it could be argued that tax rate cuts by the GST Council in December too may have spurred higher volumes for some goods and services.
+item9216	The rush to pay tax arrears at the end of the financial year may have been another seasonal factor contributing to better tax collection during the last month.
+item9217	Enforcement action by the taxman to collect more revenue from registered taxpayers who have not been filing returns could be yet another factor.
+item9218	It is still too early to assume that this is the beginning of a secular trend.
+item9219	One must not lose sight of the need for further simplification of the GST regime once the election season is over.
+item9220	A significant number of businesses have already been brought into the tax net since the advent of the GST.
+item9221	In order to encourage greater compliance, there must be efforts to make it easier for small firms to remain in the tax net by cutting down the time and energy required to fill myriad tax returns.
+item9222	A nudge would be preferable to the stick.
+item9223	Masood Azhar's listing as a designated terrorist by the UN Security Council at long last closes an important chapter in India's quest to bring the Jaish-e-Mohammad chief to justice.
+item9224	He eluded the designation for twenty years, despite his release in nineteen ninety nine in exchange for hostages after the IC-eight one four hijack, and his leadership of the JeM as it carried out dozens of deadly attacks in India, including the Parliament attack of two thousand two one , and more recent ones like the Pathankot airbase attack in twenty sixteen and the Pulwama police convoy bombing this year.
+item9225	China's opposition to the listing has long been a thorn in India's side, given the toll Azhar and the JeM have exacted, and Beijing's veto of the listing three times between two thousand nine and twenty seventeen had driven a wedge in India-China relations.
+item9226	Despite the frustration over China's last hold on a proposal moved by the U.S., the U.K., and France just weeks after Pulwama, the government has done well to approach Beijing with what the Ministry of External Affairs called patience and persistence?.
+item9227	There is much disappointment, however, over the final listing released by the Security Council, with no mention of Mr.Azhar's role in any of the attacks against India, or directing the insurgency in Jammu and Kashmir.
+item9228	A specific reference to Pulwama, which was in the original proposal, was also dropped, presumably to effect China's change of mind on the issue.
+item9229	Pakistan's claims of a victory in this are hardly credible; Masood Azhar is one of about twenty twelve sixty seven-sanctioned terrorists who have Pakistani nationality, and more are based there, which is hardly a situation that gives it cause for pride.
+item9230	It is necessary to recognise that India's efforts and those of its partners in the Security Council have been rewarded with a UNSC designation at its twelve sixty seven ISIL and Al-Qaeda Sanctions Committee.
+item9231	The focus must now move to ensuring its full implementation in Pakistan.
+item9232	But this is easier said than done.
+item9233	Pakistan's actions against others on the twelve sixty seven list have been far from effective, and in many cases obstructionist.
+item9234	Hafiz Saeed, the twenty six/eleven mastermind and Lashkar-e-Toiba chief, roams free, addresses rallies, and runs a political party and several NGOs without any government restrictions.
+item9235	LeT's operations commander Zaki Ur Rahman Lakhvi was granted bail some years ago despite the UNSC sanctions mandating that funds and assets to the sanctioned individuals must be frozen.
+item9236	In ancient times, a King had a boulder placed on a roadway. 
+item9237	He then hid himself and watched to see if anyone would move the boulder out of the way. 
+item9238	Some of the king's wealthiest merchants and courtiers came by and simply walked around it.
+item9239	Many people loudly blamed the King for not keeping the roads clear, but none of them did anything about getting the stone out of the way.
+item9240	A peasant then came along carrying a load of vegetables. 
+item9241	Upon approaching the boulder, the peasant laid down his burden and tried to push the stone out of the road. After much pushing and straining, he finally succeeded.
+item9242	After the peasant went back to pick up his vegetables, he noticed a purse lying in the road where the boulder had been.
+item9243	The purse contained many gold coins and a note from the King explaining that the gold was for the person who removed the boulder from the roadway.
+item9244	Moral of the story: Every obstacle we come across in life gives us an opportunity to improve our circumstances, and whilst the lazy complain, the others are creating opportunities through their kind hearts, generosity, and willingness to get things done.

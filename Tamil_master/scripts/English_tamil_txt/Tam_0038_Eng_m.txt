@@ -1,0 +1,48 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9353	It is reassuring that there will be no parallel inquiries into the two sets of allegations that have rocked the Supreme Court.
+item9354	Justice (retired) A.K.
+item9355	Patnaik, who has been tasked with probing an alleged conspiracy against the Chief Justice of India, has made the right decision by choosing to wait for the end of the in-house inquiry into a former woman employee’s complaint of sexual harassment by the CJI and subsequent victimisation, before starting his work.
+item9356	The court constituted two inquiries to deal with the situation following the complaint against the CJI.
+item9357	A three-judge Bench, passing orders on a matter concerning the independence of the judiciary, appointed Justice Patnaik to investigate the affidavits filed by Utsav Singh Bains, an advocate, who has alleged a larger conspiracy against the CJI involving disgruntled court employees and other ‘fixers’.
+item9358	On the administrative side, an in-house committee headed by Justice S.A.
+item9359	Bobde will look into the complaint of the dismissed woman court assistant.
+item9360	The Bench emphasised that the probe into the alleged plot would not impinge on the harassment complaint.
+item9361	However, it was obvious that it would not be possible for such parallel proceedings to be independent of each other.
+item9362	Mr.Bains has alleged he was offered up to rupees one crore by someone to file a false complaint against the CJI.
+item9363	It would have been well nigh impossible to verify the claim without examining if the intermediaries had any nexus with the complainant.
+item9364	Clearly, the complaint of sexual harassment should get priority.
+item9365	It is only if the complaint is found to be false that there will be a case to probe whether it was part of a plot to malign the CJI, or a conspiracy.
+item9366	It is unfortunate that the composition of the in-house committee became a controversy.
+item9367	There was concern that there was only one woman member, and the complainant raised the issue of the proximity of one of its members, Justice N.V.
+item9368	Ramana, with the CJI.
+item9369	He has now recused himself to make way for another woman judge.
+item9370	The episode has highlighted the lacuna in the in-house procedure the judges have adopted.
+item9371	There is no provision to deal with a situation where the CJI is the subject of a complaint.
+item9372	Also, the idea of the inquiry being wholly ‘in-house’ is in conflict with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, twenty thirteen, which envisages the presence of an external member.
+item9373	Despite this shortcoming, the committee should try to ensure a fair hearing for the former employee.
+item9374	The dignity and institutional integrity of the judiciary will be better served by probing the veracity of her charge, rather than by pursuing evidence for sweeping claims that “the rich and the powerful�? are trying to run the courts.
+item9375	Compensation to victims is a relatively less recognised component of criminal justice.
+item9376	In a system that focusses mainly on the accused, an order of compensation is a recognition of the state’s obligation to victims of crime, especially horrific acts.
+item9377	In ordering the Gujarat government to pay rupees fifty lakh to Bilkis Yakoob Rasool Bano, a gang-rape survivor of the two thousand two communal pogrom in the State who has bravely fought her case, the Supreme Court has endeavoured to achieve restitutive justice.
+item9378	A shop owner placed a sign above his door that said: “Puppies For Sale.�?
+item9379	Signs like this always have a way of attracting young children, and to no surprise, a boy saw the sign and approached the owner; 
+item9380	“How much are you going to sell the puppies for?�? he asked.
+item9381	The store owner replied, “Anywhere from $30 to $50.�?
+item9382	The little boy pulled out some change from his pocket. “I have two dollars,�? he said. “Can I please look at them?�?
+item9383	The shop owner smiled and whistled. Out of the kennel came Lady, who ran down the aisle of his shop followed by five teeny, tiny balls of fur.
+item9384	One puppy was lagging considerably behind. Immediately the little boy singled out the lagging, limping puppy and said, “What’s wrong with that little dog?�?
+item9385	The shop owner explained that the veterinarian had examined the little puppy and had discovered it didn’t have a hip socket. 
+item9386	It would always limp. It would always be lame.
+item9387	The little boy became excited. “That is the puppy that I want to buy.�?
+item9388	The shop owner said, “No, you don’t want to buy that little dog. If you really want him, I’ll just give him to you.�?
+item9389	The little boy got quite upset. He looked straight into the store owner’s eyes, pointing his finger, and said;
+item9390	“I don’t want you to give him to me. That little dog is worth every bit as much as all the other dogs and I’ll pay full price. In fact, I’ll give you two dollars now, and fifty cents a month until I have him paid for.�?
+item9391	The shop owner countered, “You really don’t want to buy this little dog. 
+item9392	He is never going to be able to run and jump and play with you like the other puppies.�?
+item9393	To his surprise, the little boy reached down and rolled up his pant leg to reveal a badly twisted, crippled left leg supported by a big metal brace. 
+item9394	He looked up at the shop owner and softly replied, “Well, I don’t run so well myself, and the little puppy will need someone who understands!�?

@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3602	In the northern districts, damage to houses, roads and other structures has occurred owing to landslips caused by incessant showers. 
+item3603	There is genuine concern that a temporary respite in rainfall may be followed by another intense downpour from nascent weather systems.
+item3604	The India Meteorological Department has forecast rain until August seventeen. 
+item3605	It is to Keralas credit that the deluge has led not to a partisan blame game over planning, relief and rehabilitation, but an all-round effort to look ahead and plan for reconstruction.
+item3606	The Centre has done well to get a first-hand estimate of the havoc from Home Minister Rajnath Singh, 
+item3607	Although the initial announcement of ?one hundred crore towards relief is incongruous with the scale of the damage. 
+item3608	Crucial support has come from the armed forces as well to normalise the situation.
+item3609	Keralas unusually heavy monsoon this year is in contrast to the long-period trend of rainfall. 
+item3610	According to an analysis of data on the monsoon between nineteen fifty four and two thousand three by climate researchers at the University of Cambridge.
+item3611	Overall this part of the country had become drier in summer, but with an emerging frequency of destructive flash floods in rare events. This trend is expected to become stronger. 
+item3612	This points to the need for governments to strengthen their resilience planning. 
+item3613	It should begin with a programme to relocate people away from hazard zones along the rivers that were in spate in Kerala over the past week after the shutters of more than two dozen dams were opened. 
+item3614	Finding suitable land is, of course, a challenge in a populous, forested State, but it is an absolute necessity to prepare for the future. 
+item3615	It is reasonable to expect that with its efficient primary health care network, Kerala will take all measures necessary to avoid epidemics in the wake of the floods. 
+item3616	The spectacular disaster this year also underscores the role of the government as the insurer of last resort for the average citizen. 
+item3617	In Mumbai last year, for instance, those who had private household insurance cover against disasters discovered the limitations of such policie., 
+item3618	Since the companies were unwilling to pay many home owners for a key risk such as costly displacement from homes since the houses were not structurally damaged. 
+item3619	All States naturally look to Kerala, with its record of social development, for evolving best practices to handle such natural disasters.
+item3620	Good sense seems to have prevailed at last. 
+item3621	The Centre has cleared the elevation of Justice K.M. Joseph to the Supreme Court, seven months after the five-member collegium first recommended his appointment. 
+item3622	The Centre had no option but to elevate the Uttarakhand High Court Chief Justice once the collegium reiterated its original recommendation after the Law Ministry returned his name.
+item3623	 The collegium had combined its reiteration of his name with two other names so that three Chief Justices could be elevated in one go. 
+item3624	The Centres objections to Justice Josephs candidature were unconvincing from the very beginning. 
+item3625	It made an issue of his relative lack of seniority among the Chief Justices of the various high courts.
+item3626	Adding somewhat curiously that his elevation would give excessive representation to Kerala.
+item3627	Unhappily James, instead of becoming a mediator became the fiercest and most reckless of partisans. 
+item3628	Instead of allaying the animosity of the two populations, he inflamed it to a height before unknown. 
+item3629	He determined to reverse their relative position, and to put the Protestant colonists under the feet of the Popish Celts. 
+item3630	To be of the established religion, to be of the English blood, was, in his view, a disqualification for civil and military employment. 
+item3631	He meditated the design of again confiscating and again portioning out the soil of half the island, and showed his inclination so clearly that one class was soon agitated by terrors 
+item3632	Which he afterwards vainly wished to soothe, and the other by hopes which he afterwards vainly wished to restrain. 
+item3633	But this was the smallest part of his guilt and madness. 
+item3634	He deliberately resolved, not merely to give to the aboriginal inhabitants of Ireland the entire possession of their own country, 
+item3635	But also to use them as his instruments for setting up arbitrary government in England. 
+item3636	The event was such as might have been foreseen. The colonists turned to bay with the stubborn hardihood of their race. 
+item3637	The mother country justly regarded their cause as her own. Then came a desperate struggle for a tremendous stake. 
+item3638	Everything dear to nations was wagered on both sides: nor can we justly blame either the Irishman or the Englishman for obeying, in that extremity, the law of self-preservation. 
+item3639	The contest was terrible, but short. The weaker went down. His fate was cruel; and yet for the cruelty with which he was treated there was, not indeed a defence, but an excuse: 
+item3640	For, though he suffered all that tyranny could inflict, he suffered nothing that he would not himself have inflicted. 
+item3641	The effect of the insane attempt to subjugate England by means of Ireland was that the Irish became hewers of wood and drawers of water to the English.

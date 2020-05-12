@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9428	And a landslide became a probability with every passing day after Mr.Zelensky beat Mr.Poroshenko by a hefty margin in the first round of polling on March thirty one .
+item9429	Since Russia’s seizure of Ukrainian naval vessels in November, Mr.Poroshenko had pitched his campaign merely on the need to bolster national unity against the threat from Moscow, and assert Ukraine’s unique national identity.
+item9430	But the final battle turned brutal and bitter, even if the rival candidates’ campaigns were woefully short on substance.
+item9431	Mr.Poroshenko, an ex-oligarch in confectionaries, attacked his opponent as a puppet of another oligarch.
+item9432	The reference was to Igor Kolomoisky, whose TV channel ran Mr.Zelensky’s popular show, and has business interests spanning finance and media.
+item9433	The commercial bank he owned was nationalised by the outgoing dispensation as part of an economic clean-up, and Mr.Kolomoisky may have sensed an opportunity in the election to settle scores.
+item9434	For his part, Mr.Zelensky used a final pre-election debate in Kiev to argue that his candidacy was a judgment on the incumbent, and that his bid was the result of Mr.Poroshenko’s mistakes.
+item9435	As President, Mr.Zelensky enters uncharted territory.
+item9436	The first challenge before him is the parliamentary election later this year, in which he will have to work with established institutions and parties he had railed against during the campaign.
+item9437	There is also the continuing conflict with Russia in the rebel-held territories in eastern Ukraine, where his political inexperience might be a serious handicap.
+item9438	Finally, Mr.Zelensky will be expected to deliver results in the country’s crusade against corruption.
+item9439	Progress in each of these areas will be crucial determinants in Ukraine’s bid for European Union membership.
+item9440	The television star will soon discover that while theatre might be a good launchpad for the start of a political career, it is no preparatory ground for the real tasks of governance.
+item9441	The oil market is in ferment once again with a great deal of uncertainty over supplies.
+item9442	On Monday the United States announced that it would not extend beyond May one the one eighty-day waiver it had granted to eight countries, including India, to purchase oil from Iran.
+item9443	This caused the price of Brent crude oil to witness a sudden jump to more than dollar seventy five , from last week’s close of dollar seventy one, as traders expected the withdrawal of the waivers to adversely affect the supply of oil in the market.
+item9444	The price of Brent crude, it is worth noting, has been rising steadily in the last few months, and has increased by almost fifty percent since it hit a low of about dollar fifty in December, as a result of the decision of the Organisation of the Petroleum Exporting Countries (OPEC) to restrict their output to boost prices.
+item9445	India imports more than ten percent of its crude oil from Iran, so the government faces the immediate challenge of having to find alternative suppliers to meet its huge energy needs.
+item9446	Even more worrying is the likely negative impact higher oil prices will have on India’s current account deficit, fiscal deficit and inflation in the wider economy.
+item9447	The current account deficit, which narrowed to two point five percent of GDP in the December quarter thanks to lower oil prices, will likely worsen going forward.
+item9448	The fiscal deficit, which has been widening in advance of the elections, is also likely to get increasingly out of control.
+item9449	While inflation is relatively benign at the moment, any further acceleration in price gains will tie the hands of the Reserve Bank of India.
+item9450	It may, however, be hard to say for sure that the jump in the price of oil this week, and over the last few months, marks a secular rise in the price of the commodity.
+item9451	The entry of U.S.shale producers into the oil market has put a lid on the price of oil as freely competing shale suppliers have been happy to increase their output whenever oil prices rise significantly.
+item9452	Even this week, the oil market has been torn between the news of the end to the waivers granted to oil imports from Iran and competing news of the increased supply of oil pouring into the market from the U.S.Higher oil prices also make it lucrative each time for members of OPEC to cheat on their commitments to restrict supply.
+item9453	The majority of Western society is inside all day, getting little sun exposure or fresh air. Indoor air quality is unbelievably toxic. Getting outside will help “clear your head�? and allow you to breathe cleaner air.
+item9454	It is unbelievably relaxing and a great stress reliever.
+item9455	Vitamin D deficiency affects about 80% of the population. Sunlight is the best and most natural method to get vitamin D.
+item9456	Deficiency has been associated with a host of diseases, including heart disease, depression, osteoporosis and many more.
+item9457	You cannot be productive while dealing with these health issues.
+item9458	Stress Reduction
+item9459	We have all heard “stress kills�?.
+item9460	Chronic stress leads to heart disease, strokes, heart attacks, anxiety, depression, pain syndromes and is a contributing factor to many others.
+item9461	Participating in stress reduction techniques, such as meditation, yoga, and tai chi, can really reduce how stress affects your body. 
+item9462	It will allow you to clear your head and eliminate the “noise�?, providing for better focus and attention to detail.

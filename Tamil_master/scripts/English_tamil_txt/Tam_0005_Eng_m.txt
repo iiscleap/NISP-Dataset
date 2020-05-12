@@ -1,0 +1,39 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8223	This is a strategic dilemma that warrants a recalibration of policy.
+item8224	Mr.Trump’s decision to call off the strike and the new red line he set for Iran could create an opportunity for such a recalibration.
+item8225	He could seize the moment to assure Iran that his primary goal is engagement, not conflict.
+item8226	What Iran wants the most is relief from the sanctions.
+item8227	Instead of sticking to a policy that has proved to be counter-productive and risky, Mr.Trump could offer Tehran some reprieve in return for its remaining in the nuclear deal, which could be followed up by a fresh diplomatic opening.
+item8228	If he continues with the pressure tactics, tensions will stay high, the Strait of Hormuz would be on the brink, and further provocations by either side, or even an accident, could trigger a full-scale conflict.
+item8229	That is a dangerous slope.
+item8230	The Goods and Services Tax Council’s first meeting under the new government did not deliver any big surprises.
+item8231	Apart from some minor changes to the existing structure and procedures under the GST, the council’s meeting on Friday, under Finance Minister Nirmala Sitharaman, was largely a lacklustre event.
+item8232	There was some expectation that the council would consider a significant cut in tax rates across the board in order to help spur consumer demand that has been sagging in recent quarters.
+item8233	But none of that happened.
+item8234	The meeting ended with some changes in procedure that are expected to tackle tax evasion and make GST filing easier.
+item8235	In particular, Aadhaar has been approved as sufficient proof to obtain GST registration.
+item8236	Even the expectation that there would be a cut in the tax imposed on electric vehicles, from twelve percent to five percent, was not met.
+item8237	The government may be worried about the revenue implications of any significant across-the-board tax cut.
+item8238	Although GST collections have been encouraging in the past couple of months, monthly tax collections have largely been modest since the introduction of the tax regime in mid-twenty seventeen, failing to meet the government’s own targets most of the time.
+item8239	But such caution may not help the larger cause of the economy, which urgently needs a boost in some form.
+item8240	A significant cut in rates could have sent out the strong signal that the NDA government is serious about pushing through serious pro-growth reforms during its second term in office.
+item8241	Another notable decision taken by the council was the one to extend the tenure of the National Anti-Profiteering Authority by two years, till November twenty twentyone.
+item8242	Further, the council increased the quantum of penalty that could be imposed by the authority on profiteering companies, from the current maximum of rupees twenty five thousand to an additional ten percent of the profiteered amount.
+item8243	Given that the government has increased the powers of the anti-profiteering body, it would not be surprising if the body becomes a permanent feature under GST.
+item8244	This does not send a promising message to the business community ahead of the Union Budget, scheduled to be presented in Parliament on July five .
+item8245	The anti-profiteering clause assumes that government action is absolutely necessary in order to pass on the benefit of tax cuts to consumers, or else tax cuts may simply end up adding to the profits of businesses.
+item8246	This is wrong.
+item8247	While businesses naturally try to profit from lower taxes, the forces of competition make sure their profit margins are driven back down to normal.
+item8248	One night four college students were out partying late night and didn’t study for the test which was scheduled for the next day. In the morning, they thought of a plan.
+item8249	They made themselves look dirty with grease and dirt.
+item8250	Then they went to the Dean and said they had gone out to a wedding last night and on their way back the tire of their car burst and they had to push the car all the way back. 
+item8251	So they were in no condition to take the test.
+item8252	The Dean thought for a minute and said they can have the re-test after 3 days. They thanked him and said they will be ready by that time.
+item8253	On the third day, they appeared before the Dean. The Dean said that as this was a Special Condition Test, all four were required to sit in separate classrooms for the test. They all agreed as they had prepared well in the last 3 days.
+item8254	The Test consisted of only 2 questions with the total of 100 Points:
+item8255	Moral of the story: Take responsibility or you will learn your lesson.

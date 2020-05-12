@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9463	If India is to protect its interests in the ever-volatile global oil market, the government will need to take steps to diversify its supplier base and also work towards increasing domestic sources of energy supplies.
+item9464	Opening up the renewable energy sector for more investments will also help avoid over-dependence on oil from the global market to meet the country's ever-increasing energy needs.
+item9465	Voting has taken place in three hundred and two of the five fourty three Lok Sabha constituencies in the first three phases of polling.
+item9466	The third phase of polling on Tuesday was spread across fourteen States and Union Territories, in one fifteen constituencies.
+item9467	In addition, polling for the East Tripura seat, which was postponed from April eighteen after the EC concluded that the law and order situation there was not conducive to holding free and fair polls, took place on Tuesday.
+item9468	With the third phase, more than half the constituencies have voted, including all in the southern States and Gujarat.
+item9469	Voting trends indicate that the turnout in general would hover around the twenty fourteen levels.
+item9470	The massive turnout in Kerala and higher turnouts in the tribal regions of Gujarat are noteworthy in the third phase, and could influence the result.
+item9471	Through the second and third phases, the BJP tried to alter the beaten path of politics in Kerala and Tamil Nadu, while doubling down on its Hindutva agenda in the Hindi heartland and Gujarat.
+item9472	The BJP's strategy to retain power at the Centre now clearly involves limiting the inevitable losses in its strongholds, promoting friendly regional parties where its presence is limited and opening some new territories for itself.
+item9473	The manifestation of this strategy was visible in the one-sided actions of the Income Tax department in Tamil Nadu and Karnataka that targeted only those from the Opposition parties.
+item9474	In the sixteenth Lok Sabha, the BJP had twenty one of the one twenty nine seats in the five southern States, seventeen of them from Karnataka.
+item9475	In Kerala, the BJP appears to have made significant inroads by mobilising protests against the entry of all women into the Sabarimala shrine.
+item9476	During his tour of the State, Prime Minister Narendra Modi said that the BJP was an â€œinclusive, and democratic partyâ€?, thus soft-pedalling the hyper-nationalism that continues to be the mainstay of his campaigning in general.
+item9477	This attempt to sound reasonable to the diverse Kerala society runs parallel to the most corrosive demonstration of Hindutva till date during this election season, in the candidacy of Pragya Singh Thakur, who is an accused in terrorist attacks.
+item9478	Ms.Singh, the BJP candidate from Bhopal, has over the last few days made several inflammatory statements.
+item9479	Overall, the shrillness of the BJP rhetoric has only risen as campaigning gains momentum for the fourth phase.
+item9480	For his part, Congress president Rahul Gandhi has sought to underscore the link between national security and unemployment, and terms his twenty nineteen election as a fight for the survival of India as an inclusive and pluralistic country.
+item9481	Mr.Gandhi has kept the suspense alive on the possibility of his sister, Priyanka Gandhi Vadra, contesting against Mr.Modi in Uttar Pradesh's Varanasi constituency.
+item9482	If Ms.Vadra enters the fray as a candidate, it would doubtless alter some of the calculations about this election.
+item9483	The Central government's decision to suspend trade across the Line of Control between Jammu and Kashmir and Pakistan-occupied Kashmir is bad in conception, and comes at a particularly fraught time.
+item9484	On April eighteen, the Ministry of Home Affairs announced the suspension from midnight of trade at the two designated points at Salamabad and Chakan-da-Bagh, citing concerns about â€œillegal weapons, narcotics and fake currencyâ€? being transported into India.
+item9485	It is also being argued that the zero-tariff barter arrangement is being violated through under-invoicing and the exchange of third party items such as U.S.-origin California almonds.
+item9486	The first is presumably a way to transfer funds; and the second would be to exploit the zero-tariff trade, something brought up by traders who operate via the Wagah border.
+item9487	The government's concerns may be well-founded, but the solution to violations of a trade agreement is to enforce the rules stringently, not stop exchange of goods and put at risk the livelihood of countless people on both sides of the LoC.
+item9488	Accepting Failure
+item9489	We do not know success if we do not know failure. 
+item9490	Recognize that failure is part of success, learn from it and do not let it happen again. 
+item9491	Understand that most businesses do fail and many great ideas never make it off the ground. It is a war out there!
+item9492	It's Okay to Ask for Help
+item9493	You cannot do it alone! Many of us have a fear that asking for help makes us look weak. nowing your limitations will help you build your network and become successful.
+item9494	By not asking, you will struggle more and might actually deprive someone the joy of showing you that they care and want to help.
+item9495	Lose the Ego
+item9496	Just because you are an expert in a particular area, do not mean that you still cannot learn from others. 
+item9497	The more you respect others for their knowledge, the more you will get respect.
+item9498	It is great when you achieve success, but not when you gloat or brag. 
+item9499	Enjoy it, you earned it, but do not take it to the next level. 

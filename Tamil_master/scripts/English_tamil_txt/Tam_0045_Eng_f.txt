@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9608	These messages and weather alerts can be disseminated through television, mobile phone messaging and social media platforMs.Urban local bodies in particular have a responsibility to care for the large number of vulnerable city dwellers.
+item9609	Yet, few cities have drawn up proper heat action plans to respond to extreme weather or made them public.
+item9610	During the current year, there is apprehension that the focus of administrators will mainly be on the conduct of the elections, relegating the public health risk of heat waves to the backburner.
+item9611	With the availability of advance weather alerts, there is no reason why local bodies cannot institute remedial measures.
+item9612	Mitigating the effect of heat waves is vital to ensuring a high turnout in the elections by making it safe for voters.
+item9613	India is looking at another uncertain monsoon, bringing into sharp relief the neglected potential of decentralised water-harvesting.
+item9614	It is more than a decade since the National Commission on Farmers suggested the wider adoption of both rainwater harvesting and aquifer recharge, in order to provide irrigation for small farmers.
+item9615	It is time to take measures that will help communities achieve resilience.
+item9616	This week, British pragmatism finally found its voice in the U.K.’s complex exit process from the European Union.
+item9617	The government’s deliberations over a withdrawal had been held hostage by the English nationalists among the Conservative party who demand an exit sans an agreement.
+item9618	Prime Minister Theresa May, who had long insisted that “no deal with Brussels was better than a bad deal�?, declared on Tuesday that London would not quit without an accord.
+item9619	She clarified she would seek an extension of the April twelve deadline, which she did duly on Friday.
+item9620	Parliamentarians are trying to pass legislation that would require the government to avoid a no-deal Brexit — it has passed through the Commons by a slim majority and awaits its final stages.
+item9621	The government had opposed these moves, initiated by Conservative and Labour MPs in recent parliamentary votes.
+item9622	In a bold but risky gambit, Ms.May began talks with Labour leader Jeremy Corbyn to help break the deadlock.
+item9623	While the government has insisted it remains against a customs union, the talks with Labour, which strongly advocates this along with worker and environmental protections, mean that this is inevitably on the table.
+item9624	This is resisted vehemently by many Conservatives.
+item9625	Few seriously believe that Ms.May and Mr.Corbyn will agree to a deal.
+item9626	Equally, the Prime Minister will be severely constrained by the infuriated hardline eurosceptics within her party to not concede too much.
+item9627	That would force the government to ask Parliament once again to find a majority for any one of several alternatives, including the thrice-rejected withdrawal accord.
+item9628	These ‘indicative’ votes failed to deliver a majority to join an EU customs union, offer a second referendum, or revoke Brexit.
+item9629	But these proposals are certain to be put before Parliament with modifications drawn from inputs across different parties.
+item9630	Calls for a second referendum, once voiced rather mutely by hardcore remainers, have emerged as a legislative proposal.
+item9631	The prevailing state of chaos and confusion, almost three years after the twenty sixteen referendum, has caused immense frustration among businesses and people.
+item9632	But with Parliament having assumed charge of the process — which seems irreversible — there is reason to hope for clarity and certainty.
+item9633	First on the list, but by no means the worst, is over-confidence. 
+item9634	Don’t get me wrong here, confidence is very important in absolutely everything you do. 
+item9635	Confidence can be the key to success, but over-confidence? That can be a detriment.
+item9636	Having an over-confident attitude can leave people open to weak points in themselves and their business, that they haven’t even considered as being weak yet.
+item9637	If you’re overly-confident in that your business or your knowledge is perfect, you’re unable to work on your own weaknesses and areas where you can improve (There will be at least one area always).
+item9638	It’s important to still consider areas where you can improve, and always be improving, rather than neglect it because you think you’ve already covered it completely. 
+item9639	No matter what it may be, every little detail pushes you one step closer to success.

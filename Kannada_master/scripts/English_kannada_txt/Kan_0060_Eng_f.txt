@@ -1,0 +1,45 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item4769	The main reason why portrayal of the past in school textbooks arouses controversy is that a publicly shared past imparts a collective memory and identity. 
+item4770	Textbooks are viewed as officially approved documents even if they are privately produced and have no official sanction and are therefore believed to be associated with state power. 
+item4771	Significantly, they do shape the perceptions of the young because children are impressionable. 
+item4772	Children introduced to a certain version of the past at school acquire a disposition which can be politically mobilised in the future.
+item4773	Debates over school textbooks seldom take into account the significance of curricular design and the preparation of a syllabus. 
+item4774	When criticising poor quality textbooks, people do not recognise that the problem may be at the level of syllabus and curriculum. 
+item4775	Similarly, when good textbooks are appreciated, people seldom realise the effort required in redesigning the curriculum and syllabus.
+item4776	The new history textbooks brought out by the National Council of Educational Research and Training (NCERT) from two thousand six onwards are a case in point. 
+item4777	They have survived the change of government. One reason for their longevity is their professional quality. 
+item4778	They have no single authors. Teams of eminent historians worked through deliberation and dialogue, first drafting a new syllabus and then the text itself. 
+item4779	They represent the spirit of the National Curriculum Framework, two thousand five, which is still in place, which gives precedence to inquiry through direct exposure to evidence. 
+item4780	The textbooks based on it do not narrate a long story. 
+item4781	Instead, they enable children to explore different, often divergent, themes, such as lives of peasants and women, architectural styles, etc. 
+item4782	Archival material is cited as evidence, and debates among historians are highlighted to demonstrate the difficulties of interpreting evidence.
+item4783	These books mark a major step forward in the teaching of history, but older ways of teaching and conventional textbooks have persisted. 
+item4784	As a presentation at the Kolkata conference pointed out, the history teacher at school is often someone who has not studied history or enjoyed it. 
+item4785	So, despite a shift in historiography, old problems continue to affect the system. 
+item4786	One of these is the perception that history is all about wars, kings and dates.
+item4787	Another is the tenacity of dividing Indias past into three long chunks: ancient, medieval and modern. 
+item4788	These categories flatten out the complexity and richness of Indias history, wasting the opportunity of studying it with the aim of arousing curiosity and imparting tools of inquiry.
+item4789	The examination system also reinforces flat perceptions by asking questions that are best answered with the help of guidebooks. 
+item4790	The two thousand five curricular revolution has made little impact on this wider scene.
+item4791	In most States, the use of history to build collective memory and identity continues. 
+item4792	Assam-like situations suggest that education is not perceived as a means of resolving a problem. 
+item4793	The fear that incoming migrants would push the regional language into minority status or hurt the States cultural identity shows how poor the States trust in education is.
+item4794	When this had been done it would be impossible for our rulers to misunderstand the law:
+item4795	But, unless something more were done, it was by no means improbable that they might violate it. 
+item4796	Unhappily the Church had long taught the nation that hereditary monarchy, alone among our institutions, was divine and inviolable; 
+item4797	That the right of the House of Commons to a share in the legislative power was a right merely human,
+item4798	But that the right of the King to the obedience of his people was from above; 
+item4799	That the Great Charter was a statute which might be repealed by those who had made it, 
+item4800	But that the rule which called the princes of the blood royal to the throne 
+item4801	In order of succession was of celestial origin, and that any Act of Parliament inconsistent with that rule was a nullity. 
+item4802	It is evident that, in a society in which such superstitions prevail, constitutional freedom must ever be insecure. 
+item4803	A power which is regarded merely as the ordinance of man cannot be an efficient check on a power which is regarded as the ordinance of God. 
+item4804	It is vain to hope that laws, however excellent, will permanently restrain a King who, in his own opinion, and in that of a great part of his people, 
+item4805	Has an authority infinitely higher in kind than the authority which belongs to those laws. 
+item4806	To deprive royalty of these mysterious attributes, and to establish the principle that Kings reigned by a right in no respect differing from the right 
+item4807	By which freeholders chose knights of the shire, or from the right by which judges granted writs of Habeas Corpus, was absolutely necessary to the security of our liberties.

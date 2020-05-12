@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0176	Brown and sons incorporated lead underwriter said 
+item0177	The company said its quarterly cash dividend of forty cents a share will be paid before the split on september tenth to stock of record on august nineteenth 
+item0178	"double-quote we assume there may be other companies with this kind of problem ,comma "double-quote Mr. nagata said .Period 
+item0179	"double-quote managements shouldn't be entrenched .Period "double-quote 
+item0180	This is the second consecutive quarter in which the dividend was reduced .Period 
+item0181	The company last authorized the purchase of as much as ten percent of its stock in october nineteen eighty five .Period 
+item0182	With such knowledge planners could better determine whether more community care facilities could reduce the need for nursing homes or hospitals 
+item0183	As a manager ,comma Mr. o'malley concedes he pushes subordinates to work long and hard hours if necessary .Period 
+item0184	"double-quote they tried to defuse the problem by driving a wedge between the whiskey and wine producers .Period 
+item0185	A team of workers moves in quickly to shake pumice fragments from the damp jeans 
+item0186	Both offerings are being underwritten by goldman sachs and company and aren't redeemable before maturity 
+item0187	"double-quote we don't see any joy in this for a U.S. refiner yet ,comma "double-quote said a supply official for one U.S. major .Period 
+item0188	After this weekend there's less 
+item0189	There was a striking split between the sexes with men more likely than women to favor space programs 
+item0190	The N.A.S.D. released short interest figures for the first time november twenty fifth for all stocks carried on its nasdaq automated quotation system 
+item0191	Buy backs helped clear up latin American debt problems in the nineteen thirties 
+item0192	A simpler way to reduce bank debts that is more advantageous to borrowers are straight buy backs in the growing secondary loan market 
+item0193	The rise in auto imports also reflects higher prices for imported cars 
+item0194	Unless otherwise noted changes involved direct holdings of common stock and took place in october and november of nineteen eighty seven 
+item0195	"double-quote bush brigade "double-quote units hold annual meetings .Period 
+item0196	Even in diplomacy he has done better than expected 
+item0197	Ashland was shocked to learn of Mr. atkins's involvement the spokeswoman said 
+item0198	The Japanese economy ,comma however ,comma has been so export -hyphen oriented that there has been little effort to increase the domestic consumers' role in it .Period 
+item0199	Federal express collects more than half the revenue in what is now more than a six billion dollar industry 
+item0200	"double-quote there is some cause for optimism .Period "double-quote 
+item0201	A long series of careful experiments by highly-trained observers, some of them men of world-wide reputation, 
+item0202	Has fully established certain remarkable differences between the action of the subjective and that of the objective mind which may be briefly stated as follows. 
+item0203	The subjective mind is only able to reason _deductively_ and not inductively, while the objective mind can do both. 
+item0204	Deductive reasoning is the pure syllogism which shows why a third proposition must necessarily result if two others are assumed,
+item0205	But which does not help us to determine whether the two initial statements are true or not. 
+item0206	To determine this is the province of inductive reasoning which draws its conclusions from the observation of a series of facts. 
+item0207	The relation of the two modes of reasoning is that, first by observing a sufficient number of instances, we inductively reach the conclusion that a certain principle is of general application, 
+item0208	And then we enter upon the deductive process by assuming the truth of this principle and determining what result must follow in a particular case on the hypothesis of its truth. 
+item0209	Thus deductive reasoning proceeds on the assumption of the correctness of certain hypotheses or suppositions with which it sets out: 
+item0210	It is not concerned with the truth or falsity of those suppositions, but only with the question as to what results must necessarily follow supposing them to be true. 
+item0211	Inductive reasoning; on the other hand, is the process by which we compare a number of separate instances with one another until we see the common factor that gives rise to them all. 
+item0212	Induction proceeds by the comparison of facts, and deduction by the application of universal principles. 
+item0213	Now it is the deductive method only which is followed by the subjective mind. 
+item0214	Innumerable experiments on persons in the hypnotic state have shown that the subjective mind is utterly incapable of making the selection and comparison which are necessary to the inductive process,
+item0215	But will accept any suggestion, however false, but having once accepted any suggestion,
+item0216	It is strictly logical in deducing the proper conclusions from it, and works out every suggestion to the minutest fraction of the results which flow from it.

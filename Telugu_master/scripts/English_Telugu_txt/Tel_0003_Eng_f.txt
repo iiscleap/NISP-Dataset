@@ -1,0 +1,49 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0091	American denied rumors that it was providing financing for the painewebber buy -hyphen out .Period 
+item0092	Unable to agree on friday the board must meet again at least by phone to register its choice 
+item0093	Earnings fell a revised zero point four percent in february 
+item0094	Advancing issues led decliners one thousand fifty four to four hundred eighty three 
+item0095	The percentage change is since year end 
+item0096	The language is a big problem 
+item0097	The stock eased one quarter to fifty nine and three quarters in active trading .Period 
+item0098	U.S. car sales fell ten point one percent in early november from a year ago .Period 
+item0099	Emery air freight began a forty dollar -hyphen a -hyphen share tender offer for eighty three percent of purolator's common .Period 
+item0100	The offering includes zero coupon bonds called capital appreciation bonds 
+item0101	"double-quote you venture capitalists are all alike .Period 
+item0102	And that's a big improvement .Period "double-quote 
+item0103	Don't tell !us how to practice medicine 
+item0104	Brent erensel of dean witter reynolds incorporated noted :colon "double-quote lending volume generally isn't robust .Period 
+item0105	Being excessively diversified can thin out returns ,comma for one .Period 
+item0106	But marketers believe the company has a credibility problem after its six -hyphen year association with retailer J. C. penney company ,comma which ended last year .Period 
+item0107	But Mr. aspin won't let that happen .Period 
+item0108	Citicorp and morgan tend to have more volatility on days when program trading is known to occur Mr. soifer says 
+item0109	Cable operators are willing participants in the price cutting programs 
+item0110	The company has five hundred Japanese managers overseas most of them in key positions and expects the number to rise sixty percent in the next five years 
+item0111	The toronto based gold mining concern said proceeds would be used for general purposes 
+item0112	The company has thirty four toy stores throughout the midwest and southeast that are still open 
+item0113	Cray is interested in right now ,comma selling its stripped down ,comma high -hyphen speed ,comma big memory "double-quote racing "double-quote machines .Period 
+item0114	The stock is convertible at any time into common at an initial price of twelve dollars a share subject to adjustment december fifteenth nineteen eighty eight 
+item0115	Clinical tests of genentech's C.D. four in aids patients while still at an early stage have run smoothly reports one researcher 
+item0116	Form implies extension in space and also limitation within certain boundaries.Thought implies neither. 
+item0117	When, therefore, we think of Life as existing in any particular _form_ we associate it with the idea of extension in space, 
+item0118	So that an elephant may be said to consist of a vastly larger amount of living substance than a mouse. 
+item0119	But if we think of Life as the fact of livingness we do not associate it with any idea of extension,
+item0120	And we at once realize that the mouse is quite as much alive as the elephant, notwithstanding the difference in size. 
+item0121	The important point of this distinction is that if we can conceive of anything as entirely devoid of the element of extension in space, 
+item0122	It must be present in its entire totality anywhere and everywhere--that is to say, at every point of space simultaneously. 
+item0123	The scientific definition of time is that it is the period occupied by a body in passing from one given point in space to another,
+item0124	And, therefore, according to this definition, when there is no space there can be no time; 
+item0125	And hence that conception of spirit which realizes it as devoid of the element of space must realize it as being devoid of the element of time also;
+item0126	And we therefore find that the conception of spirit as pure Thought, and not as concrete Form, is the conception of it as subsisting perfectly independently of the elements of time and space. 
+item0127	From this it follows that if the idea of anything is conceived as existing on this level it can only represent that thing as being actually present here and now. 
+item0128	In this view of things nothing can be remote from us either in time or space: either the idea is entirely dissipated or it exists as an actual present entity, 
+item0129	And not as something that _shall_ be in the future, for where there is no sequence in time there can be no future. 
+item0130	Similarly where there is no space there can be no conception of anything as being at a distance from us. 
+item0131	When the elements of time and space are eliminated all our ideas of things must necessarily be as subsisting in a universal here and an everlasting now. 
+item0132	This is, no doubt, a highly abstract conception, but I would ask the student to endeavour to grasp it thoroughly, 
+item0133	Since it is of vital importance in the practical application of Mental Science, as will appear further on.

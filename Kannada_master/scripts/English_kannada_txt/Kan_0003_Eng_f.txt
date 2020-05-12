@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item2431	State programmes must take all measures to expand surface water storage, launch more minor irrigation schemes, and improve the recharge of groundwater. 
+item2432	Altered rainfall trends in terms of intensity and variations across regions pose a new challenge. 
+item2433	Scientists contend that the alluvial soil of the northern States benefit more from slow precipitation, 
+item2434	While the hard-rock geography of the south needs heavy showers for groundwater recharge.
+item2435	Yet, many districts have been receiving short, heavy spells and not steady rain. 
+item2436	A future-ready approach should therefore focus on augmented storage and greater participation of the farming community in managing the vital resource. 
+item2437	The IMD has issued a normal outlook for August, which is encouraging, and there are signs of fresh monsoon activity in Odisha, south Chhattisgarh, north coastal Andhra Pradesh and parts of Telangana. 
+item2438	If the forecast is accurate, and the trend of favourable climate conditions in the Indian Ocean continue, a further normal course of the season through September can be expected.
+item2439	Indias benchmark stock indices are roaring again, with the Nifty and the Sensex scaling all-time highs on Friday, crossing the Eleven thousands and Thirty Seven thousands levels, respectively.
+item2440	A result largely of increased buying by foreign institutional investors and expectations of strong first-quarter earnings results, 
+item2441	It took the Sensex just thirteen trading sessions to move from Thirty Six thousands to Thirty Seven thousands points.
+item2442	Coming after both indices witnessed extremely sharp corrections a few months ago, 
+item2443	The rally has occurred when other emerging market indices have failed to recover their losses since the fall in February. 
+item2444	The swift recovery, however, is not reflective of a secular rise. While the sharp market correction in February hit stocks across the board, 
+item2445	This rally has been limited to a few pockets of the market.
+item2446	Heavyweight blue-chip stocks such as HDFC, Reliance Industries, ITC, Tata Consultancy Services and Infosys have contributed the most while many others have lagged behind.
+item2447	Almost half the companies in the Nifty still trade below their Two Hundred-day moving average, a sign of insufficient price strength.
+item2448	The divergence in the performance of various stocks becomes clearer when large caps are compared to smaller companies. 
+item2449	The mid-cap and the small-cap indices, which fell more sharply than the benchmark indices earlier this year, are still trading well below their historic highs in January. 
+item2450	While the Sensex has gained almost Ten percent since the beginning of the year, the mid- and small-cap indices are significantly down.
+item2451	Not surprisingly, overall market capitalisation is still below its historic high reached in January. 
+item2452	The present stock market rally clearly does not yet mark a return to the good old days when investors could expect multi-bagger returns by betting on stocks across the wider market.
+item2453	Several stocks in the mid- and small-cap category have fallen to levels reminiscent of a bear market. 
+item2454	Investors are now probably seeking safety in a few large-cap stocks that offer better quality of earnings compared to untested and riskier smaller companies. 
+item2455	The return of foreign institutional buying also suggests that investors may be betting on India over other emerging markets that have suffered more severely.
+item2456	If, on the other hand, James should attempt to promote the interest of his Church by violating the fundamental laws of his kingdom 
+item2457	And the solemn promises which he had repeatedly made in the face of the whole world, 
+item2458	It could hardly be doubted that the charges which it had been the fashion to bring against the Roman Catholic religion would be considered by all Protestants as fully established. 
+item2459	For, if ever a Roman Catholic could be expected to keep faith with heretics, James might have been expected to keep faith with the Anglican clergy. 
+item2460	To them he owed his crown. 
+item2461	But for their strenuous opposition to the Exclusion Bill he would have been a banished man. 
+item2462	He had repeatedly and emphatically acknowledged his obligation to them, and had vowed to maintain them in all their legal rights. 
+item2463	If he could not be bound by ties like these, it must be evident that, 
+item2464	Where his superstition was concerned, no tie of gratitude or of honour could bind him. 
+item2465	To trust him would thenceforth be impossible; and, if his people could not trust him, what member of his Church could they trust? 
+item2466	He was not supposed to be constitutionally or habitually treacherous. 
+item2467	To his blunt manner, and to his want of consideration for the feelings of others,
+item2468	He owed a much higher reputation for sincerity than he at all deserved. 
+item2469	His eulogists affected to call him James the Just. 
+item2470	If then it should appear that, in turning Papist, he had also turned dissembler and promise breaker. 
+item2471	What conclusion was likely to be drawn by a nation already disposed to believe that Popery had a pernicious influence on the moral character?

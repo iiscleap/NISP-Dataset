@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0605	It is the generic stand in for the social problems of our age Mr. murray writes 
+item0606	It is up from six and one half since the end of nineteen eighty seven .Period 
+item0607	It might be a year or more before we get paid 
+item0608	It most recently traded at seventy dollars a share .Period 
+item0609	It said it put three "double-quote key executives "double-quote in charge of the groups ,comma to focus efforts on "double-quote increasing sales productivity in the U.S. .Period "double-quote 
+item0610	It said that fourteen percent reported lower employment ,comma the lowest since september nineteen eighty four .Period 
+item0611	It said that sixteen percent of the purchasing managers reported higher employment ,comma the greatest percentage since march nineteen eighty five .Period 
+item0612	It said various local plant issues must still be resolved before the contract is concluded 
+item0613	Its biggest was the one billion dollar purchase of united technologies corporation's inmont subsidiary a major supplier of paint to the auto industry 
+item0614	Its decline was apparently split by ford chrysler and honda motor company whose market shares each grew one point one percent 
+item0615	It should be government -hyphen regulated ,comma "double-quote says doctor wolfe .Period 
+item0616	It should be government regulated says doctor wolfe 
+item0617	It's still unclear 
+item0618	It's what he doesn't say that has riled one fund investor 
+item0619	It wants to extend coverage to such business damage as bankruptcies by Japanese companies' foreign subsidiaries .Period 
+item0620	It was a done deal 
+item0621	It would take a new chairman the executive is said to have replied 
+item0622	I want a job 
+item0623	I will tell you what I think in my office 
+item0624	Japan is overwhelmingly dependent on imported oil .Period 
+item0625	Job security clauses give unions something positive to take back to their members at modest cost to the employers 
+item0626	Just before christmas she finally applied for welfare 
+item0627	K.K.R said about thirty seven thousand ,comma four hundred shares have been tendered to it and not withdrawn .Period 
+item0628	Kohlberg kravis made an initial proposal for owens -hyphen illinois last december .Period 
+item0629	Kohlberg kravis roberts ,comma a private investment firm ,comma agreed to take owen -hyphen illinois private at sixty dollars and fifty cents a share .Period 
+item0630	It came at last to their sitting down in a row under the hedge, with their feet in a dry ditch, waiting for sunset, 
+item0631	And wondering whether, when the sun did set, they would turn into stone, 
+item0632	Or only into their own old natural selves; 
+item0633	And each of them still felt lonely and among strangers, and tried not to look at the others,
+item0634	For, though their voices were their own, their faces were so radiantly beautiful as to be quite irritating to look at.
+item0635	'I don't believe we SHALL turn to stone,' said Robert, 
+item0636	Breaking a long miserable silence, 
+item0637	'Because the Sand-fairy said he had give us another wish tomorrow, and he couldn't if we were stone, could he?'
+item0638	The others said 'No,' but they weren't at all comforted.
+item0639	Another silence, longer and more miserable, was broken by Cyril's suddenly saying, 
+item0640	'I don't want to frighten you girls, but I believe it's beginning with me already. 
+item0641	My foot's quite dead. 
+item0642	I'm turning to stone, I know I am, and so will you in a minute.'
+item0643	'Never mind,' said Robert kindly, 'perhaps you will be the only stone one, 
+item0644	And the rest of us will be all right, and we'll cherish your statue and hang garlands on it.'

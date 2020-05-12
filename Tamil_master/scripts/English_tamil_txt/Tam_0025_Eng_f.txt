@@ -1,0 +1,38 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item8895	Australian Prime Minister Scott Morrison may have, in a manner of speaking, already scored a political victory ahead of the May eighteen election.
+item8896	Few had expected the socially conservative politician to last out the remainder of Parliament's term when he took over as Prime Minister in August following a coup within the ruling Liberal party.
+item8897	In the past, the country has seen many heads of government toppled.
+item8898	That said, Saturday's election may not prove an easy ride for the former marketing executive.
+item8899	The polls may not signal an end to the political instability that has dogged Australian politics of late.
+item8900	From combating climate change to shaping energy policy, Mr.Morrison's Liberal party is a divided house between moderates and conservatives.
+item8901	These differences were manifest in the ousting of Malcolm Turnbull last year and continue to elude a resolution.
+item8902	The world's driest inhabited continent is confronting its own vulnerability to the effects of global warming.
+item8903	Australia, among the world's largest wheat exporters, has been forced to take recourse to bulk imports of the grain, consequent to severe droughts in its eastern states over two years.
+item8904	Mr.Morrison, a supporter of coal-generated power, may also find his hardline stance on immigration difficult to defend in the wake of the terrorist attacks in neighbouring New Zealand.
+item8905	The opposition Labor party seems to enjoy an edge over the governing centre-right Liberal-National coalition, according to opinion polls.
+item8906	Its leader, Bill Shorten, has rallied the party during its time in the opposition in the last six years.
+item8907	Labor's advantage stems from its promise of a living wage, tighter regulation and ambitious targets on carbon emissions.
+item8908	A fourty five percent reduction in carbon emissions on two thousand five levels by twenty thirty is part of its manifesto, aimed at appealing to Australia's growing number of green voters.
+item8909	Conversely, the pro-business credentials of Mr.Morrison's Liberal-National coalition are said to have been steadily eroded as the government has reneged on its promise of corporate tax cuts.
+item8910	The package of measures unveiled in the pre-election budget in April may only have a moderate impact.
+item8911	As with several industrialised democracies, voter disillusionment with the principal parties is yielding a fragmented polity, and smaller parties and independents could potentially tilt the balance of power in the Senate, which is crucial for the passage of legislation.
+item8912	With consistent economic growth and modest levels of unemployment, Australia has had a remarkable track record in recent decades.
+item8913	This scenario is in stark contrast to the incessant political swings that impede the legislative agenda.
+item8914	What is without doubt is that the turnout will be high at the polls, as voting is compulsory for registered voters.
+item8915	A welter of data collectively and individually point to one worrying conclusion: economic momentum across sectors is slowing in the widening absence of that key ingredient, demand.
+item8916	Domestic sales of cars, commercial vehicles and two wheelers all contracted in April, from a year earlier, the Society of Indian Automobile Manufacturers (SIAM) has reported.
+item8917	The decline of almost sixteen percent in total automobile industry sales is an indication that consumption demand across markets — urban and rural, institutional and individual — is petering out.
+item8918	While sales of commercial vehicles, a fair proxy for overall economic activity, slid six percent last month, a sixteen percent drop in demand for two-wheelers extended the segment's slump into the new financial year, mirroring the rippling rural distress.
+item8919	The data on passenger vehicles, which saw the steepest drop in almost eight years, add to the gloom.
+item8920	Short term always seems to be the thing that gets to people. 
+item8921	They'd rather eat that chocolate bar and have short term happiness due to the taste, than eat healthily and have long term happiness with their body and the way they look.
+item8922	Do you agree?
+item8923	And it's a sad fact that this happens. Short term happiness always seems to prevail over long term happiness, purely because of the discipline and time it take to achieve that happiness.
+item8924	I think a lot of people would rather have fast food, watch a film, skip the gym etc. because it's quick and easy for them to gain a little bit of satisfaction.
+item8925	Rather than have a little bit of discipline to take the slightly more boring and difficult option in the short term, but ultimately achieve a higher level of happiness later on in life.
+item8926	All good things take time.

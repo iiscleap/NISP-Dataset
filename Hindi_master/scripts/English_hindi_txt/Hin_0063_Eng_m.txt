@@ -1,0 +1,41 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item6835	Discoveries from genetics over the last decade or so reveal that they didn't completely go extinct.
+item6836	Tomorrow, Adidas and Nike may well start manufacturing them en masse. 
+item6837	This technological nirvana carries dangerous implications for developing nations. 
+item6838	And scientists hope to unlock those secrets and use them to treat the problems that DNA is already solving in sharks.
+item6839	The Taliban has unequivocally renounced ties with al-Qaeda and the Islamic State, and committed to preventing Afghan soil from being used by foreign terrorists. 
+item6840	Egypt had begun nominal attempts at ushering in a multi-party system in two thousand five , when Mr. Mubarak got himself elected for a fifth term.
+item6841	 The inn had been set up in nineteen twenty and was then known as the Aziz Bhat Sarai.
+item6842	 We certainly could do with more publicity.
+item6843	Rather than elevating and enthroning the mother and child among a choir of angels, as was expected, Leonardo fossicks from the depths of his imagination a grotty and comfortless grotto.
+item6844	Although album covers are generally made of recyclable cardboard, records were originally made of shellac, before non-recyclable vinyl was used as a replacement.
+item6845	Starting with a pool of tracks verified as having a particular emotional quality, for example a list of sad songs collated using mood word tags applied by human listeners, its possible for a computational model to automatically learn a mapping between music clips and their respective emotions, Professor Paiva explains.
+item6846	And there were ghost species that we only pick up from traces left in the genes of descendants.
+item6847	 But within a few months, he declared himself President for life.
+item6848	 Mayawati made demands that the party could not accommodate.
+item6849	 The State should revoke its vengeful detention order. 
+item6850	 What can be done?
+item6851	That is not to say that pupil dilation has no psychological meaning.
+item6852	"Several species of beech trees are known to be vulnerable to this mysterious killer.
+item6853	We know that Bifidobacterium are able to digest components found in breast milk.
+item6854	However, McDonald adds, it's unclear if and how radically switching from a diet high in plant-based food to a diet low in healthy food would change the microbiome.
+item6855	In a pond was a large community of aquatic animals who all loved to play with each other.
+item6856	 One day, two fishermen see the pond and the animals at play and talk about fishing at the pond but they leave as it was late.
+item6857	 The frog tells everyone they must escape before the fishermen come back.
+item6858	 However, everyone is sure of their ability to escape and decide to stay.
+item6859	 The fishermen come the next day with strong nets and catch everyone except the frog who had left the pond.
+item6860	Moral:It is better to err on the right side of caution.
+item6861	 Assessing risks is a vital part of life.
+item6862	 There was a small creek over which was a fallen tree.
+item6863	 A goat decides to cross the creek by walking over the tree.
+item6864	 However, from the other side, another goat had the same idea and was crossing too.
+item6865	 The fallen tree was not wide enough for them to pass each other, and they were too proud and stubborn to let the other one go.
+item6866	 They readied their horns and charged at each other over and over with much force.
+item6867	 Soon, the tree broke and both goats fell into the creek.
+item6868	Moral:Being stubborn will not take you far.
+item6869	 If you value your pride over everything else, you will suffer.

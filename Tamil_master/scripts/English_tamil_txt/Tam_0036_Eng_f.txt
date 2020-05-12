@@ -1,0 +1,43 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9279	Nations must acknowledge this eventuality, the IACG says, and act to fight it.
+item9280	For high- and mid-income nations, the price of prevention, at dollar two per head a year, is extremely affordable.
+item9281	For poorer countries, the price is higher but still modest compared to the costs of an antibiotic apocalypse.
+item9282	India first published almost nine years ago the broad contours of a plan to fight antimicrobial resistance.
+item9283	The difficulty has been in implementing it, given the twin challenges of antibiotic overuse and underuse.
+item9284	On the one hand, many Indians still die of diseases like sepsis and pneumonia because they don’t get the right drug at the right time.
+item9285	On the other hand, a poorly regulated pharmaceutical industry means that antibiotics are freely available to those who can afford them.
+item9286	The IACG report acknowledges these obstacles, and calls for efforts to overcome them.
+item9287	Some steps can be initiated right away, it says, such as phasing out critical human-use antibiotics in the animal husbandry sector, such as quinolones.
+item9288	But these steps cannot be driven by regulation alone.
+item9289	A multi-stakeholder approach, involving private industry, philanthropic groups and citizen activists is needed.
+item9290	Private pharmaceutical industries must take it upon themselves to distribute drugs in a responsible manner.
+item9291	Philanthropic charities must fund the development of new antibiotics, while citizen activists must drive awareness.
+item9292	These stakeholders must appreciate that the only way to postpone resistance is through improved hygiene and vaccinations.
+item9293	It is a formidable task as India still struggles with low immunisation rates and drinking water contamination.
+item9294	But it must consider the consequences of a failure.
+item9295	While the two thousand eight-nine financial crisis caused global hardships, its effects began to wear off by twenty eleven.
+item9296	Once crucial antibiotics are lost to humankind, they may be lost for decades.
+item9297	Two years after the Belt and Road Initiative forum was unveiled with fanfare, Chinese President Xi Jinping’s address to the second BRI forum was a clear indication that Beijing is coming to terms with the pushback his ambitious project has received.
+item9298	Mr.Xi’s speech to thirty seven heads of government and the UN Secretary General and the IMF Managing Director had many significant takeaways, including a stated commitment to “transparency and sustainability�? of BRI projects, and to greater debt sustainability in the “financing model�? of the Belt and Road under new guiding principles.
+item9299	Since twenty seventeen, India, the U.S.and other countries have been critical of the lack of transparency with which many of the BRI projects were negotiated with governments.
+item9300	Sri Lanka, the Maldives, and Malaysia had second thoughts on some of the infrastructure projects over fears of a “debt trap�?, and allegations of corruption in BRI projects became election issues.
+item9301	In April last year, European Union Ambassadors to Beijing issued a statement saying the BRI ran “counter�? to their agenda for liberalising trade and “pushed the balance of power in favour of subsidised Chinese companies�?.
+item9302	After Central Asia and South East Asia, China’s biggest foray is into Europe, and the criticism did not go unheeded by Beijing.
+item9303	China agreed to renegotiate terms on projects, reached out to regional organisations like the Arab and African forums and the EU, where Premier Li Keqiang pledged to “respect EU rules and standards�? at a summit of “seventeen+ one �? Central and Eastern European countries that are part of the BRI.
+item9304	There once was a little boy who had a very bad temper. His father decided to hand him a bag of nails and said that every time the boy lost his temper, he had to hammer a nail into the fence.
+item9305	On the first day, the boy hammered 37 nails into that fence.
+item9306	The boy gradually began to control his temper over the next few weeks, and the number of nails he was hammering into the fence slowly decreased.
+item9307	He discovered it was easier to control his temper than to hammer those nails into the fence.
+item9308	Finally, the day came when the boy didn’t lose his temper at all. 
+item9309	He told his father the news and the father suggested that the boy should now pull out a nail every day he kept his temper under control.
+item9310	The days passed and the young boy was finally able to tell his father that all the nails were gone. 
+item9311	The father took his son by the hand and led him to the fence.
+item9312	“you have done well, my son, but look at the holes in the fence. The fence will never be the same. 
+item9313	When you say things in anger, they leave a scar just like this one. You can put a knife in a man and draw it out. 
+item9314	It won’t matter how many times you say I’m sorry, the wound is still there.�?
+item9315	Moral of the story: Control your anger, and don’t say things to people in the heat of the moment, that you may later regret. Some things in life, you are unable to take back.

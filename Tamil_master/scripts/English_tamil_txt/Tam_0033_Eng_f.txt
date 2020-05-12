@@ -1,0 +1,40 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item9177	Governance has broken down, with state institutions at war against one another.
+item9178	Mr.Guaid is the President of the National Assembly and has the support of most Opposition parties.
+item9179	Mr.Maduro has the support of the executive branch, the military and the judiciary.
+item9180	While they fight, the most pressing problems remain unaddressed.
+item9181	Inflation is sky-high, food and medicine are scant, and millions have fled the country owing to its economic woes.
+item9182	Mr.Guaid says he will solve the problems after Mr.Maduro is ousted.
+item9183	But the way he is trying to achieve his goal has pushed the country deeper into misery.
+item9184	The Opposition miscalculated the durability of the Maduro regime.
+item9185	Mr.Maduro's Socialist Party, thanks to the pro-poor policies under his predecessor Hugo Chavez, still commands loyal support among sections of society, especially among the poor.
+item9186	Second, even if the Opposition parties' narrative that Mr.Maduro lacks legitimacy is accepted, the military's support is pivotal if they want to remove him by force.
+item9187	Repeated attempts by Mr.Guaid to win over the military have failed.
+item9188	Third, his over-reliance on the U.S.seems to have backfired.
+item9189	It only strengthened Mr.Maduro's argument that imperialists? are behind the chaos.
+item9190	Mr.Maduro also has the backing of Russia, China and Cuba.
+item9191	The way forward is not further clashes, but mutual talks aimed at resolving their differences and giving primacy to rebuilding both the economy and the governance system.
+item9192	If they continue on the path of confrontation, Venezuela will be in permanent crisis.
+item9193	The final month of financial year twenty eighteen-nineteen has given the government some reason for cheer.
+item9194	Targets for indirect tax collections may have been missed for the last year, but collections from the Goods and Services Tax in April for economic activity in March scaled a new high.
+item9195	The GST inflows of rupees one point two lakh crore in April are the highest recorded since the tax regime was introduced in July twenty seventeen.
+item9196	They represent an increase of over ten percent compared to the same month a year ago, and over fifteen percent buoyancy over the average monthly GST collections in twenty eighteen-nineteen of rupees ninety nine crore.
+item9197	To be clear, GST revenues have crossed the rupees one lakh crore mark in March, January and October as well.
+item9198	The government has acknowledged that economic growth did slow down in twenty eighteen-nineteen, owing to declining private consumption growth, a tepid increase in fixed investments and muted exports.
+item9199	The hope would be that the latest GST numbers are a harbinger of better growth momentum for twenty nineteen-twenty.
+item9200	The growth rate of the economy fell from eight percent in the first quarter to seven percent in the second and six percent in the third, so any improvement in the final quarter numbers due at the end of May should provide some succour.
+item9201	Healthier GST collections, if sustained, will also mean less pressure on the Centre to cover its fiscal deficit.
+item9202	There was a farmer who sold a pound of butter to a baker. 
+item9203	One day the baker decided to weigh the butter to see if he was getting the right amount, which he wasn't. 
+item9204	Angry about this, he took the farmer to court.
+item9205	The judge asked the farmer if he was using any measure to weight the butter. 
+item9206	The farmer replied, Honor, I am primitive. I don't have a proper measure, but I do have a scale.?
+item9207	The judge asked, Then how do you weigh the butter??
+item9208	The farmer replied; Your Honor, long before the baker started buying butter from me, I have been buying a pound loaf of bread from him. 
+item9209	Every day when the baker brings the bread, I put it on the scale and give him the same weight in butter. If anyone is to be blamed, it is the baker.?
+item9210	Moral of the story: In life, you get what you give. Don't try and cheat others.

@@ -1,0 +1,49 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item0851	The company said its quarterly cash dividend of forty cents a share will be paid before the split ,comma on september tenth ,comma to stock of record on august nineteenth .Period 
+item0852	Both note issues will pay accrued interest from last thursday 
+item0853	What we don't know is how much is price and how much is volume 
+item0854	U.S. analysts aren't certain whether the Soviets and china will support the embargo resolution 
+item0855	"double-quote the yen's appreciation is no doubt responsible ,comma at least in part ,comma for this ,comma "double-quote a ministry official said .Period 
+item0856	The department previously said jobs rose by four hundred forty eight thousand in January 
+item0857	There were thirteen point nine million crimes reported in nineteen eighty eight 
+item0858	The third party wasn't identified 
+item0859	And a third is if george bush wins the presidential election 
+item0860	The yield on the latest thirty year treasury bonds surged to eight point eight three percent from eight point five six percent a week earlier 
+item0861	A clerk for judge irving said donaldson lufkin will likely appeal the ruling directly to judge irving .Period 
+item0862	But burnup &ampersand sims management wanted nothing to do with him ,comma and at one point ,comma eighteen top burnup &ampersand sims quit in protest .Period 
+item0863	They vote on a sense of leadership 
+item0864	The notes will bear interest at eight point five five percent payable february first and august first of each year beginning february first nineteen ninety 
+item0865	"double-quote they never tried to solve the problem ,comma "double-quote says warren w. williams of burson -hyphen marsteller ,comma a public -hyphen relations firm .Period 
+item0866	"double-quote but as a boss ,comma I pick my spots to be tough ,comma "double-quote he adds .Period 
+item0867	"double-quote of course ,comma "double-quote he quickly adds ,comma "double-quote I don't see myself as a robber baron in any way ,comma shape or form .Period "double-quote 
+item0868	And who did n. p. m. choose to run triangle ?question-mark 
+item0869	The first sales are expected to go to market sometime this summer 
+item0870	Chrysler corporation is negotiating in Canada this year although its U.S. contract doesn't expire until nineteen eighty eight .Period 
+item0871	"double-quote I never got the overwhelming sense "double-quote that he was eager to succeed Mr. flavin ,comma says christopher demisch ,comma an analyst at first boston corporation .Period 
+item0872	"double-quote the mark has been strong against most european currencies ,comma not just against the franc .Period 
+item0873	They imported quality -hyphen control experts from the U.S. .Period 
+item0874	Under the proposed transaction the los angeles group would acquire the K. H. J. license and then sell itself to disney 
+item0875	"double-quote there is a great deal of speculation as to what the actual level is ,comma "double-quote he said .Period 
+item0876	I had almost avoided the general election, but some of its consequences, on my return, had smartly to be faced. 
+item0877	The season, in London, began to breathe again and to flap its folded wings. 
+item0878	Confidence, under the new Ministry, was understood to be reviving, and one of the symptoms, in a social body, was a recovery of appetite.
+item0879	People once more fed together, and it happened that, one Saturday night, at somebody's house, I fed with George Gravener. 
+item0880	When the ladies left the room I moved up to where he sat and begged to congratulate him. 
+item0881	"On my election?" he asked after a moment; so that I could feign, jocosely, not to have heard of that triumph and to be alluding to the rumour of a victory still more personal. 
+item0882	I dare say I coloured however, for his political success had momentarily passed out of my mind. 
+item0883	What was present to it was that he was to marry that beautiful girl; 
+item0884	And yet his question made me conscious of some discomposure--I hadn't intended to put this before everything. 
+item0885	He himself indeed ought gracefully to have done so, and I remember thinking the whole man was in this assumption that in expressing my sense of what he had won I had fixed my thoughts on his "seat." 
+item0886	We straightened the matter out, and he was so much lighter in hand than I had lately seen him that his spirits might well have been fed from a twofold source. 
+item0887	He was so good as to say that he hoped I should soon make the acquaintance of Miss Antony, who, with her aunt, was presently coming up to town. 
+item0888	Lady Jane, in the country, had been seriously unwell, and this had delayed their arrival. 
+item0889	I told him I had heard the marriage would be a splendid one; on which, brightened and humanised by his luck, he laughed and said "Do you mean for HER?" 
+item0890	When I had again explained what I meant he went on: "Oh she's an American, but you would scarcely know it; unless, perhaps," he added, 
+item0891	By her being used to more money than most girls in England, even the daughters of rich men. 
+item0892	That would not in the least do for a fellow like me, you know, if it wasn't for the great liberality of her father. 
+item0893	He really has been most kind, and everything's quite satisfactory."

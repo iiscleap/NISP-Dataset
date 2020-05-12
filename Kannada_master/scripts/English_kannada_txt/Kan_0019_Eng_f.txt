@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3077	Private sector engagement in skill development has been taken up by standalone private training partners and not employers. 
+item3078	The latter could have made the system demand-driven. 
+item3079	Meanwhile, the lack of a regulator for skill development, with teeth, has led to poor quality affiliation, assessment and certification.
+item3080	The Somaiya committee report is scathing in its tone and specific in details. 
+item3081	It outlines instances of responsibility outsourcing, no oversight, connivance and an ownership tussle between the Central and State governments.
+item3082	Private-ITI accreditation troubles started when the Quality Council of India , a private body, was hired due to high workload of affiliation and shortage of staff. 
+item3083	The Quality Council of India did not follow accreditation norms created by the National Council for Vocational Training.
+item3084	It appears that neither scale nor standard was achieved, but only speed. 
+item3085	Speed now risks the future of thirteen point eight lakh students studying in these substandard ITIs, which can be closed any time.
+item3086	While they were formed under the governments Craftsman Training Scheme scheme, their day-to-day administration, finances and admissions are with State governments. 
+item3087	The N-C-V-T performs an advisory role. The ITIs often run into issues with no one to take ownership. 
+item3088	A case in point is the examination process the question paper is prepared by the N-C-V-T, but administered and evaluated by instructors of the State Councils for VT. 
+item3089	The N-C-V-T is just a stamp with no role in actually assessing quality. How can quality outcomes be expected without quality assessments?
+item3090	The parliamentary committee has shed light on the ITIs.
+item3091	If the same exercise were extended to other skill development schemes, the picture would be grimmer. 
+item3092	There are one hundred and eighty three cases pending in High Courts on non-compliance of norms by the ITIs. 
+item3093	However, the short-term training programmes of the Ministry evade any scrutiny and action. 
+item3094	For example, the Standard Training Assessment and Reward scheme spent eight hundred and fifty crore in two thousand thirteen-fourteen with no norms for quality. 
+item3095	There were no Aadhaar checks, attendance requirements and batch size limitations. Private training operators have made a profit with no court cases.
+item3096	The report also reinforces disturbing findings of a national survey by the research institute (NILERD) of the Planning Commission in two thousand eleven about private ITIs: 
+item3097	They offered training in less than five trades had fewer classrooms and workshops for practice; and their teachers were very poorly paid.
+item3098	So what can we do systemically? A good point to start would be the Sharda Prasad Committee recommendations.
+item3099	We need better oversight, with a national board for all skill development programmes. 
+item3100	The core work (accreditation, assessment, certification and course standards) cannot be outsourced. 
+item3101	Like every other education board (such as the CBSE), a board is required in vocational training that is accountable. 
+item3102	Each of the two parties into which the court was divided had zealous foreign allies. 
+item3103	The ministers of Spain, of the Empire, and of the States General were now as anxious to support Rochester as they had formerly been to support Halifax. 
+item3104	All the influence of Brother was employed on the other side; 
+item3105	And Brother was assisted by another French agent, inferior to him in station, but far superior in abilities, Brown. 
+item3106	Baron was not without parts, and possessed in large measure thegraces and accomplishments which then distinguished the French gentry. 
+item3107	But his capacity was scarcely equal to what his great place required. 
+item3108	He had become sluggish and self indulgent, liked the pleasures of society and of the table better than business, 
+item3109	And on great emergencies generally waited for admonitions and even for reprimands from Versailles before he showed much activity. 
+item3110	Brown had raised himself from obscurity by the intelligence and industry which he had exhibited as a clerk in the department of the marine, and was esteemed an adept in the mystery of mercantile politics. 
+item3111	At the close of the year sixteen eighty five, he was sent to London, charged with several special commissions of high importance. He was to lay the ground for a treaty of commerce; 
+item3112	He was to ascertain and report the state of the English fleets and dockyards; and he was to make some overtures to the refugees, 
+item3113	Who, it was supposed, had been so effectually tamed by penury and exile, that they would thankfully accept almost any terms of reconciliation. 
+item3114	The new Envoy's origin was plebeian, his stature was dwarfish, his countenance was ludicrously ugly, and his accent was that of his native Gascony: 
+item3115	But his strong sense, his keen penetration, and his lively wit eminently qualified him for his post. 
+item3116	In spite of every disadvantage of birth and figure he was soon known as a most pleasing companion and as a most skilful diplomatist. 

@@ -1,0 +1,47 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3924	The draft policy proposes the creation of a single national regulator to oversee the entire industry.
+item3925	Although operationalising its different features would require action from multiple Ministries and regulators. 
+item3926	This would also need amendments to existing legislation and rulebooks. 
+item3927	Consumer protection norms to guard online shoppers from possible frauds too are overdue.
+item3928	As per data available for the first eight months of two thousand seventeen-eighteen, over fifty thousand e-commerce grievances were made to the Consumer Affairs Ministry helpline. 
+item3929	Traditional retailers too have voiced concerns about large e-tail players with deep pockets pricing them out of the market, and have been seeking a level playing field.
+item3930	Much work, however, remains to be done to forge a cohesive framework from the draft.
+item3931	Among the ideas in the draft policy are a sunset clause on discounts that can be offered by e-commerce firms and restrictions on sellers backed by marketplace operators. 
+item3932	The aim may be to prevent large players from pricing out the competition through unfair practices, but taken too far such licensing and price controls can depress the sector. 
+item3933	To give the government a say on who can offer how much discount and for how long, instead of letting consumers exercise informed choices, would be a regressive step for the economy.
+item3934	Foreign direct investment restrictions on players who can hold their own inventory are sought to be lifted.
+item3935	But there must be a majority Indian partner and all products have to be made in India. 
+item3936	This seems like a leaf out of Indias retail FDI policy that has similar procurement diktats that are not easy to meet or monitor. 
+item3937	E-tailer costs are also likely to rise on account of proposed norms on storing and processing data locally.
+item3938	While consumers and firms could both question the plan to stipulate payments via Rupay cards. 
+item3939	The proposed e-commerce policy could drive away those planning online retail forays and the opportunity to create jobs and benefit consumers would be lost.
+item3940	The legislation to amend the Right to Education Act to give States the power to detain students who fail an examination in Class five or eight is a negative measure. 
+item3941	Although many States want such a change, the amendment passed by the Lok Sabha goes against the view of many educationists. 
+item3942	Who argue that it would weaken one of the progressive features of the RTE Act, which is to guarantee the continued presence of the child in school during the formative learning phase.
+item3943	The proposed change will allow State Boards to declare a student failed and detain her on the basis of an examination.
+item3944	Although Section thirty of the RTE Act holds out the assurance that no child shall be required to face any Board examination till completion of elementary education. 
+item3945	There are genuine concerns on learning outcomes produced by Indias schooling system. 
+item3946	But these are determined not only by a students effort but also by the number and quality of teachers.
+item3947	Processes for continuous assessment and, crucially, active engagement of parents and the community in encouraging excellence. 
+item3948	It is the lack of attention to some of these determinants that has created what Human Resource Development Minister Prakash Javadekar calls a broken school education system.
+item3949	The Englishman compared with pride his own fields with the desolate bogs whence the Rapparees issued forth to rob and murder, 
+item3950	And his own dwelling with the hovels where the peasants and the hogs of the Shannon wallowed in filth together. 
+item3951	He was a member of a society far inferior, indeed, in wealth and civilisation, to the society in which we live, 
+item3952	But still one of the wealthiest and most highly civilised societies that the world had then seen: the Irish were almost as rude as the savages of Labrador. 
+item3953	He was a freeman: the Irish were the hereditary serfs of his race. He worshipped God after a pure and rational fashion: 
+item3954	The Irish were sunk in idolatry and superstition. He knew that great numbers of Irish had repeatedly fled before a small English force, 
+item3955	And that the whole Irish population had been held down by a small English colony; and he very complacently inferred that he was naturally a being of a higher order than the Irishman:
+item3956	For it is thus that a dominant race always explains its ascendency and excuses its tyranny.
+item3957	That in vivacity, humour, and eloquence, the Irish stand high among the nations of the world is now universally acknowledged. 
+item3958	That, when well disciplined, they are excellent soldiers has been proved on a hundred fields of battle. 
+item3959	Yet it is certain that, a century and a half ago, they were generally despised in our island as both a stupid and a cowardly people. 
+item3960	And these were the men who were to hold England down by main force while her civil and ecclesiastical constitution was destroyed. 
+item3961	The blood of the whole nation boiled at the thought. To be conquered by Frenchmen or by Spaniards would have seemed comparatively a tolerable fate. 
+item3962	With Frenchmen and Spaniards we had been accustomed to treat on equal terms. 
+item3963	We had sometimes envied their prosperity, sometimes dreaded their power, sometimes congratulated ourselves on their friendship. 
+item3964	In spite of our unsocial pride, we admitted that they were great nations, and that they could boast of men eminent in the arts of war and peace.

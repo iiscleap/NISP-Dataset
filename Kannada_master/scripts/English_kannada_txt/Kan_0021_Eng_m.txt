@@ -1,0 +1,46 @@
+item0000	Tradition requires parental approval for under-age marriage.
+item0001	The clumsy customer spilled some expensive perfume. 
+item0002	Grand auto slid three to fifteen and one eighth on the American Stock Exchange 
+item0003	The company which runs retail automotive stores told Shearson Lehman Brothers its financial adviser to terminate discussions to sell the firm 
+item0004	She had your dark suit in greasy wash water all year. 
+item0005	Don't ask me to carry an oily rag like that.
+item3158	Data show that thirteen point eight lakh students in the ITIs are suffering due to poor institutional accreditation. 
+item3159	Placement in NSDC training has been less than Fifteen percent. Maybe if we take care of the present, we will be better prepared for the future.
+item3160	Santosh Mehrotra is Professor of Economics, Centre for Labour, Jawaharlal Nehru University, and a lead author of the National Skills Qualification Framework. 
+item3161	Ashutosh Pratap works on skills and jobs issues and has worked with the Expert Committee.
+item3162	The decision by the Reserve Bank of Indias Monetary Policy Committee to raise benchmark interest rates again by twenty five basis points is a prudent one. 
+item3163	This is the second successive rate increase in as many months, a response to mounting uncertainties on the inflation front. 
+item3164	Continuing volatility in crude oil prices, the recent softening notwithstanding, and its vulnerability to geopolitical tensions and supply disruptions is one of the main risks to the inflation outlook. 
+item3165	Among the RBIs other concerns are volatile global financial markets, possibilities of fiscal slippage at the Central and State levels, 
+item3166	The likely impact of the increase in the minimum support price for kharif crops, and the staggered impact of upward revisions to house rent allowance paid by State governments.
+item3167	Rainfall has so far been six percent below the long-period average and deficient over a wider area than last year more than a fifth of the countrys thirty six sub-divisions have reported shortfalls.
+item3168	This has resulted in a drop in the total sown area under kharif. 
+item3169	The monetary authority has flagged the need to keep a close watch on rain over the remainder of the season, given the risks regional imbalances may pose to paddy output and CPI inflation. 
+item3170	The June round of the RBIs own survey of household inflation expectations reveals that families see prices hardening even further over both the three- and twelve-month horizons. 
+item3171	Domestic economic activity having strengthened to a point where the output gap has virtually closed.
+item3172	Manufacturers polled by the central bank have reported higher input costs and selling prices over the April-June quarter.
+item3173	Policymakers on the MPC have understandably spotlighted the risks to the domestic economic rebound from global developments. 
+item3174	While rising trade protectionism threatens to impact investment flows, disrupt global supply chains and hurt all-round productivity, 
+item3175	Depreciations in the value of most currencies against the strengthening dollar have rippled through many major advanced and emerging economies, spurring inflation across these markets. 
+item3176	The MPCs primary remit is to ensure that retail inflation stays firmly within a band of two to six percent, and preferably anchored at four percent over the medium term. 
+item3177	So there is no room to quibble over the committees majority decision to raise borrowing costs while retaining a neutral policy stance. 
+item3178	With inflation widely accepted as a hidden tax on the poor, the containment of price gains justifiably ought to be the reason of monetary policy.
+item3179	Resolution of the Ethiopia-Eritrea conflict brings hope for stability and development.
+item3180	Ethiopias decision this month to implement an earlier peace agreement with neighbouring Eritrea brokered by the African Union brings hope, despite the problems that loom ahead. 
+item3181	The agreement signed by the two countries in Algiers in December two thousand was intended to bring an end to a conflict triggered by Eritrea, but the pact was never fully implemented. 
+item3182	The two neighbours remained deadlocked in a conflict that has over time claimed more than fifty thousand lives over a dispute concerning the border town of Badme. 
+item3183	Her office was to direct the jealousy of the injured wife towards a young lady who was perfectly innocent. 
+item3184	The whole court took notice of the coldness and rudeness with which the Queen treated
+item3185	the poor girl on whom suspicion had been thrown: 
+item3186	But the cause of Her Majesty's ill humour was a mystery. 
+item3187	For a time the intrigue went on prosperously and secretly. 
+item3188	Catharine often told the King lainly what the Protestant Lords of the Council only dared to hint in the most delicate phrases. 
+item3189	His crown, she said, was at stake: the old dotard Arundell and the blustering Thomas would lead him to his ruin. 
+item3190	It is possible that her caresses might have done what the united exhortations of the Lords and the Commons, of the House of Austria and the Holy See, 
+item3191	Had failed to do, but for a strange mishap which changed the whole face of affairs. 
+item3192	James, in a fit of fondness, determined to make his mistress Countess of Dorchester in her own right. 
+item3193	Catharine saw all the peril of such a step, and declined the invidious honour. 
+item3194	Her lover was obstinate, and himself forced the patent into her hands. 
+item3195	She at last accepted it on one condition, which shows her confidence in her own power and in his weakness. 
+item3196	She made him give her a solemn promise, not that he would never quit her, but that, if he did so, 
+item3197	He would himself announce his resolution to her, and grant her one parting interview.
