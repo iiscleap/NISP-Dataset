@@ -33,12 +33,12 @@ There are five folders in "NISP" folder, where each native language folder has s
   
     ├── Hindi_master
     │   ├── Hindi  
-    │   ├──   ├── RECS        
-    │   └── English_Hindi
-    │   ├──   ├── RECS
+    │   ├──  └── RECS        
+    │   ├── English_Hindi
+    │   ├──  └── RECS
     │   ├── scripts
-    │   ├──   ├── Hindi_txt
-    │   ├──   ├── English_hindi_txt
+    │   ├──   └── Hindi_txt
+    │   ├──   └── English_hindi_txt
     
 For each Speaker ID the saving format of the file is like as follows :
 (Native language)_(Speaker ID)_(language recorded)_(gender)_(Utterance ID)
