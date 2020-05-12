@@ -28,27 +28,17 @@ For each speaker following parameters were collected.   This information is pres
 
 The recordings were performed in separate sessions for native language and English.  
 There are five folders in "NISP" folder, where each native language folder has speech files and corresponding transcripts files in "Scripts" folder.  The details of the folder is as follows
-Eg:
-NISP |
+<br> Eg: 
 <br>
-     |-->Hindi_master
-     <br>
-	      |--> English_Hindi
-	      <br>
-		          |--RECS tar files
-			  <br>
-	      |--Hindi
-	      <br>
-		          |--RECS tar files
-			  <br>
-	      |--scripts
-	      <br>
-		          |--English_hindi_txt
-			  <br>
-		          |--HINDI_txt
-			  <br>
-
-
+.
++-- _Hindi_master
+|   +-- English_Hindi
+|   +-- | +-- RECS
+|   +-- Hindi
+|   +-- | +-- RECS
+|   +-- scripts
+|   +-- | +-- English_hindi_txt
+|   +-- | +-- Hindi_txt
 
 For each Speaker ID the saving format of the file is like as follows :
 (Native language)_(Speaker ID)_(language recorded)_(gender)_(Utterance ID)
