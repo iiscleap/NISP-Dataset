@@ -74,4 +74,4 @@ test_spkrID -- list of test speakers
 train_spkrID -- list of train speakers
 
 Note: Other lingusitic details and regional details are provided in individual files in each native language Master folder.
-
+This Dataset paper is available in ArXiv with this link : https://arxiv.org/abs/2007.06021
