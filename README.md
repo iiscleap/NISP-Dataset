@@ -73,8 +73,7 @@ test_spkrID -- list of test speakers
 
 train_spkrID -- list of train speakers
 
-Note: Other lingusitic details and regional details are provided in individual files in each native language Master folder.
-      
+Note: Other lingusitic details and regional details are provided in individual files in each native language Master folder.      
       If any wav file missing in any of the languages but corresponding text file is available means treat that sentence is not recorded. 
 
 This Dataset paper is available in ArXiv with this link : https://arxiv.org/abs/2007.06021
