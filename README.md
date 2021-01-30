@@ -1,5 +1,5 @@
 # NISP-Dataset
-### NISP-A Multi-lingual Multi-accent Dataset for Speaker Profiling
+### NISP-A Multilingual Multi-accent Dataset for Speaker Profiling
 
 This dataset  contains speech recordings along with speaker physical parameters 
 (height, weight, .. )as well as regional information and linguistic information.
