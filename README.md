@@ -76,6 +76,19 @@ train_spkrID -- list of train speakers
 Note: Other lingusitic details and regional details are provided in individual files in each native language Master folder.      
       If any wav file missing in any of the languages but corresponding text file is available means treat that sentence is not recorded. 
 
-This Dataset paper is available in ArXiv with this link : https://arxiv.org/abs/2007.06021
+## How to extract the data
+```
+cat RECS.tar.gz.a* > Complete.tar.gz
+
+
+gzip -dc Complete.tar.gz | tar -xvzf - 
+```
+### Paper
+
+
+- This Dataset paper is available in ArXiv with this link : https://arxiv.org/abs/2007.06021
+- From IEEE Explorer : https://ieeexplore.ieee.org/document/9414349
+- Poster and video can be accessed from IEEE sigport : 
+- YouTube link : https://youtu.be/l4E5JfnyC78 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
